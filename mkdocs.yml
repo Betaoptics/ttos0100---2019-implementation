@@ -1,0 +1,4 @@
+
+site_name: TTOS0100 vaatimusmaarittely-demo 
+repo_url: https://gitlab.labranet.jamk.fi/TTOS0100/esimerkki-projekti-v1/
+markdown_extensions: [meta, toc, tables, fenced_code]
