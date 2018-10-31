@@ -1,7 +1,12 @@
+# Persoona XXXXXXX
 
-# Persoona 3
+![](https://openclipart.org/image/300px/svg_to_png/293286/Unknown-With-Background.png)
 
-![](https://openclipart.org/image/300px/svg_to_png/201539/diamonds-and-money.png&disposition=attachment)
+
+### Ryhmä/segmentti:
+
+* Millainen profiili on kyseessä ()
+
 
 ### Persoona
 
@@ -19,9 +24,6 @@ Taustaa henkilöstä
 
 * Millaisia arvoja henkilö arvostaa
 
-### Ryhmä/segmentti:
-
-* Millainen profiili on kyseessä ()
 
 ### Välineet ja vehkeet:
 
