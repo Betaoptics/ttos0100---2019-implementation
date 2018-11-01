@@ -17,7 +17,7 @@ Mahdollinen PetCapsule-yrittäjä
 ### Motiivi palvelun käyttöön?
 
 
-![](https://tenor.com/view/why-frustrated-but-why-gif-8326982)
+![](https://openclipart.org/image/300px/svg_to_png/291313/why.png)
 
 
 
