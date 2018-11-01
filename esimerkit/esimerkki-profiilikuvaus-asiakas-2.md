@@ -1,4 +1,4 @@
-# Persoona 2
+# Asiakas profiili 2
 
 ![](https://openclipart.org/image/300px/svg_to_png/315/TheresaKnott-worldlabel-ladyface.png&disposition=attachment)
 
@@ -17,7 +17,7 @@ Mahdollinen PetCapsule-yrittäjä
 ### Motiivi palvelun käyttöön?
 
 
-![](https://openclipart.org/image/300px/svg_to_png/291313/why.png)
+Helpottaa elämää ja tekee lemmikkien hoidon helpommaksi koko perheelle...
 
 
 
