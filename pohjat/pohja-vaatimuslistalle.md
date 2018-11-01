@@ -3,6 +3,8 @@
 Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 
 
+# Liiketoiminta/Asiakkaat/Rajoitteet
+
 **Asiakasvaatimukset**
 
 
@@ -38,7 +40,11 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 | REQCONS00006 | Constrain |  |  |
 
 
-## Toiminnalliset vaatimukset
+# Järjestelmän/Ohjelmiston vaatimukset
+
+
+
+### Toiminnalliset vaatimukset**
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
@@ -54,7 +60,7 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 | REQFUNC0010 | Functional Requirement | |
 
 
-## Ei-Toiminnalliset vaatimukset
+### Ei-Toiminnalliset vaatimukset
 
 
 **Tietoturva**
@@ -148,21 +154,3 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 | VA9902 | Functional Requirement | Ajonäytön on vaihduttava peruutustilaan ajosuunnan muuttuessa		|	Ajonäyttö UI |	[ft1](FT3-ominaisuus.md) |				
 | VA9903 | Functional Requirement | Ajonäytön käyttöliittymä on vikatilanteessa siirryttävä vikamoodiin |	Ajonäyttö UI |					
 
-
-
-# Vaatimustyypit:
-
-Asiakasvaat
-* Customer Requirement
-* 
-
-**Toiminnalliset vaatimukset**
-
-* Functional Requirement 
-
-**Ei-toiminnalliset vaatimukset**
-
-* Non-Functional Security
-* Non-Functional Performance
-* Non-Functional Safety
-* 
