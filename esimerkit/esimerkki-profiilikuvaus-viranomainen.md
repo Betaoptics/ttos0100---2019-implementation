@@ -1,5 +1,4 @@
 
-
 # Persoona 3
 
 ![](https://openclipart.org/image/300px/svg_to_png/201539/diamonds-and-money.png&disposition=attachment)
