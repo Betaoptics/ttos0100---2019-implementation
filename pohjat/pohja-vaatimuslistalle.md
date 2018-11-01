@@ -40,7 +40,31 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 | REQCONS00006 | Constrain |  |  |
 
 
-# Järjestelmän/Ohjelmiston vaatimukset
+# Järjestelmätason /Ohjelmiston vaatimukset
+
+**SYSTEM REQUIREMENTS**
+
+Tähän kerätään järjestelmän/palvelun vaatimuksia korkealla tasolla. 
+
+
+
+**Tekniset vaatimukset**
+
+Tekniset vaatimukset esitetään yleensä erillään ohjelmiston vaatimuksista. Ne liittyvät oleellisen osana
+järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
+
+* Suoritusympäristö (Linux, Windows, Pilvi etc)
+* Muisti (4GB, 16GB ?)
+* Suoritin (Intel/AMD/ARM ?)
+ 
+
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| REQ0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | |
+| REQ0002 | System Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
+| REQ0003 | System Requirement | | |
+| REQ0004 | System Requirement | | |
+| REQ0005 | System Requirement | | |
 
 
 
