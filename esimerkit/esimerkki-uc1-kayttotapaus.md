@@ -5,7 +5,7 @@ Esim. Käyttäjä lisää, muuttaa tai poistaa tietoja
 
 ## Kuva
 
-![](https://gitlab.labranet.jamk.fi/TTOS0100/vaatimusmaarittely-runko/raw/master/esimerkit/use-case-kirjautuminen.png?inline=false)
+![](kuva-use-case-kirjautuminen-palveluun.png)
 
 
 ### Laatija	
