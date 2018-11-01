@@ -5,7 +5,7 @@ Esim. Käyttäjä lisää, muuttaa tai poistaa tietoja
 
 ## Kuva
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Edit_an_article.svg/261px-Edit_an_article.svg.png)
+![](https://gitlab.labranet.jamk.fi/TTOS0100/vaatimusmaarittely-runko/raw/master/esimerkit/use-case-kirjautuminen.png?inline=false)
 
 Alkuperäinen lähde: wikipedia.org
 
