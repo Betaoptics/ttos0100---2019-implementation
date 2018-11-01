@@ -18,7 +18,7 @@ Mahdollinen PetCapsule-yrittäjä
 
 
 Helpottaa elämää ja tekee lemmikkien hoidon helpommaksi koko perheelle...
-
+Kiinnostus hyödyntää palvelua osana omaa palvelua
 
 
 ### Välineet ja vehkeet:
