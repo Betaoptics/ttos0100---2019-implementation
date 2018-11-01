@@ -1,7 +1,7 @@
 ### Testitapaus ID  : TCID1234
 
-  * Testitapauksen suunnittelija: NarsuMan
-  * Testitapauksen hyväksyjä: Tarhytti
+  * Testitapauksen suunnittelija: Tarhytti
+  * Testitapauksen hyväksyjä: NarsuMan
   * Luontipvm : 26.06.2015
 
 ### Päivityshistoria
@@ -13,21 +13,19 @@
 
 ### Testin kuvaus
 
-esim 1: Tarkista että kirjautumiseen kuluva aika ei ylitä 3 sekunnin rajaa alle palvelun ollessa kuormitettu alle 80 % 
-
-esim 2: Testataan kosteushälytyksen toiminta
+* esim 1: Tarkista että kirjautumiseen kuluva aika ei ylitä 3 sekunnin rajaa alle palvelun ollessa kuormitettu alle 80 % 
+* esim 2: Testataan kosteushälytyksen toiminta
 
 ### Testin tavoite
 
-esim 1: Tarkistetaan, että palvelun kuormitusaste ei vaikuta liiaksi kirjautumiseen käytettävään aikaan. Kirjatuminen testataan palvelun ollessa eri kuormitusasteilla. Mittaus tehdään käyttäjärajapinnasta.
-
-esim2: Tarkistetaan, että järjestelmään voidaa asettaa hälytysraja kosteudelle ja että ko hälytysrajan ylittyessä hälytys lähetetään ennalta määriteltyyn numeroon.
+* esim 1: Tarkistetaan, että palvelun kuormitusaste ei vaikuta liiaksi kirjautumiseen käytettävään aikaan. Kirjatuminen testataan palvelun ollessa eri kuormitusasteilla. Mittaus tehdään käyttäjärajapinnasta.
+* esim2: Tarkistetaan, että järjestelmään voidaa asettaa hälytysraja kosteudelle ja että ko hälytysrajan ylittyessä hälytys lähetetään ennalta määriteltyyn numeroon.
 
 ### Linkit
 
-  * Vaatimus: [REQID10202]() Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
-  * Käyttötapaus: [UC12345]()
-  * Ominaisuus: [XXXXX]()
+* Vaatimus: [REQ-01000](esimerkki-vaatimuslista.md) Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
+* Käyttötapaus: [UC12345](esimerkki-FT1-kayttotapaus.md)
+* Ominaisuus: [Ominaisuus FT1](esimerkki-FT1-ominaisuus.md)
 
 ### Alkutilanne (Pre-state): 
 
