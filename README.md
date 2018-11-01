@@ -5,7 +5,7 @@ Tämä projekti repositorio sisältää esimerkin vaatimusmäärittelystä, joss
 vaatimusmäärittely dokumentin etusivu löytyy nimellä "vaatimusmaarittely.md"
 
 
-## Tiedostostot ja tarkoistus
+## Tiedostostot ja tarkoitus
 
 Esimerkki tiedostoja voi tutkia ja käyttää ajatusten pohjana
 
