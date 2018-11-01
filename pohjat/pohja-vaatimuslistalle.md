@@ -83,12 +83,24 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQPERF0000 | Non-Functional Performance | Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia |  [Kirjatutuminen ft1](esimerkki-ft1-ominaisuus.md) | |	
-| REQPERF0001 | Non-Functional Performance | | | |
-| REQPERF0002 | Non-Functional Performance | | | |
-| REQPERF0003 | Non-Functional Performance | | | |
-| REQPERF0004 | Non-Functional Performance | | | |
-| REQPERF0005 | Non-Functional Performance | | | |
+| REQPERF0000 | Non-Functional Performance  | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | |								
+| REQPERF0001 | Non-Functional Performance  |  | |
+| REQPERF0002 | Non-Functional Performance  |  | |
+| REQPERF0003 | Non-Functional Performance  |  | |
+| REQPERF0004 | Non-Functional Performance  |  | |
+| REQPERF0005 | Non-Functional Performance  |  | |
+
+
+**Käytettävyys**
+
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| REQUSA0000 | Non-Functional Usability | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja |  [Kirjatutuminen ft1](esimerkki-ft1-ominaisuus.md) | |	
+| REQUSA0001 | Non-Functional Usability | | | |
+| REQUSA0002 | Non-Functional Usability | | | |
+| REQUSA0003 | Non-Functional Usability | | | |
+| REQUSA0004 | Non-Functional Usability | | | |
+| REQUSA0005 | Non-Functional Usability | | | |
 
 
 
@@ -111,46 +123,23 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 | REQTEST0004 | Non-Functional Testability |  |	 |	
 | REQTEST0005 | Non-Functional Testability |  |	 |	
 
-**Suorituskyky**
-
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| REQPERF0000 | Non-Functional Performance  | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | |								
-| REQPERF0001 | Non-Functional Performance  |  | |
-| REQPERF0002 | Non-Functional Performance  |  | |
-| REQPERF0003 | Non-Functional Performance  |  | |
-| REQPERF0004 | Non-Functional Performance  |  | |
-| REQPERF0005 | Non-Functional Performance  |  | |
 
 **Turvallisuus**
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQSAFETY0000 | Non-Functional Safety |  Tähän ei voida osoittaa turvallisuus vaatimuksia suoraan  |	|	
+| REQSAFETY0000 | Non-Functional Safety |  Tähän tuotteesen ei voida osoittaa turvallisuus vaatimuksia  |	|	
 | REQSAFETY0001 | Non-Functional Safety |   |	|	
 | REQSAFETY0002 | Non-Functional Safety |   |	|	
 | REQSAFETY0003 | Non-Functional Safety |   |	|	
 
 
+# Mekaaniikka vaatimukset 
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQTEST0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  |	 |	
-| VA5000 | Non-Functional Safety | Laitteen käynnistäminen on mahdollista vain XZ011-mallin virta-avaimella | |					 
-
-
-# Mekaaniset vaatimukset 
-
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| HWREQ000 | Mechanical Requirement | Kokoluokan LX mallien etuakselin leveys on minimissään 2 m 5 cm |		-	| 	
+| HWREQ000 | Mechanical Requirement |  |		-	| 	
 | VA5001 | Mechanical Requirements | Ohjaamon lukitusmekanisimin on oltava mekaaninen, koska tuote on tarkoitettu arktiseen käyttöön | | 								
-| VA3007 | Customer Requirement | Asiakkaalla on mahdollisuus valita tuotteelle mieleisensä väri | |
-| VA3008 | Customer Requirement | Asiakas voi halutessaan valita maalauksen käyttämällä apuna verkkosivuille integroitua virtuaalista “pienoismallia”. |								
 | VA3009 | Production Requirement | Asiakas voi valita osalle maalipinnoista eri värit |	|
 | VA3015 | Production Requirement | Asiakas ei voi vaihtaa konepeiton väriä ei voi vaihtaa, se on aina musta	|			|				
-| VA9900 | Business Goal | Mallin “X” tuotantokustannuksien on jäätävä alle 45000 €				|			|	
-| VA9901 | Functional Requirement  |  Ajonäytön on näytettävä nopeus 1 km tarkkudella								|  Ajonäyttö |
-| VA9902 | Functional Requirement | Ajonäytön on vaihduttava peruutustilaan ajosuunnan muuttuessa		|	Ajonäyttö UI |	[ft1](FT3-ominaisuus.md) |				
-| VA9903 | Functional Requirement | Ajonäytön käyttöliittymä on vikatilanteessa siirryttävä vikamoodiin |	Ajonäyttö UI |					
 
