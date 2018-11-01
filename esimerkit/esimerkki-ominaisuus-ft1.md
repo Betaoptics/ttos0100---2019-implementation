@@ -16,56 +16,50 @@ Täitä käyttötapauksia voidaan tarvittaessa soveltaa osana ominaisuuteen liit
 * [Use Case 3]()
 
 
-
 ### Alustavat käyttäjätarinat (User Storys)
 
-Ominaisuutta voidaan määritellä käyttäen suoraan User Story-kuvauksia. 
+Ominaisuutta voidaan määritellä käyttäen suoraan User Storyjen muodossa esim.
 
+__Käyttäjänä (Profiili 1-4) haluan voida kirjauta käyttäen Facebook-tunnuksia, koska en halua uusia tunnuksia palveluun__
+__Näkövammaisena (Profiili 5) käyttäjänä haluan, että voin kirjautua palveluun äänituen avulla__
+__Käyttäjän toivon, että palvelu kertoo kirjautumisen yhteydessä koska olen viimeksi ollut palvelussa__
 
-
-* _Käyttäjänä haluan, että lorem ipsum on näkyvillä koko käytön ajan, koska se tuo minulle turvallisen olon_
-* _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
-#3
 
 ### Käyttöliittymänäkymä/mock
 
 ![](https://openclipart.org/image/300px/svg_to_png/178764/1370010418.png&disposition=attachment)
 
+### Ominaisuuteen liittyvät vaatimukset
 
-### Ominaisuuteen liittyvät toiminnalliset vaatimukset
 
-**Esim**
-
-* Käyttäjä näkee jatkuvasti ruudulla "Lorem Ipsum"-viestin
-* Tervehdysviesti on pääkäyttäjän muokattavissa
-
-### Ominaisuuteen liittävät ei-toiminnalliset vaatimukset
-
-**Esim**
-
-* Uuden tervehdysviestin generointi saa kestää < 0.5 s
-* 
-
-### Ominaisuuteen liittyvät rajaukset
-
-* Tervehdysviestin muodon on noudatettava standardia ZZZ123.1
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| REQBUS0001 | Business Requirement | Palvelun kirjautuminen tulee olla helppoa, että voimme saavuttaa laajan käyttäjäkunnan = 35% kohderyhmästä | [Kirjautuminen ft1](ft1-ominaisuus.md) | 
+| REQCUST0001 | Customer Requirement | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvise häslätä | [Kirjautuminen ft1](ft1-ominaisuus.md) | 
+| REQ0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| REQCONS00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava AC5-2009-käytäntöä  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| REQ00100 | Non-Functional Recovery | Kirjautumis-palvelun on käynnistyttävä ensimmäisen palvelun ylösajon aikana | [Kirjautuminen ft1](ft1-ominaisuus.md)	 |							
+| REQTEST0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  | [Kirjautuminen ft1](ft1-ominaisuus.md)	 |	
+| REQUSA0000 | Non-Functional Usability | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja |  [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
+| REQPERF0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
+| REQSEC0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
+| REQFUNC0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](ft1-ominaisuus.md) |
 
 
 ### Testauksessa huomioitavaa:
 
-| Testi  | Testin lähde  | Kuka vastaa  |
+| Testi  | Mistä testin on johdettu  | 
 |:-: | :-:|:-:|
-| [Testitapaus 1]( FT1-testitapaus1.md)  | Use Case 1  |  |
-| [Testitapaus 2]( FT1-testitapaus2.md)  |  |  |
-| [Testitapaus 3]( FT1-testitapaus3.md)  | Use Case 2 |  |
-| [Testitapaus 4]( FT1-testitapaus4.md)  | Vaatimus REQ001 |  |
-| [Testitapaus 5]( FT1-testitapaus5.md)  |  |  |
-| [Testitapaus 6]( FT1-testitapaus6.md)  |  |  |
+| [Testitapaus 1](esimerkki-ft1-testitapaus.md)  | [Use Case 1](esimerkki-uc1-kayttotapaus.md)  |  |
+| [Testitapaus 2](esimerkki-ft1-testitapaus.md)  | [REQPERF0000]() |  |
+| [Testitapaus 3](esimerkki-ft1-testitapaus.md)  | [REQTEST0000]() |  |
+| [Testitapaus 4](esimerkki-ft1-testitapaus.md)  | [REQ00100]()]  |  |
+
 
 
 ### Status/Aikataulu/Roadmap
 
-| Status | |
-|:----:|:----:|
-| Hyväksytty/ Hylätty | - |
+Milloin ominaisuus on tarkoitus julkaista?
+
+
 
