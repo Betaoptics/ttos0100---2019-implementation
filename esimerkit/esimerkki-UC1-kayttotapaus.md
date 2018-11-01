@@ -8,7 +8,9 @@ Esim. Käyttäjä lisää, muuttaa tai poistaa tietoja
 ![](https://gitlab.labranet.jamk.fi/TTOS0100/vaatimusmaarittely-runko/raw/master/esimerkit/use-case-kirjautuminen.png?inline=false)
 
 
-### Laatija	Kirjataan laatijan nimi.
+### Laatija	
+
+Kirjataan laatijan nimi.
 
   * Päiväys / Versio	Kirjataan laatimispäivä ja versio.
   * Prosessi	Kuvataan mihin prosessiin käyttötapaus kuuluu.
@@ -16,10 +18,10 @@ Esim. Käyttäjä lisää, muuttaa tai poistaa tietoja
 	
 ### Käyttäjäroolit/toimijat/aktorit	
 
- Kuvataan käyttötapauksen käyttäjäroolit	Roolin oikeudet
+Kuvataan käyttötapauksen käyttäjäroolit	Roolin oikeudet
 
-* rooli 1	esim. käsittelijä	Luku- ja kirjoitusoikeudet
-* rooli 2	esim. toinen järjestelmä	Luku- ja kirjoitusoikeudet
+* rooli 1	esim. asiakasprofiili 1
+* rooli 2	esim. [Ylläpito](esimerkki-profiilikuvaus.md)
 * rooli 3	esim. pääkäyttäjä	Kaikki oikeudet
 
 ### Esitiedot/ehdot	
