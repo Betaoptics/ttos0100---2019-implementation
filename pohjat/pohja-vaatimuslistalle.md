@@ -25,7 +25,17 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 | REQBUS0004 | Business Requirement |  | |
 | REQBUS0005 | Business Requirement |  | |
 
+**Rajoitukset / Standardit**
 
+| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+|:-:|:-:|:-:|:-:|
+| REQCONS00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava AC5-2009-käytäntöä  |  |
+| REQCONS00001 | Constrain |  |  |
+| REQCONS00002 | Constrain |  |  |
+| REQCONS00003 | Constrain |  |  |
+| REQCONS00004 | Constrain |  |  |
+| REQCONS00005 | Constrain |  |  |
+| REQCONS00006 | Constrain |  |  |
 
 
 ## Toiminnalliset vaatimukset
@@ -100,8 +110,6 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 | VA9902 | Functional Requirement | Ajonäytön on vaihduttava peruutustilaan ajosuunnan muuttuessa		|	Ajonäyttö UI |	[ft1](FT3-ominaisuus.md) |				
 | VA9903 | Functional Requirement | Ajonäytön käyttöliittymä on vikatilanteessa siirryttävä vikamoodiin |	Ajonäyttö UI |					
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
 
 
 # Vaatimustyypit:
