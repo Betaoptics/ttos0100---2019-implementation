@@ -46,11 +46,11 @@ Ominaisuutta voidaan määritellä käyttäen suoraan User Storyjen muodossa esi
 | REQFUNC0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](ft1-ominaisuus.md) |
 
 
-### Testauksessa huomioitavaa:
+### Ominaisuuteen suunnitellut testitapaukset
 
 | Testitapaus  | Testin peruste/lähde   | - |
 |:-:|:-:|:-:|
-| [Testitapaus 1](esimerkki-ft1-testitapaus.md) | [Use Case 1](esimerkki-uc1-kayttotapaus.md)  |  |
+| [Testitapaus 1 - Kirjautuminen omalla tunnuksella kuormituksen aikana](esimerkki-ft1-testitapaus.md) | [Use Case 1](esimerkki-uc1-kayttotapaus.md)  |  |
 | [Testitapaus 2](esimerkki-ft1-testitapaus.md) | [REQPERF0000]() | |
 | [Testitapaus 3](esimerkki-ft1-testitapaus.md) | [REQTEST0000]() | |
 | [Testitapaus 4](esimerkki-ft1-testitapaus.md) | [REQ00100]()] | |
