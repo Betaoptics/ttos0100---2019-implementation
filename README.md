@@ -29,4 +29,4 @@ Esimerkki tiedostoja voi tutkia ja käyttää ajatusten pohjana
 
 ## Muut
 
- mkdocs.yml
+* mkdocs.yml - Tämä on - Read The Docs palvelua varten
