@@ -90,16 +90,54 @@ Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQ00100 | Non-Functional Recovery |	vesipumppaamon ohjausjärjestelmän käynnistyminen saa kestää max 5 minuuttia, koska viivästys voi pysäyttää ylemmän pumppaamon |	 |							
+| REQ00100 | Non-Functional Recovery | Kirjautumis-palvelun on käynnistyttävä ensimmäisen palvelun ylösajon aikana |	 |							
+| REQ00100 | Non-Functional Recovery | |	 |							
+
+
+**Testattavuus**
+
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| REQTEST0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  |	 |	
+| REQTEST0001 | Non-Functional Testability |  |	 |	
+| REQTEST0002 | Non-Functional Testability |  |	 |	
+| REQTEST0003 | Non-Functional Testability |  |	 |	
+| REQTEST0004 | Non-Functional Testability |  |	 |	
+| REQTEST0005 | Non-Functional Testability |  |	 |	
+
+**Suorituskyky**
+
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| REQPERF0000 | Non-Functional Performance  | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | |								
+| REQPERF0001 | Non-Functional Performance  |  | |
+| REQPERF0002 | Non-Functional Performance  |  | |
+| REQPERF0003 | Non-Functional Performance  |  | |
+| REQPERF0004 | Non-Functional Performance  |  | |
+| REQPERF0005 | Non-Functional Performance  |  | |
+
+**Turvallisuus**
+
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| REQSAFETY0000 | Non-Functional Safety |  Tähän ei voida osoittaa turvallisuus vaatimuksia suoraan  |	|	
+| REQSAFETY0001 | Non-Functional Safety |   |	|	
+| REQSAFETY0002 | Non-Functional Safety |   |	|	
+| REQSAFETY0003 | Non-Functional Safety |   |	|	
 
 
 
-
-| VA0053 | Mechanical Requirement | Kokoluokan LX mallien etuakselin leveys on minimissään 2 m 5 cm |		-	| 	
-| VA0054 | Mechanical Requirement | Kokoluokan LX-mallin taka-akselin leveys on 2 m 15 cm | - |		
-| VA0004 | Mechanical Requirement| Vetokoukun varaan voidaan kiinnittää maksimissaan 4 kertaa traktorin omaa painoa vastaava kuorma |								
-| VA9010 | Non-Functional Performance  | Kokoluokan LX-mallit saavuttavat max 60 km/h nopeuden |								
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| REQTEST0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  |	 |	
 | VA5000 | Non-Functional Safety | Laitteen käynnistäminen on mahdollista vain XZ011-mallin virta-avaimella | |					 
+
+
+# Mekaaniset vaatimukset 
+
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| HWREQ000 | Mechanical Requirement | Kokoluokan LX mallien etuakselin leveys on minimissään 2 m 5 cm |		-	| 	
 | VA5001 | Mechanical Requirements | Ohjaamon lukitusmekanisimin on oltava mekaaninen, koska tuote on tarkoitettu arktiseen käyttöön | | 								
 | VA3007 | Customer Requirement | Asiakkaalla on mahdollisuus valita tuotteelle mieleisensä väri | |
 | VA3008 | Customer Requirement | Asiakas voi halutessaan valita maalauksen käyttämällä apuna verkkosivuille integroitua virtuaalista “pienoismallia”. |								
