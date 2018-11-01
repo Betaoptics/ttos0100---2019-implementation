@@ -231,11 +231,13 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
+| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
+| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
+| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
+| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
+| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
+
 
 
 ## Palvelu MockUp-prototyyppi
