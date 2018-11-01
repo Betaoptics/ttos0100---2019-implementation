@@ -1,6 +1,6 @@
 # Asiakasprofiili 1
 
-![](https://openclipart.org/image/300px/svg_to_png/201539/diamonds-and-money.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/15008/tomas-arad-cartoon-man-portre.png)
 
 ### Persoona
 
