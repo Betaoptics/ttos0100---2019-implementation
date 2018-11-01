@@ -8,7 +8,6 @@
 | Palautuminen | REQ-00100 |	vesipumppaamon ohjausjärjestelmän käynnistyminen saa kestää max 5 minuuttia, koska viivästys voi pysäyttää ylemmän pumppaamon |								
 | Tietoturva | 	REQ-00120 |	Salasanassa on käytettävä vähintään MD5-tason salausta, koska järjestelmän tilaaja on niin toivonut | tähän linkki ominaisuuskuvaukseen [FT1](FT1-ominaisuus.md)								
 | Suorituskyky | REQ-01000 |	 Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia |	esim. linkki ominaisuuskuvaukseen [FT2](FT1-ominaisuus.md) |	
-
 | Toiminnallinen | VA0001 |	Traktori toimitetaan oletuksena aina neljällä pyörällä | [FT1](FT1-ominaisuus.md) |
 | Asiakasvaatimus | VA0042 | Kokoluokan LX mallit varustetaan oletuksena vetokoukulla |			
 | Rakennevaatimus | VA0053 | Kokoluokan LX mallien etuakselin leveys on minimissään 2 m 5 cm |				
