@@ -258,13 +258,12 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
-| [Ominaisuus 1 - Feature 1](FT1-ominaisuus.md) | | |
-| [Ominaisuus 2](FT2-ominaisuus.md) | | |
-| [Ominaisuus 3](FT3-ominaisuus.md) | | |
-| [Ominaisuus 4](FT4-ominaisuus.md) | | |
-| [Ominaisuus 5](FT5-ominaisuus.md) | | |
-| [Ominaisuus 6](FT6-ominaisuus.md) | | |
-| [Ominaisuus 7](FT7-ominaisuus.md) | | |
+| [Kirjatuminen - Feature 1](esimerkki-ominaisuus-ft1.md) | | |
+| [Ominaisuus 2 - Feature 2](esimerkki-ominaisuus-ft1.md) | | |
+| [Ominaisuus 3 - Feature 3](esimerkki-ominaisuus-ft1.md) | | |
+| [Ominaisuus 4 - Feature 4](esimerkki-ominaisuus-ft1.md) | | |
+| [Ominaisuus 5 - Feature 5](esimerkki-ominaisuus-ft1.md) | | |
+| [Ominaisuus 6 - Feature 6](esimerkki-ominaisuus-ft1.md) | | |
 
 
 
