@@ -48,8 +48,8 @@ Ominaisuutta voidaan määritellä käyttäen suoraan User Storyjen muodossa esi
 
 ### Testauksessa huomioitavaa:
 
-| Testi  | Mistä testin on johdettu  | 
-|:-: | :-:|:-:|
+| Testitapaus  | Testin peruste/lähde   | 
+|:-:|:-:|:-:|
 | [Testitapaus 1](esimerkki-ft1-testitapaus.md)  | [Use Case 1](esimerkki-uc1-kayttotapaus.md)  |  |
 | [Testitapaus 2](esimerkki-ft1-testitapaus.md)  | [REQPERF0000]() |  |
 | [Testitapaus 3](esimerkki-ft1-testitapaus.md)  | [REQTEST0000]() |  |
