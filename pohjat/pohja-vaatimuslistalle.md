@@ -56,6 +56,8 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 * Suoritusympäristö (Linux, Windows, Pilvi etc)
 * Muisti (4GB, 16GB ?)
 * Suoritin (Intel/AMD/ARM ?)
+* Tietokanta (MySQL, DynamoDB, Orient etc?)
+* Ajoalustan ratkaisut JAVA VM, Docker Container ?
  
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
