@@ -1,6 +1,8 @@
-Tämä projekti repositorio sisältää esimerkin vaatimusmäärittelystä, jossa hyödynnetään Wiki-rakennetta.
+## Harjoitustehtävä HT0 - repostiorio v 0.5 2018
 
-* Vaatimimusmäärittely on hajoitettu useampaan alisivuun, joita voidaan muokata erikseen, joka helpottaa dokumentin muokattavuutta ryhmässä.
+Repositorio sisältää tarvittavat tiedostopohjat ja esimerkit vaatimusmäärittelydokumentin toteuttamiseen.
+Vaatimimusmäärittelydokumentti on pilkottu useampaan sivuun, joita muokataan erikseen. Tämän tavoite on ohjata
+ohjelmistokoodin kirjoittamisen kaltaiseen työkulkuun. 
 
 vaatimusmäärittely dokumentin etusivu löytyy nimellä "vaatimusmaarittely.md"
 
