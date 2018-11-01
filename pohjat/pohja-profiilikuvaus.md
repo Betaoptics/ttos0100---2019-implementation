@@ -1,19 +1,19 @@
-# Persoona XXXXXXX
+# Profiili/persoona/sidosryhmän edustaja XXXXXXX
+
+
+
+### viiteryhmä/segmentti:
+
+* Millainen profiili on kyseessä, eli liittyykö profiili suurempaan kokonaisuuteen esim. "asiakkaat"
+* Mitä tämä profiili edustaa?
+
+### Persoona/sidosryhmän kuvaus
 
 ![](https://openclipart.org/image/300px/svg_to_png/293286/Unknown-With-Background.png)
 
 
-### Ryhmä/segmentti:
+**nimi ja taustaa**
 
-* Millainen profiili on kyseessä ()
-
-
-### Persoona
-
-**Nimi**
-
-
-Taustaa henkilöstä 
 
 
 ### Motiivi käyttää/soveltaa palvelua? 
@@ -28,8 +28,7 @@ Taustaa henkilöstä
 
 * Millaisia arvoja henkilö arvostaa
 
+### Välineet ja kyvyt etc.
 
-### Välineet ja vehkeet:
-
-Käytössä yleensä kannettava tietokone (PC)
+* Onko profiilin edustajan käytössä jotain erityisvälineitä/taitoja jotka vaikuttavat palvelun käyttöön
 
