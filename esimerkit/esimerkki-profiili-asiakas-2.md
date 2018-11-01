@@ -14,6 +14,11 @@ mutta alan töitä on ollut todella vaikea saada. Toisaalta vuodet ovat vieräht
 
 Mahdollinen PetCapsule-yrittäjä
 
+### Motiivi palvelun käyttöön?
+
+
+![](https://tenor.com/view/why-frustrated-but-why-gif-8326982)
+
 
 
 ### Välineet ja vehkeet:
