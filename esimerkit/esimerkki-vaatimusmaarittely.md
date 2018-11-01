@@ -86,9 +86,9 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-* [Profile 1](stakeholder-profile1.md)
-* [Profile 2](stakeholder-profile2.md)
-* [Profile 3](stakeholder-profile3.md)
+* [Profile 1](esimerkki-profiilikuvaus-asiakas1.md)
+* [Profile 2](esimerkki-profiilikuvaus-asiakas2.md)
+* [Profile 3](esimerkki-profiilikuvaus-viranomainen.md)
 
 
 ## Sidosryhmäkuva (Stakeholder map)
@@ -151,7 +151,7 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-![](https://openclipart.org/image/800px/svg_to_png/28058/cfry-Use-Case.png&disposition=attachment)
+![](kuva-use-case-kuvaus.png)
 
 
 ## Palveluun liittyvät toiminnalliset vaatimukset (Functional Requirements)
