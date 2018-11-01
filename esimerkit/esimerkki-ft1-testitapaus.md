@@ -22,8 +22,8 @@
 ### Linkit
 
 * Vaatimus: [REQ-01000](esimerkki-vaatimuslista.md) Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
-* Käyttötapaus: [UC12345](esimerkki-FT1-kayttotapaus.md)
-* Ominaisuus: [Ominaisuus FT1](esimerkki-FT1-ominaisuus.md)
+* Käyttötapaus: [UC12345](esimerkki-ft1-kayttotapaus.md)
+* Ominaisuus: [Ominaisuus ft1](esimerkki-ft1-ominaisuus.md)
 
 ### Alkutilanne (Pre-state): 
 

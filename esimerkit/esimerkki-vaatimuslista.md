@@ -6,9 +6,9 @@
 |:-:|:-:|:-:|:-:|
 | Asiakasvaatimus| 	REQ-00001 |	Käyttäjän on mahdollista kirjautua palveluun käyttäen Facebook-tunnusta, koska se on suurelle osalle asiakkaistamme tuttu |	 Koko systeemi |							
 | Palautuminen | REQ-00100 |	vesipumppaamon ohjausjärjestelmän käynnistyminen saa kestää max 5 minuuttia, koska viivästys voi pysäyttää ylemmän pumppaamon |								
-| Tietoturva | 	REQ-00120 |	Salasanassa on käytettävä vähintään MD5-tason salausta | [Kirjatutuminen FT1](esimerkki-FT1-ominaisuus.md) |								
-| Suorituskyky | REQ-01000 |	 Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia |  [Kirjatutuminen FT1](esimerkki-FT1-ominaisuus.md) |	
-| Toiminnallinen | VA0001 |	Traktori toimitetaan oletuksena aina neljällä pyörällä | [FT1](FT1-ominaisuus.md) |
+| Tietoturva | 	REQ-00120 |	Salasanassa on käytettävä vähintään MD5-tason salausta | [Kirjatutuminen ft1](esimerkki-ft1-ominaisuus.md) |								
+| Suorituskyky | REQ-01000 |	 Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia |  [Kirjatutuminen ft1](esimerkki-ft1-ominaisuus.md) |	
+| Toiminnallinen | VA0001 |	Traktori toimitetaan oletuksena aina neljällä pyörällä | [ft1](ft1-ominaisuus.md) |
 | Asiakasvaatimus | VA0042 | Kokoluokan LX mallit varustetaan oletuksena vetokoukulla |	Ei käsitellä ohjelmistopuolella, ellei kyse toiminnanohjauksen koodauksesta :) |		
 | Tuotteen mekaaninen vaatimus | VA0053 | Kokoluokan LX mallien etuakselin leveys on minimissään 2 m 5 cm |		-	| 	
 | Tuotteen mekaaninen vaatimus | VA0054 | Kokoluokan LX-mallin taka-akselin leveys on 2 m 15 cm | - |		
@@ -22,7 +22,7 @@
 | Tuotantovaatimus | VA 3015 | Asiakas ei voi vaihtaa konepeiton väriä ei voi vaihtaa, se on aina musta	|			|				
 | Liiketoimitavaatimus | VA9900 | Mallin “X” tuotantokustannuksien on jäätävä alle 45000 €				|			|	
 | Toiminnallinen | VA9901 Ajonäytön on näytettävä nopeus 1 km tarkkudella								|  Ajonäyttö |
-| Toiminnallinen vaatimus | VA9902	Ajonäytön on vaihduttava peruutustilaan ajosuunnan muuttuessa		|	Ajonäyttö UI |	[FT1](FT3-ominaisuus.md) |				
+| Toiminnallinen vaatimus | VA9902	Ajonäytön on vaihduttava peruutustilaan ajosuunnan muuttuessa		|	Ajonäyttö UI |	[ft1](FT3-ominaisuus.md) |				
 | Toiminnallinen vaatimus | VA9903	Ajonäytön käyttöliittymä on vikatilanteessa siirryttävä vikamoodiin |	Ajonäyttö UI |					
 
 
