@@ -20,9 +20,9 @@ Täitä käyttötapauksia voidaan tarvittaessa soveltaa osana ominaisuuteen liit
 
 Ominaisuutta voidaan määritellä käyttäen suoraan User Storyjen muodossa esim.
 
-* Käyttäjänä (Profiili 1-4) haluan voida kirjauta käyttäen Facebook-tunnuksia, koska en halua uusia tunnuksia palveluun
-* Näkövammaisena (Profiili 5) käyttäjänä haluan, että voin kirjautua palveluun äänituen avulla
-* Käyttäjän toivon, että palvelu kertoo kirjautumisen yhteydessä koska olen viimeksi ollut palvelussa
+* #1 Käyttäjänä (Profiili 1-4) haluan voida kirjauta käyttäen Facebook-tunnuksia, koska en halua uusia tunnuksia palveluun
+* #2 Näkövammaisena (Profiili 5) käyttäjänä haluan, että voin kirjautua palveluun äänituen avulla
+* #3 Käyttäjän toivon, että palvelu kertoo kirjautumisen yhteydessä koska olen viimeksi ollut palvelussa
 
 
 ### Käyttöliittymänäkymä/mock
