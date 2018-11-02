@@ -14,4 +14,4 @@
 Who is responsible?
 
 
-/label ~Harjoitus
+/label ~Personal Task
