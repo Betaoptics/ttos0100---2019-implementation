@@ -1,17 +1,17 @@
-# What needs to be done?
+# Tehtävää
 
-* step
-* step
-* step
-
-# Remember also?
-
-* askel
-* askel
-* askel
-* 
-
-Who is responsible?
+*
+*
+*
 
 
-/label ~Personal Task
+# Muuta muistettavaa?
+
+* Ei muuta..
+
+# Kuka on vastuussa?
+
+* Sinä
+
+
+/label ~Todo
