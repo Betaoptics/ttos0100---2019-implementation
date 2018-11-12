@@ -18,12 +18,12 @@ __!! HUOM vaatimusmaarittely.md on tärkein tiedosto ja sen nimeä ei saa täss�
 
 ## Pohjia eri osa-alueisiin
 
-* [/vaatimusmaarittely.md]() - Tästä kaikki lähtee. Aloita tämän dokumentin laatimisella
-* [/pohjat/pohja-kayttotapaus.md]()	- Käytä tätä pohjana käyttötapauksen laatimiseen
-* [/pohjat/pohja-ominaisuus.md]() - Kun määrittelet ominaisuuden on hyvä käyttää tätä pohjana
-* [/pohjat/pohja-profiilikuvaus.md]() - Profiilikuvauksen pohja
-* [/pohjat/pohja-testitapaus.md]() - Perinteisin testitapauksen runko
-* [/pohjat/pohja-vaatimuslista.md]() - Tyhjä vaatimuslista
+* [/vaatimusmaarittely.md](vaatimusmaarittely.md) - Tästä kaikki lähtee. Aloita tämän dokumentin laatimisella
+* [/pohjat/pohja-kayttotapaus.md](pohjat/pohja-kayttotapaus.md)	- Käytä tätä pohjana käyttötapauksen laatimiseen
+* [/pohjat/pohja-ominaisuus.md](pohjat/pohja-ominaisuus.md) - Kun määrittelet ominaisuuden on hyvä käyttää tätä pohjana
+* [/pohjat/pohja-profiilikuvaus.md](pohjat/pohja-profiilikuvaus.md) - Profiilikuvauksen pohja
+* [/pohjat/pohja-testitapaus.md](pohjat/pohja-testitapaus.md) - Perinteisin testitapauksen runko
+* [/pohjat/pohja-vaatimuslista.md](pohjat/pohja-vaatimuslista.md) - Tyhjä vaatimuslista
 
 
 ## Muut
