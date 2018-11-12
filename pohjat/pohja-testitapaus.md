@@ -3,9 +3,11 @@
  
 | | |
 |:-:|:-:|
+| Testitapaus ID | |
 | Testitapauksen suunnittelija | | 
 | Testitapauksen hyväksyjä: | XXX |
 | Luontipvm | X.Y.ABCD |
+| Luokitus | toiminnallinen/suorituskyky/käytettävyys.. |
 
 **Päivityshistoria**
 
