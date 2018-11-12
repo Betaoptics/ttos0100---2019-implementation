@@ -1,4 +1,4 @@
-## Task todo
+## Task ?
 
 
 - [ ] First
@@ -8,4 +8,4 @@
 - [ ] First
 
 
-/label ~Documentation
+/label ~Task
