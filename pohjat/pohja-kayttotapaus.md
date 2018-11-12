@@ -12,18 +12,18 @@
 * Päiväys / Versio?.
 * Prosessiosa-alue?
 	
-## Käyttäjäroolit	
+**Käyttäjäroolit**	
 
 1. rooli?
 2. rooli?
 3. rooli?
 
-## Esitiedot/ehdot	
+**Esitiedot/ehdot**	
 
 1. Ehto 
 2. Ehto
 
-## Käyttötapauksen kuvaus
+**Käyttötapauksen kuvaus**
 
 1. askel
 2. askel
@@ -32,7 +32,7 @@
 5. askel
 6. askel
 
-## Poikkeukset
+**Poikkeukset**
  
 * P1	
 
