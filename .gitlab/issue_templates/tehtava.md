@@ -10,4 +10,4 @@
 * 
 
 
-/label ~Todo
+/label ~"To Do"
