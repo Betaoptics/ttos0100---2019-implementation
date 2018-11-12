@@ -1,13 +1,12 @@
-## Implementation task to do?
+## Please implement....
 
-(Description)
+* Description
 
 
 
 
 ## Links to other tasks/features?
 
-
-(documentation?)
+* #1, #2 
 
 /label ~Implementation
