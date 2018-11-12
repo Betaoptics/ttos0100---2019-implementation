@@ -38,21 +38,21 @@
 
 * P2	
 	
-## Lopputulos	
+**Lopputulos**	
 
 * Lopputulos joka tulee kun Use Case suoritetaan
 
-## Käyttötiheys 
+**Käyttötiheys** 
 
 * Kuvataan, kuinka usein käyttötapausta suoritetaan.
 
-## Muuta	
+**Muuta**	
 
 * Kuvataan muita käyttötapaukseen liittyviä oleellisia tietoja, kuten avoimia asioita, viittauksia käytettäviin koodistoihin jne.
 
 
 
-#* Lähteet
+**Lähteet**
 
 Tämä wiki-dokumentin runko pohjautuu [Julkisenhallinnon suosituksiin](http://www.jhs-suositukset.fi/web/guest/jhs/recommendations/173)
 
