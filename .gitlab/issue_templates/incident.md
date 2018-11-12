@@ -1,4 +1,4 @@
-# Description of the problem to be fixed
+# Description of the incident
 
 * What is the problem/incident/issue etc.?
 
@@ -17,3 +17,5 @@
 
 * Do Assign and add correct stakeholder to fix task
 * 
+
+/label "~Incident"
