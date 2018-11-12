@@ -12,18 +12,17 @@
 
 * Kuvaus
 
-
-## Linkit
+**Linkit**
 
 * Vaatimus: [Vaatimus]() ?   
 * Käyttötapaus: [Use Case]() ? 
 * Ominaisuus: [Ominaisuus]() ?
 
-## Alkutilanne (Pre-state): 
+**Alkutilanne (Pre-state)** 
 
 * Alkutilanne
 
-## Testiaskeleet (Test Steps)
+**Testiaskeleet (Test Steps)**
 
 
 1. Askel
@@ -35,26 +34,20 @@
 7. 
 
 
-## Huomioitava testin aikana
+**Huomioitava testin aikana**
 
 * Huomio 1
 * Huomio 2
  
 
-## Testin lopputilanne (End-State)
+**Testin lopputilanne (End-State)**
+
+* Mitä tapahtuu testin ajon jälkeen
+
+**Testin "tuomio"/tulos (Pass/Fail Criteria)**
 
 
+* PASS ehto? 
+* FAIL ehto ?
 
-### Testin "tuomio"/tulos (Pass/Fail Criteria):
 
-esim 1:
-
-PASS Kirjaantumiseen kului aikaa =< 3 sekuntia
-
-FAIL Kirjaantumiseen kului aikaa  > 3 sekuntia
-
-esim 2:
-
-PASS: hälytysrajan pystyi asettamaan ja hälytys lähetettiin määriteltyyn numeroon rajan ylittyessä
-
-FAIL: hälytystä ei lähetetty
