@@ -1,8 +1,11 @@
 # Testitapaus ID  : TCID1234
 
-  * Testitapauksen suunnittelija: XXXX
-  * Testitapauksen hyväksyjä: XXX
-  * Luontipvm : X.Y.ABCD
+ 
+| | |
+|:-:|:-:|
+| Testitapauksen suunnittelija | | 
+| Testitapauksen hyväksyjä: | XXX |
+| Luontipvm | X.Y.ABCD |
 
 **Päivityshistoria**
 
