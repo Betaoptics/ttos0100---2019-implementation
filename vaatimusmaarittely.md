@@ -46,7 +46,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ### Vaatimusmäärittelytyön tilaaja
 
-__Kuka on tilaaja ja millainen tilaajan rooli on toimeksiannossa? Käytä Pseudonyymi nimeä, ettei henkilötietoja kirjata turhaan dokumenttiin__
+__Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
+
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 
