@@ -2,16 +2,13 @@
 
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
-* TTOS0100 Kurssin harjoitustyö HT0
 
-# Harjoitustyön tekijän Tiedot
+# TTOS0100 Kurssin harjoitustyö HT1 - K2019
 
 * Nimimerkki/gitlab tunnus
 * Versionumero X.Y.Z
 
-
 ## Sisällysluettelo 
-
 
 * [Tuotteen kuvaus](#Johdatus)
 * [Palvelukuvaus](#Palvelukuvaus)
@@ -29,7 +26,7 @@
 * [Testaus ja laadunvarmistus]()
 * [Lähteet]()
 
-## Johdatus
+# Johdatus
 
 __Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?__
 
@@ -44,21 +41,21 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 * [Youtube-tarinaa](https://www.youtube.com/watch?v=0zVNZNbphfE&t=255s)
 * [Palvelun rajaaminen](https://www.youtube.com/watch?v=fOlmrsp2iRc&t=5s)
 
-### Vaatimusmäärittelytyön tilaaja
+## Vaatimusmäärittelytyön tilaaja
 
 __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 
-### Vaatimusmäärittelyn toimittaja
+## Vaatimusmäärittelyn toimittaja
 
 __Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) taiesim. kuvitteellisen yrityksen työntekijänä__
 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 
-### Palvelukuvaus
+# Palvelukuvaus
 
 __Mitä palvelun avulla voidaan tehdä?__
 
@@ -71,7 +68,7 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
 
 
-## Asiakastarinat
+## Esimerkki asiakastarinat
 
 __Kerro palvelun käytöstä eri asiakasprofiilien/sidoryhmäedustajinen näkökulmasta__
 
@@ -90,7 +87,7 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 
-## Sidosryhmäkuva (Stakeholder map)
+## Yleinen sidosryhmäkuva (Stakeholder map)
 
 
 __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä on ko. ryhmän/edustajan motivaatio liittyen palveluun__
@@ -107,7 +104,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 
-### Sidosryhmät (Stakeholders) 
+## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
+
 * [Sidosryhmistä](https://www.youtube.com/watch?v=VmotZXBdrDs&t=14s)
 
 __Kirjoitetaan auki yksittäiset sidosryhmät ja eri profiilit__ 
@@ -125,12 +123,11 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 * [Profile 3](stakeholder-profile3.md)
 
 
-## Asiakaspolku (Customer Journey/Path)
+## Asiakaspolut (Customer Journey/Path)
 
 * ![Youtube-tarinaa](https://www.youtube.com/watch?v=O04EYNKmEXc)
 
 __Käydään läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta__
-
 
 
 Sed ut [Profile 1](stakeholder-profile1.md) perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
@@ -142,12 +139,14 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-
+__Polkuja tehdään tarvittaessa useita eri tarkoituksiin__
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 
-## Tuotteen yleisiä vaatimuksia ja rajoituksia (General Requirements and restrictions)
+# Vaatimukset, käyttötapaukset ja ominaisuudet
+
+## Tuotteen tärkeimmät vaatimukset ja mahdolliset rajoitukset (Key Requirements and restrictions)
 
 __Kirjaa tähän tärkeimmät vaatimukset suunnitteltuun palveluun liittyen__
 
@@ -155,7 +154,6 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
 sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
@@ -169,12 +167,15 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 
 
-## Yleiset käyttötapaukset (General Use Cases)
+## Tärkeimmät käyttötapaukset (General Use Cases)
+
 
 * [Käyttötapauksista 1](https://www.youtube.com/watch?v=rADU4vWTfyY)
 * [Käyttötapauksista 2](https://www.youtube.com/watch?v=rADU4vWTfyY)
 
-__Millaisia ovat yleisimmät käyttötapaukset liittyen palveluun?__
+__Millaisia ovat yleisimmät UML-käyttötapaukset liittyen palveluun? Muista, ettei käyttötapaus ole sama kuin käyttökohde tai soveltamis alue__
+
+
 
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
