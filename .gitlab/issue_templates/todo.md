@@ -1,17 +1,13 @@
-# Tehtävää
+# TODO
 
+* Check / verify ...
 *
 *
-*
 
 
-# Muuta muistettavaa?
+# Remember also
 
-* Ei muuta..
-
-# Kuka on vastuussa?
-
-* Sinä
+* 
 
 
 /label ~Todo
