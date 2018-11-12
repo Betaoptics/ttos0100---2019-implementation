@@ -1,68 +1,49 @@
-### Testitapaus ID  : TCID1234
+# Testitapaus ID  : TCID1234
 
   * Testitapauksen suunnittelija: XXXX
   * Testitapauksen hyväksyjä: XXX
   * Luontipvm : X.Y.ABCD
 
-### Päivityshistoria
+**Päivityshistoria**
 
 * versio 0.1 
 
-### Testin kuvaus
+**Testin kuvaus / tavoite**
 
-**esim 2: Testataan kosteushälytyksen toiminta**
-
-### Testin tavoite
-
-esim 1: Tarkistetaan, että palvelun kuormitusaste ei vaikuta liiaksi kirjautumiseen käytettävään aikaan. Kirjatuminen testataan palvelun ollessa eri kuormitusasteilla. Mittaus tehdään käyttäjärajapinnasta.
-
-esim2: Tarkistetaan, että järjestelmään voidaa asettaa hälytysraja kosteudelle ja että ko hälytysrajan ylittyessä hälytys lähetetään ennalta määriteltyyn numeroon.
-
-### Linkit
-
-  * Vaatimus: [REQID10202]() Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
-  * Käyttötapaus: [UC12345]()
-  * Ominaisuus: [XXXXX]()
-
-### Alkutilanne (Pre-state): 
-
-esim 1: Palvelu saavutettavissa, Kuormitusgeneraattori asennettu, kirjautumistunnus luotu, ajanmittaus mahdollista
-
-esim 2: Palvelu saavutettavissa, puhelinumero asetettu kosteushälytykseen
-
-### Testiaskeleet (Test Steps)
-
-esim 1:
-Toista seuraavat testiaskeleet palvelun kuormitusasteilla 30%, 50% ja 80%
-
-| Testiaskel | Odotettu tulos |
-| ---------- | -------------- |
-| 1. Aseta palvelun kuormitus | Kuormitus muuttuu asetetuksi |
-| 2. Mittaa kirjaantumiseen kuluva aika | |
-| 3. Kirjaudu ulos palvelusta | Palvelusta uloskirjautuminen onnistuu |
-
-esim 2:
-
-| Testiaskel | Odotettu tulos |
-| ---------- | -------------- |
-| 1. Aseta kosteuden hälytysraja 50%:iin | Hälytysraja muuttuu näytöllä |
-| 2. Nosta kosteus yli 50%:in | Järjestelmä lähettää hälytyksen käyttäjälle |
-| 3. Laske kosteus alle 50%:in | Järjesteläm lähettää hälytyksen peruutuksen |
+* Kuvaus
 
 
-### Huomioitava testin aikana
+## Linkit
 
-esim
- * *Huomioi:* esim. Kirjautumisen aikana näyttö ei välky
- * *Huomioi:* esim. Tervetuloviesti ilmestyy välittömästi (alle 1s)
+* Vaatimus: [Vaatimus]() ?   
+* Käyttötapaus: [Use Case]() ? 
+* Ominaisuus: [Ominaisuus]() ?
 
-### Testin lopputilanne (End-State)
+## Alkutilanne (Pre-state): 
 
-esim 1:
- - Jokainen kirjaantuminen onnistui
+* Alkutilanne
 
-esim 2:
- - Järjestelmässä ei ole päällä kosteushälytystä
+## Testiaskeleet (Test Steps)
+
+
+1. Askel
+2. Askel
+3. Askel
+4. Askel
+5. Askel
+6. Askel
+7. 
+
+
+## Huomioitava testin aikana
+
+* Huomio 1
+* Huomio 2
+ 
+
+## Testin lopputilanne (End-State)
+
+
 
 ### Testin "tuomio"/tulos (Pass/Fail Criteria):
 
