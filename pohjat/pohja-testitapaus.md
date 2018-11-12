@@ -1,21 +1,16 @@
 ### Testitapaus ID  : TCID1234
 
-  * Testitapauksen suunnittelija: NarsuMan
-  * Testitapauksen hyväksyjä: Tarhytti
-  * Luontipvm : 26.06.2015
+  * Testitapauksen suunnittelija: XXXX
+  * Testitapauksen hyväksyjä: XXX
+  * Luontipvm : X.Y.ABCD
 
 ### Päivityshistoria
 
-* versio 1.2 - 30.03.2016 - Tarhytti - testiaskeleet-kappale muutettu taulukkomuotoon & esimerkkejä lisätty
-* versio 1.1 - 22.03.2016 - Tarhytti - pohjaan tehty kosmeettisia muutoksia
-* versio 1.0 - 24.12.2015 - Tarhytti - testitapaus hyväksytty
-* versio 0.1 - 26.06.2015 - Narsuman - testitapaus luotu
+* versio 0.1 
 
 ### Testin kuvaus
 
-esim 1: Tarkista että kirjautumiseen kuluva aika ei ylitä 3 sekunnin rajaa alle palvelun ollessa kuormitettu alle 80 % 
-
-esim 2: Testataan kosteushälytyksen toiminta
+**esim 2: Testataan kosteushälytyksen toiminta**
 
 ### Testin tavoite
 
