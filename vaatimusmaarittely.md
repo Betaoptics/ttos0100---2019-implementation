@@ -1,4 +1,4 @@
-# [KORVAA TÄMÄ TOIMEKSIANNOLLA-palvelun vaatimusmäärittely
+# [KORVAA TÄMÄ TOIMEKSIANNON NIMELLÄ]-palvelun vaatimusmäärittely
 
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
@@ -17,7 +17,6 @@
 * [Palvelukuvaus](#Palvelukuvaus)
 * [Asiakastarina](#Johdatus)
 * [Sidosryhmät ja profiilikuvaukset]()
-
 * [Sidosryhmäkuva]()
 * [Palvelu/asiakaspolku]()
 * [Yleinen käyttötapaus]()
@@ -32,6 +31,8 @@
 
 ## Johdatus
 
+__Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?__
+
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
@@ -45,14 +46,20 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ### Vaatimusmäärittelytyön tilaaja
 
+__Kuka on tilaaja ja millainen tilaajan rooli on toimeksiannossa? Käytä Pseudonyymi nimeä, ettei henkilötietoja kirjata turhaan dokumenttiin__
+
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 
 ### Vaatimusmäärittelyn toimittaja
+
+__Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) taiesim. kuvitteellisen yrityksen työntekijänä__
 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 
 ### Palvelukuvaus
+
+__Mitä palvelun avulla voidaan tehdä?__
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -64,6 +71,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 ## Asiakastarinat
+
+__Kerro palvelun käytöstä eri asiakasprofiilien/sidoryhmäedustajinen näkökulmasta__
 
 * [Mikä ihme on asiakastarina](https://www.youtube.com/watch?v=m8WEoyyFUww&t=36s)
 
@@ -83,6 +92,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 ## Sidosryhmäkuva (Stakeholder map)
 
 
+__Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä on ko. ryhmän/edustajan motivaatio liittyen palveluun__
+
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
@@ -98,6 +109,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 ### Sidosryhmät (Stakeholders) 
 * [Sidosryhmistä](https://www.youtube.com/watch?v=VmotZXBdrDs&t=14s)
 
+__Kirjoitetaan auki yksittäiset sidosryhmät ja eri profiilit__ 
+
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
@@ -105,9 +118,6 @@ sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. N
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-###Sidosryhmä/profiilikuvaukset (Stakeholder profile descriptions)
-
 
 * [Profile 1](stakeholder-profile1.md)
 * [Profile 2](stakeholder-profile2.md)
@@ -117,6 +127,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 ## Asiakaspolku (Customer Journey/Path)
 
 * ![Youtube-tarinaa](https://www.youtube.com/watch?v=O04EYNKmEXc)
+
+__Käydään läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta__
 
 
 
@@ -128,6 +140,8 @@ Neque porro quisquam est, [Profile 3](stakeholder-profile3.md)
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
