@@ -1,22 +1,17 @@
-## Harjoitustehtävä HT0 - repostiorio v 0.5 2018
-
-Repositorio sisältää tarvittavat tiedostopohjat ja esimerkit vaatimusmäärittelydokumentin toteuttamiseen.
-Vaatimimusmäärittelydokumentti on pilkottu useampaan sivuun, joita muokataan erikseen. Tämän tavoite on ohjata
-ohjelmistokoodin kirjoittamisen kaltaiseen työkulkuun. 
-
-vaatimusmäärittely dokumentin etusivu löytyy nimellä "vaatimusmaarittely.md"
+## OPF-määrittelyvaiherunko-v1 
 
 
-## Tiedostostot ja tarkoitus
+* 12.11.2018
+* NarsuMan
 
-Esimerkki tiedostoja voi tutkia ja käyttää ajatusten pohjana
 
-* esimerkki-FT1-kayttotapaus.md	 - Tässä esimerkkinä käyttötapaus, eli Use Case täytettynä
-* esimerkki-FT1-ominaisuus.md - Esimerkki ominaisuuskuvauksesta, jossa on linkit muihin esimerkki tiedostoihin
-* esimerkki-FT1-pohja.md	uusi runko alkuun	1 day ago
-* esimerkki-FT1-testitapaus.md	- Tässä esimerkki perinteisestä testitapauksesta, jonka kaltaisia kurssin aikana opetellaan suunnittelemaan
-* esimerkki-profiilikuvaus.md - Palvelumuotoilun pohjana käytetään asiakkaan/sidosryhmien profiilikuvauksia
-* esimerkki-vaatimuslista.md - Tunnistetut vaatimukset kannattaa jäsentää listaan, johon sitten viitataan 
+## Ohjelmistoprojektin määrittelyvaihe
+
+Avoinna oleva repositorio sisältää tarvittavat tiedostopohjat vaatimusmäärittelyvaiheen dokumentoinnin toteuttamiseen Gitlab-palvelun avulla.
+Vaatimimusmäärittelydokumentti on pilkottu useampaan sivuun, joita muokataan erikseen. Tämän tavoite on ohjata rungon soveltajaa toimimaan 
+ohjelmistokehittämisen kaltaisella toimintatavalla. 
+
+__!! Vaatimusmaarittely.md on tärkein tiedosto ja sen nimeä ei saa tässä vaiheessa muuttaa !!__
 
 
 ## Pohjia eri osa-alueisiin
