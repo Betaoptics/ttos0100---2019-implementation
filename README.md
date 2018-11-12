@@ -7,21 +7,23 @@
 
 ## Ohjelmistoprojektin määrittelyvaihe
 
-Avoinna oleva repositorio sisältää tarvittavat tiedostopohjat vaatimusmäärittelyvaiheen dokumentoinnin toteuttamiseen Gitlab-palvelun avulla.
-Vaatimimusmäärittelydokumentti on pilkottu useampaan sivuun, joita muokataan erikseen. Tämän tavoite on ohjata rungon soveltajaa toimimaan 
-ohjelmistokehittämisen kaltaisella toimintatavalla. 
+Edessäsi oleva repositorio sisältää tarvittavia MarkDown-pohjaisia dokumentteja, joita voi soveltaa vaatimusmäärittelytyössä.
+Vaatimusmäärittelydokumentti on tarkoituksella pilkottu useampaan sivuun, joita muokataan erikseen. Tämän tavoite on ohjata 
+rungon soveltajaa toimimaan saman kaltaisella työnkululla, kuin ohjelmistokehittäjä normaalisti toimii. 
 
-__!! Vaatimusmaarittely.md on tärkein tiedosto ja sen nimeä ei saa tässä vaiheessa muuttaa !!__
+Projektirepositorion juuressa on tiedosto vaatimumaarittely.md, joka on kaiken ydin. Tämä on dokumentti josta kaikkia alkaa!
+
+__!! HUOM vaatimusmaarittely.md on tärkein tiedosto ja sen nimeä ei saa tässä vaiheessa muuttaa !!__
 
 
 ## Pohjia eri osa-alueisiin
 
-* vaatimusmaarittely.md - Tästä kaikki lähtee. Aloita tämän dokumentin laatimisella
-* pohja-kayttotapaus.md	- Käytä tätä pohjana käyttötapauksen laatimiseen
-* pohja-ominaisuus.md - Kun määrittelet ominaisuuden on hyvä käyttää tätä pohjana
-* pohja-profiilikuvaus.md - Profiilikuvauksen pohja
-* pohja-testitapaus.md - Perinteisin testitapauksen runko
-* pohja-vaatimuslista.md	- Tyhjä vaatimuslista
+* /vaatimusmaarittely.md - Tästä kaikki lähtee. Aloita tämän dokumentin laatimisella
+* /pohjat/pohja-kayttotapaus.md	- Käytä tätä pohjana käyttötapauksen laatimiseen
+* /pohjat/pohja-ominaisuus.md - Kun määrittelet ominaisuuden on hyvä käyttää tätä pohjana
+* /pohjat/pohja-profiilikuvaus.md - Profiilikuvauksen pohja
+* /pohjat/pohja-testitapaus.md - Perinteisin testitapauksen runko
+* /pohjat/pohja-vaatimuslista.md	- Tyhjä vaatimuslista
 
 
 ## Muut
