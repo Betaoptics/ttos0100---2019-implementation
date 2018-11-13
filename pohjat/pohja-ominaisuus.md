@@ -18,7 +18,7 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-__Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä__
+*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
 
 | | |
 |:-:|:-:|
@@ -30,26 +30,26 @@ __Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden mä
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-__Kirjataan User Storyt alustavasti tähän__
+*Kirjataan User Storyt alustavasti tähän*
 
 * Käyttäjän haluan, että voin.....
 * Ylläpitäjänä haluan, että voin.....
 
-__Nämä kannattaa siirtää pian issue kuvauksiksi__
+**Nämä kannattaa siirtää pian issue kuvauksiksi*
 
 esim. #1 #2
 
 
 ### Käyttöliittymänäkymä/mock 
 
-Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen
+*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
 
 ![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
-__Kirjataan muutamia huomiota testauksen kannalta__
+*Kirjataan muutamia huomiota testauksen kannalta*
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
