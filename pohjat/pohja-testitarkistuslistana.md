@@ -8,7 +8,7 @@ Valmiita tarkistulistoja on myös tarjolla esimerkkinä :
 
 
 | Tarkistuskohde | Status |
-|:-:|:-:|
+|:---:|:---:|
 | 1. Tekstivastineet | ? | 
 | 2. Lomakkeet | ? |
 | 3. Otsikot | ?  |
