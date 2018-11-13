@@ -39,7 +39,7 @@ esim. #1 #2
 
 Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen
 
-![](https://openclipart.org/image/300px/svg_to_png/178764/1370010418.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
