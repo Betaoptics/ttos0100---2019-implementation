@@ -9,9 +9,9 @@ Valmiita tarkistulistoja on myös tarjolla esimerkkinä :
 
 | Tarkistuskohde | Status |
 |:-:|:-:|
-| 1. Tekstivastineet | :ok: :nook: | 
-| 2. Lomakkeet | :ok: :notok: |
-| 3. Otsikot | :ok: :notok: |
+| 1. Tekstivastineet | :ok: ? | 
+| 2. Lomakkeet | :ok: ? |
+| 3. Otsikot | :ok:  |
 | 4. Selailujärjestys ja saavutettavuus näppäimistöllä | :ok: :notok: |
 | 5. Korostuskeinot ja visuaalinen ohjeistus | :ok: :notok: |
 | 6. Automaattisesti käynnistyvä media ja näppäimistön ansa | :ok: :notok: |
