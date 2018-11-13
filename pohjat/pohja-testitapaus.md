@@ -1,13 +1,15 @@
-# Testitapaus: Tarkista, että se ja se toimii...
+# Tarkista.........
+
+
 
  
 | | |
 |:-:|:-:|
-| Testitapaus ID | |
-| Testitapauksen suunnittelija | | 
-| Testitapauksen hyväksyjä: | XXX |
+| Testitapaus ID | XXXX |
+| Testitapauksen suunnittelija | XXXXX XXX | 
+| Testitapauksen hyväksyjä: | XXXXX XXX |
 | Luontipvm | X.Y.ABCD |
-| Luokitus | toiminnallinen/suorituskyky/käytettävyys.. |
+| Luokitus | toiminnallinen/ei-toiminnallinen |
 
 **Päivityshistoria**
 
@@ -17,13 +19,13 @@
 
 * Kuvaus
 
-**Linkit**
+**Linkit vaatimuksiin tai muihin lähteisin**
 
 * Vaatimus: [Vaatimus]() ?   
 * Käyttötapaus: [Use Case]() ? 
 * Ominaisuus: [Ominaisuus]() ?
 
-**Alkutilanne (Pre-state)** 
+**Testin alkutilanne (Pre-state)** 
 
 * Alkutilanne
 
@@ -39,15 +41,15 @@
 7. 
 
 
+**Testin lopputilanne (End-State)**
+
+* Mitä tapahtuu testin ajon jälkeen
+
 **Huomioitava testin aikana**
 
 * Huomio 1
 * Huomio 2
- 
 
-**Testin lopputilanne (End-State)**
-
-* Mitä tapahtuu testin ajon jälkeen
 
 **Testin "tuomio"/tulos (Pass/Fail Criteria)**
 
