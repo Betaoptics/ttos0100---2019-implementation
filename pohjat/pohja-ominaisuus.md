@@ -1,33 +1,22 @@
 # Ominaisuus XXXXXXX
 
-* Ominaisuuden vastuuhenkilö: Marko Polo
-* Status (Ehdotus/Hyväksytty/Hylätty)
+| | |
+|:-:|:-:|
+| Ominaisuus ID | - |
+| Osajärjestelmä, mihin ominaisuus liittyy | - |
+| Ominaisuuden vastuuhenkilö | - |
+| Status | - |
 
 ### Kuvaus
 
 Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 
-### Käyttötapaukset (Use Cases)
+### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä tai pohjana niille.
 
 * [Use Case 1](FT1-kayttotapaus.md)
 * [Use Case 2](FT2-kayttotapaus.md)
-
-
-### Alustavat käyttäjätarinat (User Storys)
-
-
-
-### Käyttöliittymänäkymä/mock
-
-![](https://openclipart.org/image/300px/svg_to_png/178764/1370010418.png&disposition=attachment)
-
-* [Link to mockup]()
-
-
-### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
 
 * Toiminnalliset: ReqID?, Linkki 
@@ -36,18 +25,35 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 * User Story #1
 
 
-### Testauksessa huomioitavaa:
+### Alustavat käyttäjätarinat (User Storys)
 
-| Testi  | Testin lähde  | Kuka vastaa  |
+* Käyttäjän haluan, että voin.....
+* Ylläpitäjänä haluan, että voin.....
+
+__Nämä kannattaa siirtää pian issue kuvauksiksi__
+
+esim. #1 #2
+
+
+### Käyttöliittymänäkymä/mock 
+
+Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen
+
+![](https://openclipart.org/image/300px/svg_to_png/178764/1370010418.png&disposition=attachment)
+
+
+### Testaus / mahdolliset hyväksyntä kriteerit 
+
+__Kirjataan muutamia huomiota testauksen kannalta__
+
+| Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | linkki ?   |   |
+| [Testitapaus 1]()  | vaatimus id?   |   |
+| [Testitapaus 2]()  | vaatimus id?   |   |
+| [Testitapaus 3]()  | vaatimus id?   |   |
+| [Testitapaus 4]()  | vaatimus id?   |   |
+| | |
 
-
-### Status
-
-| Status | |
-|:----:|:----:|
-| Hyväksytty/ Hylätty | - |
 
 
 
