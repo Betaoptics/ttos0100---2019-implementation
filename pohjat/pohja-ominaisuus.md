@@ -37,7 +37,7 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 **Nämä kannattaa siirtää pian issue kuvauksiksi*
 
-esim. #1 #2
+esim. #8 #2
 
 
 ### Käyttöliittymänäkymä/mock 
