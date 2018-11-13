@@ -9,7 +9,7 @@
 
 ### Kuvaus
 
-__Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan__
+*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
 
 Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
 Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
