@@ -1,14 +1,14 @@
-# [KORVAA TÄMÄ TOIMEKSIANNON NIMELLÄ]-palvelun vaatimusmäärittely
+# [Replace with real name]-service requirement specification
 
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
 
-# TTOS0100 Kurssin harjoitustyö HT1 - K2019
+# TTOS0100 Course HT1 - 
 
-* Nimimerkki/gitlab tunnus
-* Versionumero X.Y.Z
+* Nickname/gitlab 
+* Version  X.Y.Z
 
-## Sisällysluettelo 
+## Table of Contents 
 
 * [Tuotteen kuvaus](#Johdatus)
 * [Palvelukuvaus](#Palvelukuvaus)
@@ -26,7 +26,7 @@
 * [Testaus ja laadunvarmistus]()
 * [Lähteet]()
 
-# Johdatus
+# Introduction
 
 __Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?__
 
@@ -41,7 +41,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 * [Youtube-tarinaa](https://www.youtube.com/watch?v=0zVNZNbphfE&t=255s)
 * [Palvelun rajaaminen](https://www.youtube.com/watch?v=fOlmrsp2iRc&t=5s)
 
-## Vaatimusmäärittelytyön tilaaja
+## About 
 
 __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
