@@ -8,4 +8,4 @@
 - [ ] First
 
 
-/label ~"Task To Do"
+/label ~"Task to do"
