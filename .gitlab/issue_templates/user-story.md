@@ -19,3 +19,4 @@ As a < type of user >, I want < some goal > so that < some reason >.
 - [ ] Check if...
 
 /label ~"User Story"
+/label ~"Backlog"
