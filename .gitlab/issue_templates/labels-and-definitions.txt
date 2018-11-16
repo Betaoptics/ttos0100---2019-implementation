@@ -26,5 +26,12 @@ Name	Last commit	Last update
  
  Labels:
  
+ /label ~"Bug"
+ /label ~"Design"
+ /label ~"Task-todo"
+ /label ~"Implementation"
+ /label ~"Job Story"
+ /label ~"User Story"
+ 
  
  
