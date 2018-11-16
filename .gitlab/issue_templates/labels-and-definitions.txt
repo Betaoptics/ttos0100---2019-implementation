@@ -1,1 +1,30 @@
 types-and-labels.txt
+
+
+
+Name	Last commit	Last update
+..		
+
+
+ bug.md	
+ design.md
+ implementation.md
+ incident.md
+ job-story.md
+ question-and-answer
+ task-todo.md
+ user-story.md
+
+ vikaraportti.md
+ suunnittelu.md
+ toteutus.md
+ poikkeama.md
+ kysymys-vastaus.md
+ tehtava.md
+ user-story.md
+ 
+ 
+ Labels:
+ 
+ 
+ 
