@@ -32,6 +32,7 @@ Name	Last commit	Last update
  /label ~"Implementation"
  /label ~"Job Story"
  /label ~"User Story"
- 
+ /label ~"Do Verify"
+ /label ~"Verified"
  
  
