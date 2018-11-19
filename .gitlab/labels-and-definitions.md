@@ -2,10 +2,10 @@
 
 
 
-| Issue type | Label |
-|:-:|:-:|
-| Personal | ~"Personal" |    
-| Team | ~"Team" |    
+| Issue type | Current Label Color | Offical Color |
+|:-:|:-:|:-:|
+| Personal | ~"Personal" |   |  
+| Team | ~"Team" | |    
 
 
 
@@ -16,7 +16,7 @@
 	
 In English
 		
-| Issue type | Label | Offical Color |
+| Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
 | bug-report.md | ~"Bug" |         |
 | incident-report.md | ~"Incident" | |     
@@ -32,18 +32,18 @@ In English
 
 Suomeksi
 
-| Issue type | Label |
-|:-:|:-:|
-| vika-raportti.md | ~"Bug"  |
-| poikkeama-raportti.md | ~"Incident" |
-| suunnittelu-tehtävä.md | ~"Design" |
-| yleinen-tehtävä.md | ~"General" |
-| toteutus-tehtävä.m | ~"Implementation" |
-| Dokumentointi-tehtävä.md | ~"Documentation" |
-| kysymys-ja-vastaus.md | ~"Q&A" | 
-| harjoitustehtava.md  | ~"Assignment" |
-| UserStory-Käyttäjätarina.md | ~"User Story"  |
-
+| Issue type | Current Label Color | Offical Color |
+|:-:|:-:|:-:|
+| vika-raportti.md | ~"Bug"  | |
+| poikkeama-raportti.md | ~"Incident" | |
+| suunnittelu-tehtävä.md | ~"Design" | |
+| yleinen-tehtävä.md | ~"General" | |
+| toteutus-tehtävä.m | ~"Implementation" | |
+| Dokumentointi-tehtävä.md | ~"Documentation" | |
+| kysymys-ja-vastaus.md | ~"Q&A" |  |
+| harjoitustehtava.md  | ~"Assignment" | |
+| UserStory-Käyttäjätarina.md | ~"User Story"  | |
+ 
 # Issue State Labels
 
 | Issue type | Label |
