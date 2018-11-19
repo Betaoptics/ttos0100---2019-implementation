@@ -61,8 +61,11 @@ Reserved Labels for future:
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Backlog-->Estimate;
+    Estimate-->Doing;
+    Doing-->Waiting Review;
+    Waiting Review-->Reviewed;
+    Reviewed-->Done
+    Doing-->Done;
+    Done-->Closed
 ```
