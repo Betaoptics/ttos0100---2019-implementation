@@ -88,6 +88,7 @@ graph TD;
     Done-->Closed;
     Closed-->Reopen;
     Reopen-->Doing;
+    Reopen-->Backlog;
 ```
 
 # Assignment Issue Life Cycle
