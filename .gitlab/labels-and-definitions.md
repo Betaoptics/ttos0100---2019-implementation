@@ -6,13 +6,13 @@ Name	Last commit	Last update
 ..		
 | Issue type | Label |
 |:-:|:-:|
-| bug-report.md   |  ~"Bug"  |         
-| incident-report.md  | ~"Incident"  |     
-| design-task.md   | ~"Design"  |
-| general-task.md  |  ~"Task-todo"   |        
-| implementation-task.md  |  ~"Implementation"  |
-| question-and-answer.md   |  ~"Q&A"   | 
-| User Story.md  |   ~"User Story"  |
+| bug-report.md | ~"Bug" |         
+| incident-report.md | ~"Incident" |     
+| design-task.md | ~"Design" |
+| general-task.md |  ~"Task-todo"   |        
+| implementation-task.md | ~"Implementation" |
+| question-and-answer.md | ~"Q&A" | 
+| User Story.md | ~"User Story" |
 
 | Issue type | Label |
 |:-:|:-:|
