@@ -16,18 +16,18 @@
 	
 In English
 		
-| Issue type | Label |
-|:-:|:-:|
-| bug-report.md | ~"Bug" |         
-| incident-report.md | ~"Incident" |     
-| design-task.md | ~"Design" |
-| general-task.md |  ~"General"   |        
-| implementation-task.md | ~"Implementation" |
-| documentation-task.md | ~"Documentation" |
-| question-and-answer.md | ~"Q&A" | 
-| User Story.md | ~"User Story" |
-| Job Story.md  | ~"Job Story" |
-| Assignment | ~"Assignment" |
+| Issue type | Label | Offical Color |
+|:-:|:-:|:-:|
+| bug-report.md | ~"Bug" |         |
+| incident-report.md | ~"Incident" | |     
+| design-task.md | ~"Design" | |
+| general-task.md |  ~"General"   |  |       
+| implementation-task.md | ~"Implementation" | |
+| documentation-task.md | ~"Documentation" | |
+| question-and-answer.md | ~"Q&A" |  |
+| User Story.md | ~"User Story" | |
+| Job Story.md  | ~"Job Story" | |
+| Assignment | ~"Assignment" | |
 
 
 Suomeksi
