@@ -85,6 +85,8 @@ graph TD;
     Verify-->Doing;
     Verify-->Done;
     Done-->Closed;
+    Closed-->Reopen;
+    Reopen-->Doing;
 ```
 
 # Assignment Issue Life Cycle
