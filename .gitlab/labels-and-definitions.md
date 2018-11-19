@@ -41,7 +41,7 @@ Job Story.md  /label ~"Job Story"
 
 * ~"Estimate"
 * ~"Verify"
-* ~"Fixed Do Verify"
+* ~"Do Verify"
 * ~"Verified"
 * ~"Incident"
 * ~"Reviewed"
