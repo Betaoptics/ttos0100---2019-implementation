@@ -6,7 +6,7 @@
 |:-:|:-:|
 | Personal | ~"Personal" |    
 | Team | ~"Team" |    
-| Backlog | ~"Backlog" |
+
 
 
 
@@ -45,12 +45,13 @@ Suomeksi
 
 | Issue type | Label |
 |:-:|:-:|
-| | ~"Doing" | 
-| | ~"Estimate" |
-| | ~"Verify" | 
-| | ~"Verified" |
-| | ~"Reviewed" |
-| | ~"Do Review" |
+| Backlog | ~"Backlog" |
+| Estimate | ~"Estimate" |
+| Doing | ~"Doing" | 
+| Verify | ~"Verify" | 
+| Verified | ~"Verified" |
+| Waiting Review | ~"Waiting Review" |
+| Reviewed | ~"Reviewed" |
 
 Reserved Labels for future:
 
