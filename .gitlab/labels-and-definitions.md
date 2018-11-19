@@ -53,6 +53,7 @@ Suomeksi
 | Verified | ~"Verified" |
 | Waiting Review | ~"Waiting Review" |
 | Reviewed | ~"Reviewed" |
+| Done | ~"Done" |
 
 Reserved Labels for future:
 
