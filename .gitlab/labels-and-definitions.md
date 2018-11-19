@@ -52,9 +52,9 @@ Suomeksi
 | Estimate | ~"Estimate" | `#F0A921` |
 | Doing | ~"Doing" | `#F0A921` |
 | Fixed Verify | ~"Fixed Verify" | `#9E760D` | 
-| Verified | ~"Verified" | |
+| Verified | ~"Verified" | `#69D121` |
 | Waiting Review | ~"Waiting Review" | `#F0A921` |
-| Reviewed | ~"Reviewed" | |
+| Reviewed | ~"Reviewed" | `#69D121` |
 | Done | ~"Done" | |
 
 Reserved Labels for future:
