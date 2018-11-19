@@ -70,3 +70,17 @@ graph TD;
     Doing-->Done;
     Done-->Closed
 ```
+
+# Bug Issue Life Cycle
+
+```mermaid
+graph TD;
+    Bug-->Backlog;
+    Backlog-->Estimate;
+    Estimate-->Doing;
+    Doing-->Fixed-Verify;
+    Verify-->Verified;
+    Verify-->Doing;
+    Verify-->Done
+    Done-->Closed
+```
