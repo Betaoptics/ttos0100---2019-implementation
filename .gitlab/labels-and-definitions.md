@@ -58,6 +58,7 @@ Suomeksi
 
 Reserved Labels for future:
 
+# General Issue Life Cycle
 
 ```mermaid
 graph TD;
