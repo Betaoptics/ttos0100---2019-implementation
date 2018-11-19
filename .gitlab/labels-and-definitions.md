@@ -31,7 +31,7 @@
 | toteutus-tehtävä.m | ~"Implementation"  |
 | kysymys-ja-vastaus.md | ~"Q&A"   | 
 | harjoitus-tehtava.md  |   |
-| UserStory-Käyttäjätarina.md |   |
+| UserStory-Käyttäjätarina.md | ~"User Story"  |
 
 
 
