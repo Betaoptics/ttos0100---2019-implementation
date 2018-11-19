@@ -13,6 +13,8 @@
 
 # Issue Types
 
+	
+In English
 		
 | Issue type | Label |
 |:-:|:-:|
@@ -23,6 +25,8 @@
 | implementation-task.md | ~"Implementation" |
 | question-and-answer.md | ~"Q&A" | 
 | User Story.md | ~"User Story" |
+
+Suomeksi
 
 | Issue type | Label |
 |:-:|:-:|
