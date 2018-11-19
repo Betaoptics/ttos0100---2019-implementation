@@ -19,7 +19,7 @@ In English
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
 | bug-report.md | ~"Bug" | `#FF0000` |
-| incident-report.md | ~"Incident" | |     
+| incident-report.md | ~"Incident" | `#FF0000` |     
 | design-task.md | ~"Design" |`#1D5299` |
 | general-task.md |  ~"General"   | `#1D5299` |       
 | implementation-task.md | ~"Implementation" | `#1D5299` |
@@ -34,8 +34,8 @@ Suomeksi
 
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| vika-raportti.md | ~"Bug"  | |
-| poikkeama-raportti.md | ~"Incident" | |
+| vika-raportti.md | ~"Bug"  | `#FF0000` |
+| poikkeama-raportti.md | ~"Incident" | `#FF0000` |
 | suunnittelu-tehtävä.md | ~"Design" | `#1D5299` |
 | yleinen-tehtävä.md | ~"General" | `#1D5299` |
 | toteutus-tehtävä.m | ~"Implementation" | `#1D5299` |
