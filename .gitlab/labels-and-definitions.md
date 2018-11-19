@@ -85,6 +85,7 @@ graph TD;
     Verify-->Doing;
     Verify-->Done;
     Done-->Closed;
+    Verify-->Done;
     Closed-->Reopen;
     Reopen-->Doing;
 ```
