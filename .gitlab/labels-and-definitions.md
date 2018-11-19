@@ -48,9 +48,7 @@ Suomeksi
 | | ~"Doing" | 
 | | ~"Estimate" |
 | | ~"Verify" | 
-| | ~"Do Verify" | 
 | | ~"Verified" |
-| | ~"Incident" |
 | | ~"Reviewed" |
 | | ~"Do Review" |
 
