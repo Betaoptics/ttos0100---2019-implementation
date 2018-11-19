@@ -91,7 +91,6 @@ graph TD;
 ```mermaid
 graph TD;
     Assignment-->Backlog;
-    
     Assignment-->Doing;
     Doing-->Fixed-Verify;
     Verify-->Verified;
