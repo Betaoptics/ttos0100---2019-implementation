@@ -6,6 +6,13 @@ Name	Last commit	Last update
 ..		
 
 
+bug-report.md           incident-report.md      suunnittelu-tehtävä.md
+design-task.md          job-story.md            toteutus-tehtävä.md
+general-task.md         kysymys-ja-vastaus.md   user-story.md
+harjoitus-tehtava.md    poikkeama-raportti.md   vika-raportti.md
+implementation-task.md  question-and-answer.md  yleinen-tehtävä.md
+
+
  bug.md	
  design.md
  implementation.md
