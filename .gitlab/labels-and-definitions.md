@@ -41,16 +41,18 @@ Suomeksi
 
 # Issue State Labels
 
+| Issue type | Label |
+|:-:|:-:|
+| | ~"Doing" | 
+| | ~"Estimate" |
+| | ~"Verify" | 
+| | ~"Do Verify" | 
+| | ~"Verified" |
+| | ~"Incident" |
+| | ~"Reviewed" |
+| | ~"Do Review" |
 
 Reserved Labels for future:
 
 Job Story.md  /label ~"Job Story"
 
-* ~"Doing"
-* ~"Estimate"
-* ~"Verify"
-* ~"Do Verify"
-* ~"Verified"
-* ~"Incident"
-* ~"Reviewed"
-* ~"Do Review"
