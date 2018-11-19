@@ -21,22 +21,22 @@ In English
 | bug-report.md | ~"Bug" | `#FF0000` | Issue used for bug report |
 | incident-report.md | ~"Incident" | `#FF0000` | Issue used for incident report |     
 | design-task.md | ~"Design" |`#1D5299` | Issue to describe design task |
-| general-task.md |  ~"General"   | `#1D5299` |       | 
-| implementation-task.md | ~"Implementation" | `#1D5299` | |
-| documentation-task.md | ~"Documentation" | `#1D5299` | |
-| question-and-answer.md | ~"Q&A" | `#1D5299` | |
-| User Story.md | ~"User Story" | `#1D5299` | |
-| Job Story.md  | ~"Job Story" | `#1D5299` | |
-| Assignment | ~"Assignment" | `#2B7BE5` | |
+| general-task.md |  ~"General"   | `#1D5299` | Issue for general purpose  | 
+| implementation-task.md | ~"Implementation" | `#1D5299` | Issue to describe coding etc.. |
+| documentation-task.md | ~"Documentation" | `#1D5299` | Issue to describe documentation |
+| question-and-answer.md | ~"Q&A" | `#1D5299` | Question and Answer issue |
+| User Story.md | ~"User Story" | `#1D5299` | User Story issue |
+| Job Story.md  | ~"Job Story" | `#1D5299` | Job Story issue |
+| Assignment | ~"Assignment" | `#2B7BE5` | General assignment for student |
 
 
 Suomeksi
 
 | Issue type | Current Label Color | Offical Color | Tarkoitus |
 |:-:|:-:|:-:|:-:|
-| vika-raportti.md | ~"Bug"  | `#FF0000` ||
-| poikkeama-raportti.md | ~"Incident" | `#FF0000` ||
-| suunnittelu-tehtävä.md | ~"Design" | `#1D5299` | |
+| vika-raportti.md | ~"Bug"  | `#FF0000` | Issue, jonka avulla raportoidaan vikoja |
+| poikkeama-raportti.md | ~"Incident" | `#FF0000` | Issue, jonka avulla raportoidaan poikkeamia esim. katselmointi |
+| suunnittelu-tehtävä.md | ~"Design" | `#1D5299` | Issue, jolla kuvataan suunnittelutehtävä |
 | yleinen-tehtävä.md | ~"General" | `#1D5299` ||
 | toteutus-tehtävä.m | ~"Implementation" | `#1D5299` ||
 | Dokumentointi-tehtävä.md | ~"Documentation" | `#1D5299` ||
