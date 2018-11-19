@@ -51,7 +51,7 @@ Suomeksi
 | Backlog | ~"Backlog" | `#F0A921` |
 | Estimate | ~"Estimate" | `#F0A921` |
 | Doing | ~"Doing" | `#F0A921` |
-| Fixed Verify | ~"Fixed Verify" | `#F0A921` | 
+| Fixed Verify | ~"Fixed Verify" | `#9E760D` | 
 | Verified | ~"Verified" | |
 | Waiting Review | ~"Waiting Review" | `#F0A921` |
 | Reviewed | ~"Reviewed" | |
