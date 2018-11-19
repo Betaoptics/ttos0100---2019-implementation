@@ -78,6 +78,7 @@ graph TD;
     Bug-->Backlog;
     Backlog-->Estimate;
     Estimate-->Doing;
+    Bug-->Doing;
     Doing-->Fixed-Verify;
     Verify-->Verified;
     Fixed-Verify-->Verify;
