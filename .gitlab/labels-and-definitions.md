@@ -27,7 +27,7 @@ In English
 | question-and-answer.md | ~"Q&A" | 
 | User Story.md | ~"User Story" |
 | Job Story.md  | ~"Job Story" |
-| Assignement | ~"Assignement" |
+| Assignement | ~"Assignment" |
 
 
 Suomeksi
