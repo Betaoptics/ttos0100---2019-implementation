@@ -83,6 +83,18 @@ graph TD;
     Fixed-Verify-->Verify;
     Verify-->Doing;
     Verify-->Done;
-    Cerify-->Done;
+    Done-->Closed;
+```
+
+# Assignment Issue Life Cycle
+
+```mermaid
+graph TD;
+    Assignment-->Backlog;
+    
+    Assignment-->Doing;
+    Doing-->Fixed-Verify;
+    Verify-->Verified;
+    Verified-->Done;
     Done-->Closed;
 ```
