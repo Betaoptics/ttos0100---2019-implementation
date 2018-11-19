@@ -1,6 +1,6 @@
 ## Life Cycles
 
-<img src="http://yuml.me/diagram/scruffy/class/[Account]++owner-0..*>[Repository]"/>
+
 
 # General Issue Life Cycle
 
