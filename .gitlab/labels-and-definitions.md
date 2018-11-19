@@ -1,5 +1,7 @@
 # OPF Issue types-and-labels
 
+[Issue Life Cycle and process](issue-life-cycles.md)
+
 
 | Issue type | Current Label Color | Offical Color | Purpose |
 |:-:|:-:|:-:|:-:|
