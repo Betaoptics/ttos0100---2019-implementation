@@ -25,6 +25,8 @@ In English
 | implementation-task.md | ~"Implementation" |
 | question-and-answer.md | ~"Q&A" | 
 | User Story.md | ~"User Story" |
+| Job Story.md  | ~"Job Story" |
+
 
 Suomeksi
 
@@ -54,5 +56,4 @@ Suomeksi
 
 Reserved Labels for future:
 
-Job Story.md  /label ~"Job Story"
 
