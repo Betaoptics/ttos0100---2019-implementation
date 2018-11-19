@@ -46,16 +46,16 @@ Suomeksi
  
 # Issue State Labels
 
-| Issue type | Label |
-|:-:|:-:|
-| Backlog | ~"Backlog" |
-| Estimate | ~"Estimate" |
-| Doing | ~"Doing" | 
-| Fixed Verify | ~"Fixed Verify" | 
-| Verified | ~"Verified" |
-| Waiting Review | ~"Waiting Review" |
-| Reviewed | ~"Reviewed" |
-| Done | ~"Done" |
+| Issue type | Current Label Color | Offical Color |
+|:-:|:-:|:-:|
+| Backlog | ~"Backlog" | |
+| Estimate | ~"Estimate" | |
+| Doing | ~"Doing" |  |
+| Fixed Verify | ~"Fixed Verify" | | 
+| Verified | ~"Verified" | |
+| Waiting Review | ~"Waiting Review" | |
+| Reviewed | ~"Reviewed" | |
+| Done | ~"Done" | |
 
 Reserved Labels for future:
 
