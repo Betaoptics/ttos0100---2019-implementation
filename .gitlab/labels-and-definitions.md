@@ -39,6 +39,7 @@ Reserved Labels for future:
 
 Job Story.md  /label ~"Job Story"
 
+* ~"Doing"
 * ~"Estimate"
 * ~"Verify"
 * ~"Do Verify"
