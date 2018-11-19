@@ -11,6 +11,8 @@
 
 
 
+# Issue Types
+
 		
 | Issue type | Label |
 |:-:|:-:|
@@ -33,6 +35,7 @@
 | harjoitus-tehtava.md  |   |
 | UserStory-Käyttäjätarina.md | ~"User Story"  |
 
+# Issue State Labels
 
 
 Reserved Labels for future:
