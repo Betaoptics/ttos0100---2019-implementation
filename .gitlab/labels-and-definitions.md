@@ -36,13 +36,13 @@ Suomeksi
 |:-:|:-:|:-:|
 | vika-raportti.md | ~"Bug"  | |
 | poikkeama-raportti.md | ~"Incident" | |
-| suunnittelu-tehtävä.md | ~"Design" | |
-| yleinen-tehtävä.md | ~"General" | |
-| toteutus-tehtävä.m | ~"Implementation" | |
-| Dokumentointi-tehtävä.md | ~"Documentation" | |
-| kysymys-ja-vastaus.md | ~"Q&A" |  |
-| harjoitustehtava.md  | ~"Assignment" | |
-| UserStory-Käyttäjätarina.md | ~"User Story"  | |
+| suunnittelu-tehtävä.md | ~"Design" | `#1D5299` |
+| yleinen-tehtävä.md | ~"General" | `#1D5299` |
+| toteutus-tehtävä.m | ~"Implementation" | `#1D5299` |
+| Dokumentointi-tehtävä.md | ~"Documentation" | `#1D5299` |
+| kysymys-ja-vastaus.md | ~"Q&A" | `#1D5299` |
+| harjoitustehtava.md  | ~"Assignment" | `#1D5299` |
+| UserStory-Käyttäjätarina.md | ~"User Story"  | `#1D5299` |
  
 # Issue State Labels
 
