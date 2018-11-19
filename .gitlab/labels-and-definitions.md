@@ -55,7 +55,7 @@ Suomeksi
 | Verified | ~"Verified" | `#69D121` | Bug report issue which is verified by tester/coder |
 | Waiting Review | ~"Waiting Review" | `#F0A921` | Issue waiting for general review |
 | Reviewed | ~"Reviewed" | `#69D121` | Issue which has passed review |
-| Done | ~"Done" | `#29510D` | Issue waiting for review |
+| Done | ~"Done" | `#29510D` | Issue which is done and review |
 
 Reserved Labels for future:
 
