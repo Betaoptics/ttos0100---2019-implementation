@@ -1,6 +1,6 @@
 # OPF Issue types-and-labels
 
-
+```mermaid[NEWLINE]Mermaid stuff[NEWLINE]```
 
 | Issue type | Current Label Color | Offical Color | Purpose |
 |:-:|:-:|:-:|:-:|
