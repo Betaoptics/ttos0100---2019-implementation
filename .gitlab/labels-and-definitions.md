@@ -17,7 +17,7 @@
 | bug-report.md | ~"Bug" |         
 | incident-report.md | ~"Incident" |     
 | design-task.md | ~"Design" |
-| general-task.md |  ~"Task-todo"   |        
+| general-task.md |  ~"General"   |        
 | implementation-task.md | ~"Implementation" |
 | question-and-answer.md | ~"Q&A" | 
 | User Story.md | ~"User Story" |
@@ -27,7 +27,7 @@
 | vika-raportti.md | ~"Bug"  |
 | poikkeama-raportti.md | ~"Incident" |
 | suunnittelu-tehtävä.md | ~"Design"  |
-| yleinen-tehtävä.md | ~"Task-todo"  |
+| yleinen-tehtävä.md | ~"General"  |
 | toteutus-tehtävä.m | ~"Implementation"  |
 | kysymys-ja-vastaus.md | ~"Q&A"   | 
 | harjoitus-tehtava.md  |   |
