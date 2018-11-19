@@ -1,8 +1,16 @@
-1types-and-labels.txt
+# OPF Issue types-and-labels
 
 
 
-Name	Last commit	Last update
+| Issue type | Label |
+|:-:|:-:|
+| Personal | ~"Personal" |    
+| Team | ~"Team" |    
+| Backlog | ~"Backlog" |
+
+
+
+
 		
 | Issue type | Label |
 |:-:|:-:|
@@ -25,12 +33,16 @@ Name	Last commit	Last update
 | harjoitus-tehtava.md  |   |
 | UserStory-Käyttäjätarina.md |   |
 
+
+
 Reserved Labels for future:
 
 Job Story.md  /label ~"Job Story"
 
-
-* /label ~"Fixed Do Verify"
-* /label ~"Verified"
-* /label ~"Incident"
- 
+* ~"Estimate"
+* ~"Verify"
+* ~"Fixed Do Verify"
+* ~"Verified"
+* ~"Incident"
+* ~"Reviewed"
+* ~"Waiting for review"
