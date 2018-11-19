@@ -27,7 +27,7 @@ In English
 | question-and-answer.md | ~"Q&A" |  |
 | User Story.md | ~"User Story" | |
 | Job Story.md  | ~"Job Story" | |
-| Assignment | ~"Assignment" | |
+| Assignment | ~"Assignment" | `#2B7BE5` |
 
 
 Suomeksi
