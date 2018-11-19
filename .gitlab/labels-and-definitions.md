@@ -41,9 +41,9 @@ Suomeksi
 | toteutus-tehtävä.m | ~"Implementation" | `#1D5299` ||
 | Dokumentointi-tehtävä.md | ~"Documentation" | `#1D5299` ||
 | kysymys-ja-vastaus.md | ~"Q&A" | `#1D5299` ||
+| Käyttäjätarina.md | ~"User Story"  | `#1D5299` ||
 | harjoitustehtava.md  | ~"Assignment" | `#2B7BE5` ||
-| UserStory-Käyttäjätarina.md | ~"User Story"  | `#1D5299` ||
- 
+
 # Issue State Labels
 
 | Issue type | Current Label Color | Offical Color | Purpose  |
