@@ -1,6 +1,6 @@
 ## Life Cycles
 
-![Example UML](http://yuml.me/diagram/scruffy/class/[Customer]->[Billing Address])
+<img src="http://yuml.me/diagram/scruffy/class/[Account]++owner-0..*>[Repository]"/>
 
 # General Issue Life Cycle
 
