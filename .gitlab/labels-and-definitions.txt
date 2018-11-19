@@ -1,4 +1,4 @@
-types-and-labels.txt
+1types-and-labels.txt
 
 
 
@@ -6,11 +6,26 @@ Name	Last commit	Last update
 ..		
 
 
-bug-report.md           incident-report.md      suunnittelu-tehtävä.md
-design-task.md          job-story.md            toteutus-tehtävä.md
-general-task.md         kysymys-ja-vastaus.md   user-story.md
-harjoitus-tehtava.md    poikkeama-raportti.md   vika-raportti.md
-implementation-task.md  question-and-answer.md  yleinen-tehtävä.md
+bug-report.md  /label ~"Bug"           
+incident-report.md      
+design-task.md  /label ~"Design"
+job-story.md            
+general-task.md         
+implementation-task.md
+question-and-answer.md
+
+vika-raportti.md  /label ~"Bug"
+poikkeama-raportti.md
+suunnittelu-tehtävä.md  /label ~"Design"
+yleinen-tehtävä.md
+toteutus-tehtävä.md
+kysymys-ja-vastaus.md  
+harjoitus-tehtava.md
+
+User Story.md
+Job Story.md
+
+
 
 
  bug.md	
@@ -33,8 +48,7 @@ implementation-task.md  question-and-answer.md  yleinen-tehtävä.md
  
  Labels:
  
- /label ~"Bug"
- /label ~"Design"
+
  /label ~"Task-todo"
  /label ~"Implementation"
  /label ~"Job Story"
