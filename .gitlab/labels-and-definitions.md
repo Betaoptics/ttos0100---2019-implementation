@@ -48,7 +48,7 @@ Suomeksi
 | Backlog | ~"Backlog" |
 | Estimate | ~"Estimate" |
 | Doing | ~"Doing" | 
-| Verify | ~"Verify" | 
+| Fixed Verify | ~"Fixed Verify" | 
 | Verified | ~"Verified" |
 | Waiting Review | ~"Waiting Review" |
 | Reviewed | ~"Reviewed" |
