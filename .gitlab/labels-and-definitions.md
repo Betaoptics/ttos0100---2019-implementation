@@ -1,6 +1,15 @@
-# OPF Issue types-and-labels
+# About OPF Issue Types
 
-[Issue Life Cycle and process](issue-life-cycles.md)
+There is several predefined issue types which are used in OPF.
+
+
+
+Here you can find process and life cycles of different issues 
+
+*  [Issue Life Cycle and process](issue-life-cycles.md)
+
+
+# OPF Issue types-and-labels
 
 
 | Issue type | Current Label Color | Offical Color | Purpose |
