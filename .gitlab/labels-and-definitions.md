@@ -3,7 +3,7 @@
 
 
 Name	Last commit	Last update
-..		
+		
 | Issue type | Label |
 |:-:|:-:|
 | bug-report.md | ~"Bug" |         
