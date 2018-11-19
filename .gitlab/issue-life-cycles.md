@@ -1,5 +1,7 @@
 ## Life Cycles
 
+![Example UML](https://yuml.me/diagram/scruffy/class/[Customer]->[Billing Address])
+
 # General Issue Life Cycle
 
 ```mermaid
