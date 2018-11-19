@@ -55,7 +55,7 @@ Suomeksi
 | Verified | ~"Verified" | `#69D121` |
 | Waiting Review | ~"Waiting Review" | `#F0A921` |
 | Reviewed | ~"Reviewed" | `#69D121` |
-| Done | ~"Done" | |
+| Done | ~"Done" | `#29510D` |
 
 Reserved Labels for future:
 
