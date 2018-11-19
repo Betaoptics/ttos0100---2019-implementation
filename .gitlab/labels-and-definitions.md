@@ -80,6 +80,7 @@ graph TD;
     Estimate-->Doing;
     Doing-->Fixed-Verify;
     Verify-->Verified;
+    Fixed-Verify-->Verify;
     Verify-->Doing;
     Verify-->Done
     Done-->Closed
