@@ -46,16 +46,16 @@ Suomeksi
  
 # Issue State Labels
 
-| Issue type | Current Label Color | Offical Color |
-|:-:|:-:|:-:|
-| Backlog | ~"Backlog" | `#F0A921` |
-| Estimate | ~"Estimate" | `#F0A921` |
-| Doing | ~"Doing" | `#F0A921` |
-| Fixed Verify | ~"Fixed Verify" | `#9E760D` | 
-| Verified | ~"Verified" | `#69D121` |
-| Waiting Review | ~"Waiting Review" | `#F0A921` |
-| Reviewed | ~"Reviewed" | `#69D121` |
-| Done | ~"Done" | `#29510D` |
+| Issue type | Current Label Color | Offical Color | Purpose  |
+|:-:|:-:|:-:|:-:|
+| Backlog | ~"Backlog" | `#F0A921` | Issue waiting in the Backlog |
+| Estimate | ~"Estimate" | `#F0A921` | Issue in estimation phase |
+| Doing | ~"Doing" | `#F0A921` | Issue under work |
+| Fixed Verify | ~"Fixed Verify" | `#9E760D` | Bug report issue which is fixed by coder |
+| Verified | ~"Verified" | `#69D121` | Bug report issue which is verified by tester/coder |
+| Waiting Review | ~"Waiting Review" | `#F0A921` | Issue waiting for general review |
+| Reviewed | ~"Reviewed" | `#69D121` | Issue which has passed review |
+| Done | ~"Done" | `#29510D` | Issue waiting for review |
 
 Reserved Labels for future:
 
