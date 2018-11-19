@@ -20,13 +20,13 @@ In English
 |:-:|:-:|:-:|
 | bug-report.md | ~"Bug" | `#FF0000` |
 | incident-report.md | ~"Incident" | |     
-| design-task.md | ~"Design" | |
-| general-task.md |  ~"General"   |  |       
-| implementation-task.md | ~"Implementation" | |
-| documentation-task.md | ~"Documentation" | |
-| question-and-answer.md | ~"Q&A" |  |
-| User Story.md | ~"User Story" | |
-| Job Story.md  | ~"Job Story" | |
+| design-task.md | ~"Design" |`#1D5299` |
+| general-task.md |  ~"General"   | `#1D5299` |       
+| implementation-task.md | ~"Implementation" | `#1D5299` |
+| documentation-task.md | ~"Documentation" | `#1D5299` |
+| question-and-answer.md | ~"Q&A" | `#1D5299` |
+| User Story.md | ~"User Story" | `#1D5299` |
+| Job Story.md  | ~"Job Story" | `#1D5299` |
 | Assignment | ~"Assignment" | `#2B7BE5` |
 
 
