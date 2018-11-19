@@ -27,7 +27,7 @@ In English
 | question-and-answer.md | ~"Q&A" | 
 | User Story.md | ~"User Story" |
 | Job Story.md  | ~"Job Story" |
-| Assignement | ~"Assignment" |
+| Assignment | ~"Assignment" |
 
 
 Suomeksi
@@ -41,7 +41,7 @@ Suomeksi
 | toteutus-tehtävä.m | ~"Implementation" |
 | Dokumentointi-tehtävä.md | ~"Documentation" |
 | kysymys-ja-vastaus.md | ~"Q&A" | 
-| harjoitustehtava.md  | ~"Assignement" |
+| harjoitustehtava.md  | ~"Assignment" |
 | UserStory-Käyttäjätarina.md | ~"User Story"  |
 
 # Issue State Labels
