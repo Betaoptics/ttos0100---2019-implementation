@@ -24,10 +24,10 @@ In English
 | [general-task.md](issue_templates/general-task.md) |  ~"General"   | `#1D5299` | Issue for general purpose  | 
 | [implementation-task.md](issue_templates/implementation-task.md) | ~"Implementation" | `#1D5299` | Issue to describe coding etc.. |
 | [documentation-task.md](issue_templates/documentation-task.md) | ~"Documentation" | `#1D5299` | Issue to describe documentation |
-| question-and-answer.md | ~"Q&A" | `#1D5299` | Question and Answer issue |
-| User Story.md | ~"User Story" | `#1D5299` | User Story issue |
-| Job Story.md  | ~"Job Story" | `#1D5299` | Job Story issue |
-| Assignment | ~"Assignment" | `#2B7BE5` | General assignment for student |
+| [question-and-answer.md](issue_templates/question-and-answer.md) | ~"Q&A" | `#1D5299` | Question and Answer issue |
+| [User Story.md](issue_templates/user-story.md) | ~"User Story" | `#1D5299` | User Story issue |
+| [Job Story.md](issue_templates/job-story.md)  | ~"Job Story" | `#1D5299` | Job Story issue |
+| [Assignment](issue_templates/assignment.md)) | ~"Assignment" | `#2B7BE5` | General assignment for student |
 
 
 Suomeksi
