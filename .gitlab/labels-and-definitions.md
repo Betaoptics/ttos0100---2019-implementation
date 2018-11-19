@@ -18,7 +18,7 @@ In English
 		
 | Issue type | Current Label Color | Offical Color | Purpose |
 |:-:|:-:|:-:|:-:|
-| bug-report.md | ~"Bug" | `#FF0000` | Issue used for bug report |
+| [bug-report.md](/issue_templates/bug-report.md) | ~"Bug" | `#FF0000` | Issue used for bug report |
 | incident-report.md | ~"Incident" | `#FF0000` | Issue used for incident report |     
 | design-task.md | ~"Design" |`#1D5299` | Issue to describe design task |
 | general-task.md |  ~"General"   | `#1D5299` | Issue for general purpose  | 
