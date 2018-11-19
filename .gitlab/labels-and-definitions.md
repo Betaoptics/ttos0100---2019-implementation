@@ -26,6 +26,7 @@ In English
 | question-and-answer.md | ~"Q&A" | 
 | User Story.md | ~"User Story" |
 | Job Story.md  | ~"Job Story" |
+| Assignement | ~"Assignement" |
 
 
 Suomeksi
@@ -34,11 +35,11 @@ Suomeksi
 |:-:|:-:|
 | vika-raportti.md | ~"Bug"  |
 | poikkeama-raportti.md | ~"Incident" |
-| suunnittelu-tehtävä.md | ~"Design"  |
-| yleinen-tehtävä.md | ~"General"  |
-| toteutus-tehtävä.m | ~"Implementation"  |
-| kysymys-ja-vastaus.md | ~"Q&A"   | 
-| harjoitus-tehtava.md  |   |
+| suunnittelu-tehtävä.md | ~"Design" |
+| yleinen-tehtävä.md | ~"General" |
+| toteutus-tehtävä.m | ~"Implementation" |
+| kysymys-ja-vastaus.md | ~"Q&A" | 
+| harjoitus-tehtava.md  | ~"Assignement" |
 | UserStory-Käyttäjätarina.md | ~"User Story"  |
 
 # Issue State Labels
