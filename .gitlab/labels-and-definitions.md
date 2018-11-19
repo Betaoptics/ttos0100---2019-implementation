@@ -18,7 +18,7 @@ In English
 		
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| bug-report.md | ~"Bug" |  #FF0000  <span style="color:red;height:10px;width:10px;background-color:#FF0000;">asd</span>     |
+| bug-report.md | ~"Bug" |  #FF0000  <span color="red" style="color:red;height:10px;width:10px;background-color:#FF0000;">asd</span>     |
 | incident-report.md | ~"Incident" | |     
 | design-task.md | ~"Design" | |
 | general-task.md |  ~"General"   |  |       
