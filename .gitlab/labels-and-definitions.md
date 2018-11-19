@@ -5,55 +5,30 @@
 Name	Last commit	Last update
 ..		
 
-
 bug-report.md  /label ~"Bug"           
-incident-report.md      
+incident-report.md /label ~"Incident"     
 design-task.md  /label ~"Design"
 job-story.md            
-general-task.md         
-implementation-task.md
+general-task.md /label ~"Task-todo"         
+implementation-task.md /label ~"Implementation"
 question-and-answer.md
 
 vika-raportti.md  /label ~"Bug"
-poikkeama-raportti.md
+poikkeama-raportti.md  /label ~"Incident"  
 suunnittelu-tehtävä.md  /label ~"Design"
-yleinen-tehtävä.md
-toteutus-tehtävä.md
+yleinen-tehtävä.md /label ~"Task-todo"
+toteutus-tehtävä.md /label ~"Implementation"
 kysymys-ja-vastaus.md  
 harjoitus-tehtava.md
 
-User Story.md
-Job Story.md
+User Story.md  /label ~"User Story"
+Job Story.md  /label ~"Job Story"
 
 
+Reserved Labels:
 
 
- bug.md	
- design.md
- implementation.md
- incident.md
- job-story.md
- question-and-answer
- task-todo.md
- user-story.md
-
- vikaraportti.md
- suunnittelu.md
- toteutus.md
- poikkeama.md
- kysymys-vastaus.md
- tehtava.md
- user-story.md
- 
- 
- Labels:
- 
-
- /label ~"Task-todo"
- /label ~"Implementation"
- /label ~"Job Story"
- /label ~"User Story"
  /label ~"Fixed Do Verify"
  /label ~"Verified"
- 
+ /label ~"Incident"
  
