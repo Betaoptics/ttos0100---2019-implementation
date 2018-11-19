@@ -4,8 +4,8 @@
 
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| Personal | ~"Personal" |   |  
-| Team | ~"Team" | |    
+| Personal | ~"Personal" | `#44AD8E` |  
+| Team | ~"Team" | `#44AD8E` |    
 
 
 
