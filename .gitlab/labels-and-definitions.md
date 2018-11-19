@@ -18,7 +18,7 @@ In English
 		
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| bug-report.md | ~"Bug" |  #FF0000  <div style="height:10px;width:10px;background-color:#FF0000;">dd</div>     |
+| bug-report.md | ~"Bug" |  #FF0000  <div style="height:10px;width:10px;background-color:#FF0000;"></div>     |
 | incident-report.md | ~"Incident" | |     
 | design-task.md | ~"Design" | |
 | general-task.md |  ~"General"   |  |       
