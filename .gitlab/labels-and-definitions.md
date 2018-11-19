@@ -82,6 +82,6 @@ graph TD;
     Verify-->Verified;
     Fixed-Verify-->Verify;
     Verify-->Doing;
-    Verify-->Done
-    Done-->Closed
+    Verify-->Done;
+    Done-->Closed;
 ```
