@@ -94,16 +94,16 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQSEC0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
-| REQSEC0002 | Non-Functional Security |||
-| REQSEC0003 | Non-Functional Security |||
-| REQSEC0004 | Non-Functional Security |||
-| REQSEC0005 | Non-Functional Security |||
-| REQSEC0006 | Non-Functional Security |||
-| REQSEC0007 | Non-Functional Security |||
-| REQSEC0008 | Non-Functional Security |||
-| REQSEC0009 | Non-Functional Security |||
-| REQSEC0010 | Non-Functional Security |||
+| SECURITY-REQ-0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
+| SECURITY-REQ-0002 | Non-Functional Security |||
+| SECURITY-REQ-0003 | Non-Functional Security |||
+| SECURITY-REQ-0004 | Non-Functional Security |||
+| SECURITY-REQ-0005 | Non-Functional Security |||
+| SECURITY-REQ-0006 | Non-Functional Security |||
+| SECURITY-REQ-0007 | Non-Functional Security |||
+| SECURITY-REQ-0008 | Non-Functional Security |||
+| SECURITY-REQ-0009 | Non-Functional Security |||
+| SECURITY-REQ-0010 | Non-Functional Security |||
 
 
 **Suorituskyky**
