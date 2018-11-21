@@ -5,7 +5,5 @@
 graph LR;
 
     Start--| Lets Start |--Working;
-    Working-->Feedback;
-    Feedback-- Jatketaan hommaa --Työstö;
-    Työstö-->Luovutus;
+  
 ```
