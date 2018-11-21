@@ -4,8 +4,8 @@
 ```mermaid
 graph LR;
 
-    Aloitus-->Työstö;
+    Aloitus-- Aloitetaan työskentely --Työstö;
     Työstö-->Palaute;
-    Palaute-- Jatketaan hommaa --Työstö
+    Palaute-- Jatketaan hommaa --Työstö;
     Työstö-->Luovutus;
 ```
