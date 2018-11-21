@@ -1,14 +1,5 @@
 # About OPF Issue Types
 
-There is several predefined issue types which are used in OPF.
-
-
-
-Here you can find process and life cycles of different issues 
-
-*  [Issue Life Cycle and process](issue-life-cycles.md)
-
-
 # OPF Issue types-and-labels
 
 
