@@ -1,12 +1,14 @@
-## Please implement....
+# Tehtävä?
 
-* Description
+1. Päivitä Issue -kuvaus! 
+2. ..
+3. ..
 
+# Vastuulliset?
 
+* nimi/sidosryhmä
 
+# Linkkejä & lähteitä
 
-## Links to other tasks/features?
-
-* #1, #2 
-
+/label ~"Backlog"
 /label ~Implementation
