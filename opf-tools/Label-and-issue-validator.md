@@ -15,7 +15,7 @@
 | [question-and-answer.md](issue_templates/question-and-answer.md) | ~"Q&A" | `#1D5299` | Question and Answer issue |
 | [User Story.md](issue_templates/user-story.md) | ~"User Story" | `#1D5299` | User Story issue |
 | [Job Story.md](issue_templates/job-story.md)  | ~"Job Story" | `#1D5299` | Job Story issue |
-| [Assignment](issue_templates/assignment.md)) | ~"Assignment" | `#2B7BE5` | General assignment for student |
+| [Assignment](issue_templates/assignment.md) | ~"Assignment" | `#2B7BE5` | General assignment for student |
    
 
 
