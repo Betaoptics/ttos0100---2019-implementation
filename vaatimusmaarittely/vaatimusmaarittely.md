@@ -92,13 +92,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä on ko. ryhmän/edustajan motivaatio liittyen palveluun__
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
@@ -110,13 +103,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 __Kirjoitetaan auki yksittäiset sidosryhmät ja eri profiilit__ 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 * [Profile 1](stakeholder-profile1.md)
 * [Profile 2](stakeholder-profile2.md)
@@ -128,7 +114,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 * ![Youtube-tarinaa](https://www.youtube.com/watch?v=O04EYNKmEXc)
 
 __Käydään läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta__
+__Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja.. __
 
+Esim. 
 
 Sed ut [Profile 1](stakeholder-profile1.md) perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -143,7 +131,13 @@ __Polkuja tehdään tarvittaessa useita eri tarkoituksiin__
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
+
+* Mieti onko mahdollista hyödynnetään jotain ulkopuolista palvelua kuvauksen apuna?
+
+Esim. Canvanizer https://canvanizer.com
+
 <div id="can_widget_container"></div><script type="text/javascript" src="http://api.canvanizer.com/api/widget.js?v=1&canvas_id=rOTvl2nds7E1Y&mode=compact-nobg&revision=sync"></script>
+
 
 
 # Vaatimukset, käyttötapaukset ja ominaisuudet
