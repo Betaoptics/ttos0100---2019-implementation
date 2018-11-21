@@ -1,14 +1,14 @@
-## Design task to do?
+# What should be done?
 
-(Description)
+1. Update issue topic according description
+2. ..
+3. ..
 
+# Responsible
 
+* name/stakeholder
 
-
-## Links to other tasks/features?
-
-
-(documentation?)
+# Links & Sources
 
 /label ~Design
 /label ~Backlog
