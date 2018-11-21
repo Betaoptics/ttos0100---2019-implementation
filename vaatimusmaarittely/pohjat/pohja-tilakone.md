@@ -5,7 +5,7 @@
 graph TD;
     Aloitus-->Työstö;
     Työstö-->Palaute;
-    Palaute--Työstö;
+    Palaute-->Työstö;
     Työstö-->Valmis;
     Valmis-->Luovutus;
     
