@@ -6,11 +6,12 @@ Voit luoda eri pohjia tarvittavan määrän.
 
 Esim. Jos sinulla on tarve määritellä neljä käyttötapausta, niin kannattaa kopioida tiedosto ensin käyttäen lähteenä pohjat-kansion esimäärittelyjä.
 
+'''
 *cp /pohjat/pohja-kayttaotapaus.md ./UC-kayttotapaus-1.md*
 *cp /pohjat/pohja-kayttaotapaus.md ./UC-kayttotapaus-2.md*
 *cp /pohjat/pohja-kayttaotapaus.md ./UC-kayttotapaus-3.md*
 *cp /pohjat/pohja-kayttaotapaus.md ./UC-kayttotapaus-4.md*
-
+'''
 
 
 
