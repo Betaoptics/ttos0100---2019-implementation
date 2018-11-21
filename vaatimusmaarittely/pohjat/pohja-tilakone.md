@@ -5,7 +5,7 @@
 graph TD
     Aloitus---|This is the text|Työskentely
     Työskentely---|Pyydetään palautetta|Palautekeskustelu
-    Palautekeskustelu--|Jatketaan työskentelyä palautteen pohjalta|Työskentely
+    Palautekeskustelu--|Jatketaan työskentelyä palautteen pohjalta|Muumi
     
   
 ```
