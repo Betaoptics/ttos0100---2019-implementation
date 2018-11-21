@@ -2,7 +2,7 @@
 
 
 ```mermaid
-graph TD;
+graph LR;
     Aloitus-->Työstö;
     Työstö-->Palaute;
     Palaute-- Jatketaan hommaa --Työstö;
