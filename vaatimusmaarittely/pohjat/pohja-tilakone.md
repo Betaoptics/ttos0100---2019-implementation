@@ -3,7 +3,8 @@
 
 ```mermaid
 graph LR
-    A---|This is the text|B
-
+    Aloitus---|This is the text|Työskentely
+    Työskentely---|Pyydetään palautetta|Palautekeskustelu
+    
   
 ```
