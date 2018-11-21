@@ -6,9 +6,9 @@
 
 # Vastuulliset?
 
-* nimi/sidorsyhmä
+* nimi/sidosryhmä
 
 # Linkkejä & lähteitä
 
+/label ~"Backlog"
 /label ~"General"
-/lable ~"Backlog"
