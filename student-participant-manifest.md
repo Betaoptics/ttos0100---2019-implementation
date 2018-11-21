@@ -1,0 +1,2 @@
+Active:no
+Folder:vaatimusmaarittely
