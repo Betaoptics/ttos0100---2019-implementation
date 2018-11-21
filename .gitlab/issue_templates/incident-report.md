@@ -1,21 +1,14 @@
-# Description of the incident
+# What should be done for incident?
 
-* What is the problem/incident/issue etc.?
+1. Update issue topic according description
+2. ..
+3. ..
 
-# Proposals for fix
+# Responsible
 
+* name/stakeholder
 
-
-# Link to material
-
-* http://Link.to.file
-* File share 
-* Location etc..
-
-
-# Who will be assigned for fix 
-
-* Do Assign and add correct stakeholder to fix task
-* 
+# Links & Sources
 
 /label "~Incident"
+/label "~Backlog"
