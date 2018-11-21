@@ -2,7 +2,7 @@
 
 
 ```mermaid
-graph LR;
+graph LR
 
     Start--| Lets Start |--Working
   
