@@ -10,21 +10,21 @@
 
 ## Table of Contents 
 
-* [Tuotteen kuvaus](#Johdatus)
-* [Palvelukuvaus](#Palvelukuvaus)
-* [Asiakastarina](#Johdatus)
-* [Sidosryhmät ja profiilikuvaukset]()
-* [Sidosryhmäkuva]()
-* [Palvelu/asiakaspolku]()
-* [Yleinen käyttötapaus]()
-* [Yleiset toiminnalliset vaatimukset]()
-* [Yleiset ei-toiminnalliset vaatimukset]()
-* [Palvelu MockUp]()
-* [Tärkeimmät ominaisuudet]()
-* [Julkaisun suunnitelma]()
-* [Palvelun/ohjelmiston arkkitehtuuri]()
-* [Testaus ja laadunvarmistus]()
-* [Lähteet]()
+* [Introduction for a Product/Service](#Introduction)
+* [Service Description](#Service Description)
+* [Customer Storys](#Customer Storys)
+* [Stake Holders and profile descriptions]()
+* [Stakeholder map]()
+* [Customer Journeys]()
+* [General Use Cases]()
+* [General Functional Requirements]()
+* [General Non-Functional Requirements]()
+* [Generalö Service UI-Mockup ]()
+* [Key Features]()
+* [Release Plan Proposal for Features]()
+* [About Technical Architecture]()
+* [About testing and Quality Assurance]()
+* [Sources]()
 
 # Introduction
 
