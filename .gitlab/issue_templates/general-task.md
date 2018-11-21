@@ -1,17 +1,15 @@
-# Task To Do .........
+# What should be done?
+
+1. Update issue topic according description
+2. ..
+3. ..
+
+# Responsible
+
+* name/stakeholder
+
+# Links & Sources
 
 
-- [ ] First
-- [ ] First
-- [ ] First
-- [ ] First
-- [ ] First
-
-# Validation?
-
-
-- [ ] First
-- [ ] First
-
-
-/label ~"To Do"
+/label ~"General"
+/lable ~"Backlog"
