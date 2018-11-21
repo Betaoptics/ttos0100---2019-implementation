@@ -1,13 +1,14 @@
-# Tehtävä
+# Tehtävä?
 
-* Tarkista 
-*
-*
+1. Päivitä Issue -kuvaus! 
+2. ..
+3. ..
 
+# Vastuulliset?
 
-# Kannattaa muistaa myös..
+* nimi/sidorsyhmä
 
-* 
+# Linkkejä & lähteitä
 
-
-/label ~"To Do"
+/label ~"General"
+/lable ~"Backlog"
