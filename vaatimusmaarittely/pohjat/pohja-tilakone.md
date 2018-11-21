@@ -4,6 +4,6 @@
 ```mermaid
 graph LR
 
-    Start--| Lets Start |--Working
+    Start--| Lets Start |Working
   
 ```
