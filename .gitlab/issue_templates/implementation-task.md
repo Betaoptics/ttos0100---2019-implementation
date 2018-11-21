@@ -1,12 +1,15 @@
-## Please implement....
+# What should be done?
 
-* Description
+1. Update issue topic according description
+2. ..
+3. ..
 
+# Responsible
 
+* name/stakeholder
 
+# Links & Sources
 
-## Links to other tasks/features?
-
-* #1, #2 
 
 /label ~Implementation
+/lable ~Backlog
