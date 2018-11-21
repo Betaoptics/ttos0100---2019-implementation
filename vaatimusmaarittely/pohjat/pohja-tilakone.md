@@ -6,4 +6,5 @@ graph LR;
     Aloitus-->Työstö;
     Työstö-->Palaute;
     Palaute-- Jatketaan hommaa --Työstö;
+    Työstö-->Luovutus;
 ```
