@@ -143,6 +143,8 @@ __Polkuja tehdään tarvittaessa useita eri tarkoituksiin__
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
+<div id="can_widget_container"></div><script type="text/javascript" src="http://api.canvanizer.com/api/widget.js?v=1&canvas_id=rOTvl2nds7E1Y&mode=compact-nobg&revision=sync"></script>
+
 
 # Vaatimukset, käyttötapaukset ja ominaisuudet
 
