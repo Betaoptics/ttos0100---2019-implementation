@@ -8,7 +8,7 @@ graph TD
     Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Työskentely
     Työskentely-->|Homma valmis?|Tarkistus
     Tarkistus-->|Hyväksytään|Luovutus
-    Luovutus-->|Olet vapaa|Kotia kohti
+    Luovutus-->|Olet vapaa!!|Kotia-kohti
     Tarkistus-->|Vaatii työstämistä|Työskentely
     
   
