@@ -1,4 +1,4 @@
-# Tilakone Mermaid-skriptin avulla
+# Yksinkertainen tilakone Mermaid-skriptin avulla
 
 
 ```mermaid
