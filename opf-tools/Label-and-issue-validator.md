@@ -1,23 +1,10 @@
-# About OPF Issue Types
-
 # OPF Issue types-and-labels
-
-
-| Issue type | Current Label Color | Offical Color | Purpose |
-|:-:|:-:|:-:|:-:|
-| Personal | ~"Personal" | `#44AD8E` | Personal task for student | 
-| Team | ~"Team" | `#44AD8E` | Team task for student team |    
-
-
-
 
 
 # Issue Types
 
-	
-In English
-		
-| Issue type | Current Label Color | Offical Color | Purpose |
+
+| Issue type | Label | Offical Color | Purpose |
 |:-:|:-:|:-:|:-:|
 | [bug-report.md](issue_templates/bug-report.md) | ~"Bug" | `#FF0000` | Issue used for bug report |
 | [incident-report.md](issue_templates/incident-report.md) | ~"Incident" | `#FF0000` | Issue used for incident report |     
@@ -29,25 +16,14 @@ In English
 | [User Story.md](issue_templates/user-story.md) | ~"User Story" | `#1D5299` | User Story issue |
 | [Job Story.md](issue_templates/job-story.md)  | ~"Job Story" | `#1D5299` | Job Story issue |
 | [Assignment](issue_templates/assignment.md)) | ~"Assignment" | `#2B7BE5` | General assignment for student |
+| Personal | ~"Personal" | `#44AD8E` | Personal task for team member | 
+| Team | ~"Team" | `#44AD8E` | Team task for whole team |    
 
 
-Suomeksi
 
-| Issue type | Current Label Color | Offical Color | Tarkoitus |
-|:-:|:-:|:-:|:-:|
-| vika-raportti.md | ~"Bug"  | `#FF0000` | Issue, jonka avulla raportoidaan vikoja |
-| poikkeama-raportti.md | ~"Incident" | `#FF0000` | Issue, jonka avulla raportoidaan poikkeamia esim. katselmointi |
-| suunnittelu-tehtävä.md | ~"Design" | `#1D5299` | Issue, jolla kuvataan suunnittelutehtävä |
-| yleinen-tehtävä.md | ~"General" | `#1D5299` ||
-| toteutus-tehtävä.m | ~"Implementation" | `#1D5299` ||
-| Dokumentointi-tehtävä.md | ~"Documentation" | `#1D5299` ||
-| kysymys-ja-vastaus.md | ~"Q&A" | `#1D5299` ||
-| Käyttäjätarina.md | ~"User Story"  | `#1D5299` ||
-| harjoitustehtava.md  | ~"Assignment" | `#2B7BE5` ||
+# Issue States as labels
 
-# Issue State Labels
-
-| Issue type | Current Label Color | Offical Color | Purpose  |
+| Issue type | Label | Offical Color | Purpose  |
 |:-:|:-:|:-:|:-:|
 | Backlog | ~"Backlog" | `#F0A921` | Issue waiting in the Backlog |
 | Estimate | ~"Estimate" | `#F0A921` | Issue in estimation phase |
