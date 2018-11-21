@@ -16,8 +16,7 @@
 | [User Story.md](issue_templates/user-story.md) | ~"User Story" | `#1D5299` | User Story issue |
 | [Job Story.md](issue_templates/job-story.md)  | ~"Job Story" | `#1D5299` | Job Story issue |
 | [Assignment](issue_templates/assignment.md)) | ~"Assignment" | `#2B7BE5` | General assignment for student |
-| Personal | ~"Personal" | `#44AD8E` | Personal task for team member | 
-| Team | ~"Team" | `#44AD8E` | Team task for whole team |    
+   
 
 
 
@@ -33,5 +32,9 @@
 | Waiting Review | ~"Waiting Review" | `#F0A921` | Issue waiting for general review |
 | Reviewed | ~"Reviewed" | `#69D121` | Issue which has passed review |
 | Done | ~"Done" | `#29510D` | Issue which is done and reviewed |
+| Personal | ~"Personal" | `#44AD8E` | Personal task for team member | 
+| Team | ~"Team" | `#44AD8E` | Team task for whole team | 
 
 Reserved Labels for future:
+
+
