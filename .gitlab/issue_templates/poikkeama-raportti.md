@@ -1,21 +1,14 @@
-# Description of the incident
+# Poikkeaman kuvaus
 
-* What is the problem/incident/issue etc.?
+1. Muista päivittää Issue -kuvaus! 
+2. ..
+3. ..
 
-# Proposals for fix
+# Vastuulliset?
 
+* nimi/sidosryhmä
 
+# Linkkejä & lähteitä
 
-# Link to material
-
-* http://Link.to.file
-* File share 
-* Location etc..
-
-
-# Who will be assigned for fix 
-
-* Do Assign and add correct stakeholder to fix task
-* 
-
+/label ~"Backlog"
 /label "~Incident"
