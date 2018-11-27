@@ -11,3 +11,5 @@
 *
 
 
+/label ~"Personal"
+/milestone "Backlog"
