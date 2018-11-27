@@ -1,16 +1,8 @@
 # Hello!
 
 
-* 12.11.2018
+* 26.11.2018
 * NarsuMan
-
-
-## OPF planning-and-design-phase V1 repository 
-
-This Gitlab -repository is a project for to create a foundation of project environment to used for  planning and design phase in software development life cycle.
-
-* [SDLC]
-
 
 ### About files
 
