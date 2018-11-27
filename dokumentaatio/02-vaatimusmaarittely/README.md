@@ -1,8 +1,34 @@
+# Vaatimusmäärittely -dokumentti
+
+Tästä kansiosta löytyy vaatimusmäärittelyn ensimmäin taso.
+
+Tiedosto **vaatimusmaarittely.md** on se tiedosto, jota käytetään 
+
+muut tiedostot linkitetään osaksi vaatimusmäärittelyä käyttäen MarkDown -syntaksia
+
+''[Tähän tulee linkki](feature.md)''
+
+
+# MarkDown? Mitä hittoa?
+
+* Opettele luomaan tiedostoja 
+* Kyetä Muokkaamaan niitä tarvittaessa
+* Uudelleen nimeämään tiedosto
+* Linkittämään kuva tai toinen tiedosto
+
+https://www.markdownguide.org/getting-started/
+
+
 # Pohjien käyttö vaatimusmäärittelyn luonnissa
 
-Kannattaa luoda kaikki tarvitsemasi dokumentit samaan kansioon. Kuvat ja muut liitteet voi tallettaa niille varattuihin kansioihin.
-Oleellista on pitää tiedosto __vaatimusmaaritely.md__ samalla nimellä. Älä vaihda nimea!
-Voit luoda eri pohjia tarvittavan määrän.
+Kannattaa kopioida tarvittavat dokumentit samassa kansiossa. Kuvat ja muut liitteet voi tallettaa niille varattuihin kansioihin.
+Oleellista on säilyttää tiedosto __vaatimusmaaritely.md__ aina saman nimisenä. 
+
+Kopioi tarvitsemiasi tiedostoja esim. pohjat kansiosta. Tai luo ne käyttäen selaimen Copy/Paste ominaisuutta..
+
+ 
+
+
 
 Esim. Jos sinulla on tarve määritellä neljä käyttötapausta, niin kannattaa kopioida tiedosto ensin käyttäen lähteenä pohjat-kansion esimäärittelyjä.
 
