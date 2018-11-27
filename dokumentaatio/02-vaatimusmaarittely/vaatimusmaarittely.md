@@ -8,7 +8,11 @@
 * Nimimerkki/gitlab tunnus
 * Versionumero X.Y.Z
 
+
+
 ## Sisällysluettelo 
+
+Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa MarkDown-ankkurilinkitys
 
 * [Tuotteen kuvaus](#Johdatus)
 * [Palvelukuvaus](#Palvelukuvaus)
