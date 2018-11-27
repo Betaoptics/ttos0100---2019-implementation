@@ -24,7 +24,6 @@
 
 | Issue type | Label | Offical Color | Purpose  |
 |:-:|:-:|:-:|:-:|
-| Backlog | ~"Backlog" | `#F0A921` | Issue waiting in the Backlog |
 | Estimate | ~"Estimate" | `#F0A921` | Issue in estimation phase |
 | Doing | ~"Doing" | `#F0A921` | Issue under work |
 | Fixed Verify | ~"Fixed Verify" | `#9E760D` | Bug report issue which is fixed by coder |
