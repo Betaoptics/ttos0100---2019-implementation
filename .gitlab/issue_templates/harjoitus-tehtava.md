@@ -1,11 +1,15 @@
-# Tämä on harjoitustehtävä sinulle
+## Harjoitustehtävä: Description
 
+* 
+*
+*
 
-Tee seuraavat asiat... ja siirrä sitten "issue" tehtyjen töiden puolelle
+## Mitä pitää tehdä?
 
-
-- [] askel
-- [] askel
+*
+*
+*
 
 
 /label ~"Personal Task"
+/milestone "Backlog"
