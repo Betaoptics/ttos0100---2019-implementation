@@ -11,5 +11,5 @@
 *
 
 
-/label ~"Personal Task"
+/label ~"Personal"
 /milestone "Backlog"
