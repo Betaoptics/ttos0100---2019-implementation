@@ -1,10 +1,9 @@
-# Pohjat -kansio
+# Templates -folder
 
 
-Kansion sisältönä on erilaisia pohjia, joita pitää käyttää vaatimusmäärittelyn osana.
+This folder contains different template MarkDown -files. Those files are used as parts of requirement specification. 
 
-Kansiosta löytyvät dokumentit:
-
+You will find files:
 
 
 * pohja-kayttotapaus.md	- Käyttötapauskuvaus
