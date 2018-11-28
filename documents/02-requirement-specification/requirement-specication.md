@@ -1,32 +1,36 @@
-# [Replace with real name]-service requirement specification
+# XYZÅÄÖ-palvelun vaatimusmäärittely
 
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
 
-# TTOS0100 Course HT1 - 
+# TTOS0100 Kurssin harjoitustyö HT1 - 
 
-* Nickname/gitlab 
-* Version  X.Y.Z
+* Nimimerkki/gitlab tunnus
+* Versionumero X.Y.Z
 
-## Table of Contents 
 
-* [Introduction for a Product/Service](#Introduction)
-* [Service Description](#Service Description)
-* [Customer Storys](#Customer Storys)
-* [Stake Holders and profile descriptions]()
-* [Stakeholder map]()
-* [Customer Journeys]()
-* [General Use Cases]()
-* [General Functional Requirements]()
-* [General Non-Functional Requirements]()
-* [Generalö Service UI-Mockup ]()
-* [Key Features]()
-* [Release Plan Proposal for Features]()
-* [About Technical Architecture]()
-* [About testing and Quality Assurance]()
-* [Sources]()
 
-# Introduction
+## Sisällysluettelo 
+
+Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa MarkDown-ankkurilinkitys
+
+* [Tuotteen kuvaus](#Johdatus)
+* [Palvelukuvaus](#Palvelukuvaus)
+* [Asiakastarina](#Johdatus)
+* [Sidosryhmät ja profiilikuvaukset]()
+* [Sidosryhmäkuva]()
+* [Palvelu/asiakaspolku]()
+* [Yleinen käyttötapaus]()
+* [Yleiset toiminnalliset vaatimukset]()
+* [Yleiset ei-toiminnalliset vaatimukset]()
+* [Palvelu MockUp]()
+* [Tärkeimmät ominaisuudet]()
+* [Julkaisun suunnitelma]()
+* [Palvelun/ohjelmiston arkkitehtuuri]()
+* [Testaus ja laadunvarmistus]()
+* [Lähteet]()
+
+# Johdatus
 
 __Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?__
 
@@ -41,7 +45,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 * [Youtube-tarinaa](https://www.youtube.com/watch?v=0zVNZNbphfE&t=255s)
 * [Palvelun rajaaminen](https://www.youtube.com/watch?v=fOlmrsp2iRc&t=5s)
 
-## About 
+## Vaatimusmäärittelytyön tilaaja
 
 __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
@@ -92,13 +96,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä on ko. ryhmän/edustajan motivaatio liittyen palveluun__
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
@@ -110,13 +107,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 __Kirjoitetaan auki yksittäiset sidosryhmät ja eri profiilit__ 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 * [Profile 1](stakeholder-profile1.md)
 * [Profile 2](stakeholder-profile2.md)
@@ -128,7 +118,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 * ![Youtube-tarinaa](https://www.youtube.com/watch?v=O04EYNKmEXc)
 
 __Käydään läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta__
+__Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja.. __
 
+Esim. 
 
 Sed ut [Profile 1](stakeholder-profile1.md) perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -144,9 +136,17 @@ __Polkuja tehdään tarvittaessa useita eri tarkoituksiin__
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 
+* Mieti onko mahdollista hyödynnetään jotain ulkopuolista palvelua kuvauksen apuna?
+
+Esim. Canvanizer https://canvanizer.com
+
+<div id="can_widget_container"></div><script type="text/javascript" src="http://api.canvanizer.com/api/widget.js?v=1&canvas_id=rOTvl2nds7E1Y&mode=compact-nobg&revision=sync"></script>
+
+
+
 # Vaatimukset, käyttötapaukset ja ominaisuudet
 
-## Tuotteen tärkeimmät vaatimukset ja mahdolliset rajoitukset (Key Requirements and restrictions)
+## Tuotteen järjestelmävaatimukset ja mahdolliset rajoitukset (Key Requirements and restrictions)
 
 __Kirjaa tähän tärkeimmät vaatimukset suunnitteltuun palveluun liittyen__
 
@@ -157,14 +157,25 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| SYSTEM-REQ-0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| SYSTEM-REQ-0002 | System Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
+| SYSTEM-REQ-0003 | System Requirement |||
+| SYSTEM-REQ-0004 | System Requirement |||
+| SYSTEM-REQ-0005 | System Requirement |||
+
+# Oleelliset huomioitavat rajoitteet
+
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| GENREQ001 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ002 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ003 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ004 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ005 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-
+| CONSTRAINT-REQ-S00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava AC5-2009-käytäntöä  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| CONSTRAINT-REQ-S00001 | Constrain |||
+| CONSTRAINT-REQ-S00002 | Constrain |||
+| CONSTRAINT-REQ-S00003 | Constrain |||
+| CONSTRAINT-REQ-S00004 | Constrain |||
+| CONSTRAINT-REQ-S00005 | Constrain |||
+| CONSTRAINT-REQ-S00006 | Constrain |||
 
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
@@ -207,13 +218,18 @@ __Mitä olivat toiminnalliset vaatimukset?__
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQ001 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ002 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ003 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ004 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ005 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| FUNCTIONAL-REQ-C0002 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0003 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0004 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0005 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0006 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0007 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0008 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0009 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0010 | Functional Requirement |||
 
 
 ## Palveluun liittyvät tärkeimmät ei-toiminnalliset vaatimukset (Non Functional Requirements)
@@ -241,25 +257,14 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
 
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
-| REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
-| REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
-
-### Luotettavuus?
-
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
+| PERFORMANCE-REQ-0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
+| PERFORMANCE-REQ-0001 | Non-Functional Performance |||
+| PERFORMANCE-REQ-0002 | Non-Functional Performance |||
+| PERFORMANCE-REQ-0003 | Non-Functional Performance |||
+| PERFORMANCE-REQ-0004 | Non-Functional Performance |||
+| PERFORMANCE-REQ-0005 | Non-Functional Performance |||
 
 
 ### Tietoturva?
@@ -271,14 +276,18 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
 
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
+| SECURITY-REQ-0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
+| SECURITY-REQ-0002 | Non-Functional Security |||
+| SECURITY-REQ-0003 | Non-Functional Security |||
+| SECURITY-REQ-0004 | Non-Functional Security |||
+| SECURITY-REQ-0005 | Non-Functional Security |||
+| SECURITY-REQ-0006 | Non-Functional Security |||
+| SECURITY-REQ-0007 | Non-Functional Security |||
+| SECURITY-REQ-0008 | Non-Functional Security |||
+| SECURITY-REQ-0009 | Non-Functional Security |||
+| SECURITY-REQ-0010 | Non-Functional Security |||
 
 ### Käytettävyys
 
@@ -289,14 +298,25 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
 
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| USABILITY-REQ-0000 | Non-Functional Usability | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja |  [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
+| USABILITY-REQ-0001 | Non-Functional Usability |||
+| USABILITY-REQ-0002 | Non-Functional Usability |||
+| USABILITY-REQ-0003 | Non-Functional Usability |||
+| USABILITY-REQ-0004 | Non-Functional Usability |||
+| USABILITY-REQ-0005 | Non-Functional Usability |||
 
+### Testattavuus
+
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| TESTABILITY-REQ-0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  | [Kirjautuminen ft1](ft1-ominaisuus.md)	 |	
+| TESTABILITY-REQ-0001 | Non-Functional Testability |||	
+| TESTABILITY-REQ-0002 | Non-Functional Testability |||	
+| TESTABILITY-REQ-0003 | Non-Functional Testability |||	
+| TESTABILITY-REQ-0004 | Non-Functional Testability |||	
+| TESTABILITY-REQ-0005 | Non-Functional Testability |||
 
 ## Palvelu MockUp-prototyyppi
 
