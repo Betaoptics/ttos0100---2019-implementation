@@ -1,27 +1,21 @@
-# Vaatimusmäärittely -dokumentti
+# 02-vaatimusmäärittely kansio
 
-Tästä kansiosta löytyy vaatimusmäärittelyn ensimmäin taso.
+Tästä kansiosta löytyy vaatimusmäärittelyn päätaso.
 
-Tiedosto **vaatimusmaarittely.md** on se tiedosto, jota käytetään 
+Tiedosto **vaatimusmaarittely.md** on se tiedosto, jota tarvittaessa viitataan. 
+Tarvittaessa siihen linkitetään muut tarvittavat tiedostot. Koko dokumentti on kirjoitettu
+käyttäen MarkDown-syntaksia. 
 
-muut tiedostot linkitetään osaksi vaatimusmäärittelyä käyttäen MarkDown -syntaksia
+**MarkDown? Mitä hittoa?** Kannattaa lukea aiheesta esim. [Wikipediasta](https://en.wikipedia.org/wiki/Markdown)
 
-''[Tähän tulee linkki](feature.md)''
+Tärkeintä on osata hyödyntää MarkDown-syntaksia osana omaa työskentelyä Git-versiohallinan ohella.
 
-
-# MarkDown? Mitä hittoa?
-
-* Opettele luomaan tiedostoja 
-* Kyetä Muokkaamaan niitä tarvittaessa
-* Uudelleen nimeämään tiedosto
-* Linkittämään kuva tai toinen tiedosto
-
-https://www.markdownguide.org/getting-started/
+[Tästä on hyvä aloittaa?](https://www.markdownguide.org/getting-started/)
 
 
 # Pohjien käyttö vaatimusmäärittelyn luonnissa
 
-Kannattaa kopioida tarvittavat dokumentit samassa kansiossa. Kuvat ja muut liitteet voi tallettaa niille varattuihin kansioihin.
+Kannattaa kopioida vaatimusmäärittelyn  dokumentit samassa kansiossa. Kuvat ja muut liitteet voi tallettaa niille varattuihin kansioihin.
 Oleellista on säilyttää tiedosto __vaatimusmaaritely.md__ aina saman nimisenä. 
 
 Kopioi tarvitsemiasi tiedostoja esim. pohjat kansiosta. Tai luo ne käyttäen selaimen Copy/Paste ominaisuutta..
