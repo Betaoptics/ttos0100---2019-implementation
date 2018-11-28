@@ -1,5 +1,8 @@
 # Tietoa tekijästä ja toimeksiannosta
 
+**HUOMIO! Tuotettu vaatimusmäärittely on pelkästään harjoitustyö!**
+
+
 ![](https://openclipart.org/image/300px/svg_to_png/249638/AbstractDesign288.png)
 
 
@@ -14,7 +17,7 @@ Tämä on harjoitustehtävä JAMKin IT-instituutin kurssille TTOS0100
 * 
 
 **Vaatimusmäärittelyn aiheena on käytetty HILMA.fi palvelussa olleita toimeksiantoja**
-**Tuotettu vaatimusmäärittely on harjoitustyö!**
+
 
 
 
