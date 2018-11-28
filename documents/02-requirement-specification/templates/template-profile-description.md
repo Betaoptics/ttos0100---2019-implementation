@@ -1,6 +1,4 @@
-# Profiili/persoona/sidosryhmän edustaja XXXXXXX
-
-
+# Persoonakuvaus
 
 ### viiteryhmä/segmentti:
 
