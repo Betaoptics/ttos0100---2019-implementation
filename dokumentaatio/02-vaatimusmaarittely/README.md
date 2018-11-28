@@ -1,4 +1,4 @@
-# 02-vaatimusmäärittely kansio
+# 02-vaatimusmäärittely
 
 Tästä kansiosta löytyy vaatimusmäärittelyn päätaso.
 
