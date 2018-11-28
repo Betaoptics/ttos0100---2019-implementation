@@ -6,10 +6,11 @@ This folder contains different template MarkDown -files. Those files are used as
 You will find files:
 
 
-* pohja-kayttotapaus.md	- Käyttötapauskuvaus
-* pohja-ominaisuus.md	- Ominaisuuden määrittelydokumentti
-* pohja-profiilikuvaus.md - Sidosryhmän edustaja/profiilikuvaus
-* pohja-testitapaus-tarkistuslista.md - Esimerkki testitapauksesta, joka on tarkistuslistan muodossa
-* pohja-testitapaus.md - Perinteinen testitapaus, joka on johdettavissa esim. vaatimuksista
-* pohja-tilakone.md - Tilakoneen kuvaus esimerkki
-* pohja-vaatimukset-listana.md - Vaatimukset pitkänä listanan, tähän kannattaa viitata muista dokumenteista
+* template-feature.md	
+* template-profile-description.md
+* template-requirements-as-a-list.md
+* template-statemachine.md
+* template-testcase-as-checklist.md
+* template-testcase.md
+* template-use-case.md
+* Readme.md
