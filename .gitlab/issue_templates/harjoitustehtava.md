@@ -12,4 +12,4 @@
 
 
 /label ~"Personal"
-/milestone "Backlog"
+/milestone Backlog
