@@ -3,7 +3,7 @@ site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-for-ttos0100-
 
 site_author: Nimesi tulee tähän
 
-docs_dir: dokumentaatio
+docs_dir: dokumentit
 site_dir: public
 markdown_extensions:
     - toc:
