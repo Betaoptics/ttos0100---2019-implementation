@@ -1,5 +1,6 @@
-# Yksinkertainen tilakone Mermaid-skriptin avulla
+# Tilakone -pohja
 
+Esimerkki tilakoneen piirtämisestä soveltaen Mermaid -skpritiä. 
 
 ```mermaid
 graph TD
@@ -10,7 +11,6 @@ graph TD
     Tarkistus-->|Hyväksytään|Luovutus
     Luovutus-->|Olet vapaa!!|Kotia-kohti
     Tarkistus-->|Vaatii työstämistä|Työskentely
-    
-  
+
 ```
 
