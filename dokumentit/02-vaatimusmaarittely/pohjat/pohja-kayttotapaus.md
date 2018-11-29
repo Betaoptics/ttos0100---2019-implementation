@@ -7,6 +7,11 @@
 
 
 
+__Tsekkaa ja poista, jos homma selvä__
+
+[![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
+
+
 
 * Laatija:
 * Päiväys / Versio?.
