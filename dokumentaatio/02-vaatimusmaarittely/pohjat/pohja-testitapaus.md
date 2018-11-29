@@ -1,11 +1,10 @@
-# Testin kuvaus
-
-Tarkista, että .....
+# Testitapaus -pohja
 
 
- 
+
 | | |
 |:-:|:-:|
+| Testitapauksen kuvaus | Tarkistetaan, että.... |
 | Testitapaus ID | XXXX |
 | Testitapauksen suunnittelija | XXXXX XXX | 
 | Testitapauksen hyväksyjä: | XXXXX XXX |
