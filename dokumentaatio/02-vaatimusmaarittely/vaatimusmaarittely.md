@@ -348,13 +348,16 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 ![](https://openclipart.org/image/800px/svg_to_png/236916/1452485143.png&disposition=attachment)
 
 
-## Tärkeimmät tunnistetut ominaisuudet (Features)
+## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
 
 [![](http://img.youtube.com/vi/eTeUxYSdCxA/0.jpg)](http://www.youtube.com/watch?v=eTeUxYSdCxA "")
 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+** Mieti ovatko kaikki ominaisuudet tarpeellisia?**
+[![](http://img.youtube.com/vi/pIDSK21PE9M/0.jpg)](http://www.youtube.com/watch?v=pIDSK21PE9M "")
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
@@ -367,6 +370,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 ## Julkaisun suunnitelma
+
+
+
 
 | Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
 |:-:|:-:|:-:|:-:|
