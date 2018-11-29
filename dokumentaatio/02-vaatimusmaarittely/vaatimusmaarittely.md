@@ -124,12 +124,15 @@ Muista huomioida motivaatio!
 * [Profile 3](stakeholder-profile3.md)
 
 
-## Asiakaspolut (Customer Journey/Path)
+## Palvelu/asiakaspolku (Customer Journey/Path)
 
 [![](http://img.youtube.com/vi/O04EYNKmEXc/0.jpg)](http://www.youtube.com/watch?v=O04EYNKmEXc "")
 
 
 **Käy läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta**
+
+https://www.youtube.com/watch?v=TLFBPQQ95ZE&index=3&list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb
+
 **Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja..** 
 
 Esim. 
@@ -344,7 +347,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ## Tärkeimmät tunnistetut ominaisuudet (Features)
 
-* [](https://www.youtube.com/watch?v=lYBhXz-_mIs&t=87s)
+[![](http://img.youtube.com/vi/eTeUxYSdCxA/0.jpg)](http://www.youtube.com/watch?v=eTeUxYSdCxA "")
 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
@@ -379,6 +382,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 ### Yleinen sijoittelunäkymä (Deployment diagram )
+
+[![](http://img.youtube.com/vi/tLuiQ9p8RkU/0.jpg)](http://www.youtube.com/watch?v=tLuiQ9p8RkU "")
+
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
