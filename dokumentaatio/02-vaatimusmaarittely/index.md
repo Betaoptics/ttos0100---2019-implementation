@@ -12,7 +12,7 @@ Tämä on harjoitustehtävä JAMKin IT-instituutin kurssille TTOS0100
 
 * Kevät 2019
 * Tekijä Muumi Ankka
-* Aihe (Toimeksiannon koodi tähän)
+* Aihe (Vain toimeksiannon koodi tähän)
 * Ota yhteyttä jos kiinnostaa!
 * 
 
