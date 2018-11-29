@@ -1,10 +1,8 @@
 # What should be done?
 
 1. Update issue topic according description
-
-- [ ] do 
-- [ ] do also
-- [ ] and do
+2. do...
+3. do...
 
 # Responsible
 
