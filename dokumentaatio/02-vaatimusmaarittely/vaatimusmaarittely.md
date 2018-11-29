@@ -172,6 +172,9 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
+[![](http://img.youtube.com/vi/s6v0g1Ut-SY/0.jpg)](http://www.youtube.com/watch?v=s6v0g1Ut-SY "")
+
+
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | SYSTEM-REQ-0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | [Kirjautuminen ft1](ft1-ominaisuus.md) |
