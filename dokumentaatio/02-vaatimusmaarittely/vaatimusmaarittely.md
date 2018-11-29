@@ -382,6 +382,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 [![](http://img.youtube.com/vi/EYEc8C57lbo/0.jpg)](http://www.youtube.com/watch?v=EYEc8C57lbo "")
 
+[![](http://img.youtube.com/vi/F2M93uWWXk8/0.jpg)](http://www.youtube.com/watch?v=F2M93uWWXk8 "")
+
+
 | VaatimusID | Testitapaus | Kuvaus |  |								
 |:-:|:-:|:-:|:-:|
 | USE-CASE-007,SYSTEM-REQ-0001,SYSTEM-REQ-0004, SYSTEM-REQ-0012 | [Test Case Id X](Linkki testiin) | Hyväksyntätesti  |
@@ -474,6 +477,8 @@ __ER-kaavio__
 
 
 ### Kaikki vaatimukset listattuna
+
+**Tähän osaan voidaan linkittää vaatimuslista, josta kaikki tunnistetut vaatimukset löytyvät**
 
 * [Linkki vaatimuslistaan](pohjat/vaatimuslista.md)
 
