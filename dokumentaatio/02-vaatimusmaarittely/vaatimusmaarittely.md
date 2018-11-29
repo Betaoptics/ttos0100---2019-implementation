@@ -116,6 +116,7 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 
 **Kuvaa valitut sidosryhmät ja niihin liittyvät profiilikuvaukset** 
 
+Muista huomioida motivaatio!
 
 * [Profile 1](stakeholder-profile1.md)
 * [Profile 2](stakeholder-profile2.md)
@@ -124,10 +125,11 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 
 ## Asiakaspolut (Customer Journey/Path)
 
-* ![Youtube-tarinaa](https://www.youtube.com/watch?v=O04EYNKmEXc)
+[![](http://img.youtube.com/vi/O04EYNKmEXc/0.jpg)](http://www.youtube.com/watch?v=O04EYNKmEXc "")
 
-__Käydään läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta__
-__Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja.. __
+
+**Käy läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta**
+**Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja..** 
 
 Esim. 
 
@@ -140,7 +142,7 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-__Polkuja tehdään tarvittaessa useita eri tarkoituksiin__
+**Polkuja kannattaa määritellä useampia useita eri tilanteiden pohjalta. Yhteen kuvaukseen ei kannata upottaa liikaa tapahtumia**
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
@@ -189,14 +191,13 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
 
+[![](http://img.youtube.com/vi/rADU4vWTfyY/0.jpg)](http://www.youtube.com/watch?v=rADU4vWTfyY "")
 
-* [Käyttötapauksista 1](https://www.youtube.com/watch?v=rADU4vWTfyY)
-* [Käyttötapauksista 2](https://www.youtube.com/watch?v=rADU4vWTfyY)
-
-__Millaisia ovat yleisimmät UML-käyttötapaukset liittyen palveluun? Muista, ettei käyttötapaus ole sama kuin käyttökohde tai soveltamis alue__
+[![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
 
 
 
+**Millaisia ovat yleisimmät käyttötapaukset (Use Caset) liittyen palveluun? Muista, ettei käyttötapauksella ei tarkoiteta käyttökohdetta/soveltamiskohdetta**
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -208,7 +209,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ![](https://openclipart.org/image/800px/svg_to_png/28058/cfry-Use-Case.png&disposition=attachment)
 
-__Esimerkit__
+**Esimerkit**
 
 * [Käyttötapaus 1 - Uusi asiakas luo tunnuksen]()
 * [Käyttötapaus 2 - Uusi asiaks poistaa tunnukset]()
