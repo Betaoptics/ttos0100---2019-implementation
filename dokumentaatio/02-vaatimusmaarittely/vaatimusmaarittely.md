@@ -3,16 +3,17 @@
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
 
-# TTOS0100 Kurssin harjoitustyö HT1 - 
+# TTOS0100 Kurssin harjoitustyö HT1 - TOIMEKSIANTO KOODI
+
 
 * Nimimerkki/gitlab tunnus
+* Kevät xxx
 * Versionumero X.Y.Z
-
 
 
 ## Sisällysluettelo 
 
-Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa MarkDown-ankkurilinkitys
+**Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa MarkDown-ankkurilinkitys**
 
 * [Tuotteen kuvaus](#Johdatus)
 * [Palvelukuvaus](#Palvelukuvaus)
@@ -32,7 +33,9 @@ Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa Mar
 
 # Johdatus
 
-__Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?__
+**Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?**
+
+**Älä käytä tilaajien todellisia nimiä vaan muuta henkilötiedot ja toimeksiantajan viralliset tiedot**
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -42,8 +45,9 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-* [Youtube-tarinaa](https://www.youtube.com/watch?v=0zVNZNbphfE&t=255s)
-* [Palvelun rajaaminen](https://www.youtube.com/watch?v=fOlmrsp2iRc&t=5s)
+[![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
+
+
 
 ## Vaatimusmäärittelytyön tilaaja
 
@@ -61,7 +65,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 # Palvelukuvaus
 
-__Mitä palvelun avulla voidaan tehdä?__
+**Mitä palvelun avulla voidaan tehdä? Mikä sen tehtävä on sidosryhmän kannalta?**
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -72,11 +76,15 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
 
 
-## Esimerkki asiakastarinat
+[![](http://img.youtube.com/vi/fOlmrsp2iRc/0.jpg)](http://www.youtube.com/watch?v=fOlmrsp2iRc "")
 
-__Kerro palvelun käytöstä eri asiakasprofiilien/sidoryhmäedustajinen näkökulmasta__
 
-* [Mikä ihme on asiakastarina](https://www.youtube.com/watch?v=m8WEoyyFUww&t=36s)
+## Valitut asiakastarinat
+
+**Kerro palvelun käytöstä eri asiakasprofiilien/sidoryhmäedustajinen näkökulmasta**
+
+[![](http://img.youtube.com/vi/m8WEoyyFUww/0.jpg)](http://www.youtube.com/watch?v=m8WEoyyFUww "")
+
 
 
 A: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
@@ -103,9 +111,10 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 
 ## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
 
-* [Sidosryhmistä](https://www.youtube.com/watch?v=VmotZXBdrDs&t=14s)
+[![](http://img.youtube.com/vi/VmotZXBdrDs/0.jpg)](http://www.youtube.com/watch?v=VmotZXBdrDs "")
 
-__Kirjoitetaan auki yksittäiset sidosryhmät ja eri profiilit__ 
+
+**Kuvaa valitut sidosryhmät ja niihin liittyvät profiilikuvaukset** 
 
 
 * [Profile 1](stakeholder-profile1.md)
