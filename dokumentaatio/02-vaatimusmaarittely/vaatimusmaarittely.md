@@ -117,7 +117,7 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 
 **Kuvaa valitut sidosryhmät ja niihin liittyvät profiilikuvaukset** 
 
-Muista huomioida motivaatio!
+**Muista kirjata kuvauksiin erityisesti sidosryhmän motivaatio! Eli miksi sidosryhmä syy käyttää/soveltaa palvelua**
 
 * [Profile 1](stakeholder-profile1.md)
 * [Profile 2](stakeholder-profile2.md)
@@ -131,7 +131,8 @@ Muista huomioida motivaatio!
 
 **Käy läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta**
 
-https://www.youtube.com/watch?v=TLFBPQQ95ZE&index=3&list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb
+[![](http://img.youtube.com/vi/TLFBPQQ95ZE/0.jpg)](http://www.youtube.com/watch?v=TLFBPQQ95ZE "")
+
 
 **Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja..** 
 
@@ -198,13 +199,17 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
 
+
+
+**Millaisia ovat tärkeimmät käyttötapaukset (Use Caset) tuotteeseen/palveluun liittyen? Muista, ettei käyttötapauksella ei tarkoiteta käyttökohdetta/soveltamiskohdetta**
+
+
 [![](http://img.youtube.com/vi/rADU4vWTfyY/0.jpg)](http://www.youtube.com/watch?v=rADU4vWTfyY "")
 
 [![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
 
+[![](http://img.youtube.com/vi/Yj7LBkL5oEE/0.jpg)](http://www.youtube.com/watch?v=Yj7LBkL5oEE "")
 
-
-**Millaisia ovat yleisimmät käyttötapaukset (Use Caset) liittyen palveluun? Muista, ettei käyttötapauksella ei tarkoiteta käyttökohdetta/soveltamiskohdetta**
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -231,7 +236,10 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-__Mitä olivat toiminnalliset vaatimukset?__
+**Mitä ovat toiminnalliset vaatimukset?**
+
+
+
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
@@ -368,6 +376,18 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | [Ominaisuus 5](pohjat/pohja-ominaisuus.md) | | |
 
 
+## Hyväksyntätestit
+
+**Kiinnitetään alustavat hyväksyntätestit vaatimuksiin taulukon muodossa**
+
+[![](http://img.youtube.com/vi/EYEc8C57lbo/0.jpg)](http://www.youtube.com/watch?v=EYEc8C57lbo "")
+
+| VaatimusID | Testitapaus | Kuvaus |  |								
+|:-:|:-:|:-:|:-:|
+| USE-CASE-007,SYSTEM-REQ-0001,SYSTEM-REQ-0004, SYSTEM-REQ-0012 | [Test Case Id X](Linkki testiin) | Hyväksyntätesti  |
+| USE-CASE-017,SYSTEM-REQ-0011,SYSTEM-REQ-0004, SYSTEM-REQ-0012 | [Test Case Id Y](Linkki testiin) | Hyväksyntätesti  |
+| USE-CASE-011,USE-CASE-013,SYSTEM-REQ-0204, SYSTEM-REQ-0212 | [Test Case Id Z](Linkki testiin) | Hyväksyntätesti  |
+| USE-CASE-002,SYSTEM-REQ-0301,SYSTEM-REQ-0304, SYSTEM-REQ-0312 | [Test Case Id O](Linkki testiin) | Hyväksyntätesti  |
 
 ## Julkaisun suunnitelma
 
