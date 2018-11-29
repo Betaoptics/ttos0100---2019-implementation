@@ -1,1 +1,0 @@
-# Tästä kaikki alkaa..
