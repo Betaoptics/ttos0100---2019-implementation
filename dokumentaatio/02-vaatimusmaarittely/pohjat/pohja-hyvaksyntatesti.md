@@ -4,12 +4,12 @@
 
 | | |
 |:-:|:-:|
-| Testitapauksen kuvaus | Kelpuutetaan asiakkaalla   |
+| Testitapauksen kuvaus | Kelpuutetaan asiakkaalla skenaario...   |
 | Testitapaus ID | XXXX |
 | Testitapauksen suunnittelija | XXXXX XXX | 
 | Testitapauksen hyväksyjä: | XXXXX XXX |
 | Luontipvm | X.Y.ABCD |
-| Luokitus | toiminnallinen/ei-toiminnallinen |
+| Luokitus | Hyväksyntätesti / Acceptance Test |
 
 **Päivityshistoria**
 
