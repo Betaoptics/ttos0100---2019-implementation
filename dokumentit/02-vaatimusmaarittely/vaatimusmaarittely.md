@@ -1,14 +1,14 @@
-# XYZÅÄÖ-palvelun vaatimusmäärittely
+# oOOOOo-palvelun vaatimusmäärittely
 
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
 
-# TTOS0100 Kurssin harjoitustyö HT1 - TOIMEKSIANTO KOODI
+# TTOS0100 Kurssin harjoitustyö HT1 - [TOIMEKSIANTO KOODI TÄHÄN] 
 
 
 * Nimimerkki/gitlab tunnus
-* Kevät xxx
-* Versionumero X.Y.Z
+* Vuosi 
+* Versionumero X.Y
 
 
 ## Sisällysluettelo 
@@ -46,7 +46,6 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 [![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
-
 
 
 ## Vaatimusmäärittelytyön tilaaja
@@ -441,6 +440,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 ### Ylläpito (Maintenance)
+
+_Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julkaisun jälkeen. Miten tuotteen ylläpidettävyyttä parannetaan? Mitä pitää ottaa huomioon, että ylläpidettävyys on helpompaa__
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
