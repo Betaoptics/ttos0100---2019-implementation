@@ -28,7 +28,7 @@ In English
 | User Story.md | ~"User Story" | `#1D5299` |
 | Job Story.md  | ~"Job Story" | `#1D5299` |
 | Assignment | ~"Assignment" | `#2B7BE5` |
-
+| feature-proposal.md | ~"Feature Proposal" | `#0033CC` | 
 
 Suomeksi
 
@@ -43,6 +43,7 @@ Suomeksi
 | kysymys-ja-vastaus.md | ~"Q&A" | `#1D5299` ||
 | harjoitustehtava.md  | ~"Assignment" | `#2B7BE5` ||
 | UserStory-Käyttäjätarina.md | ~"User Story"  | `#1D5299` ||
+| Ehdotus ominaisuudesta  | ~"Feature Proposal" | `#0033CC` | 
  
 # Issue State Labels
 
