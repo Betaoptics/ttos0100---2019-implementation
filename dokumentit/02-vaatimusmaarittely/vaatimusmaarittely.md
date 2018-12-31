@@ -413,10 +413,10 @@ gantt
         dateFormat  YYYY-MM-DD
         title GANTT -kaavio julkaisusuunnitelman pohjaksi?
         section A section
-        Completed task            :done,    des1, 2019-01-06,2019-01-08
-        Active task               :active,  des2, 2019-01-09, 3d
-        Future task               :         des3, after des2, 5d
-        Future task2               :         des4, after des3, 5d
+        Lorem Ipsumit alkuun            :done,    des1, 2019-01-06,2019-01-08
+        Parem poxum               :active,  des2, 2019-01-09, 3d
+        Tirem taxum               :         des3, after des2, 5d
+        Quatro Station               :         des4, after des3, 5d
         
 ```
 
