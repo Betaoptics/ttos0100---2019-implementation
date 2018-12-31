@@ -395,6 +395,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 
+Perinteinen listaus
 
 | Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
 |:-:|:-:|:-:|:-:|
@@ -403,10 +404,14 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | 15.11.2019 [Ominaisuus 3](pohjat/pohja-ominaisuus.md) | | |
 | 5.12.2019 [Ominaisuus 4](pohjat/pohja-ominaisuus.md) | | |
 
+
+
+Tutustu Mermaid skriptiin?
+
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
+        title GANTT -kaavio julkaisusuunnitelman pohjaksi?
         section A section
         Completed task            :done,    des1, 2019-01-06,2019-01-08
         Active task               :active,  des2, 2019-01-09, 3d
