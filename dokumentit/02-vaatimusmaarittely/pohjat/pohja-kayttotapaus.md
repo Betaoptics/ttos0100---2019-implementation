@@ -1,7 +1,13 @@
-# Käyttötapaus -pohja
+# Käyttötapaus xyz korvaa tämä xyz 
+
+Käyttötapauksen tarkoituksena on kuvata....
 
 
-## Use Case kuvaus
+## Use Case 
+
+Tähän on hyvä liittää näkymä valitusta asiaan liittyvistä käyttötapauskuvauksesta. 
+
+Muista, että piirretty kuvaus on vain osa käyttötapausten kuvaamista! Tekstimuodossa palastellaan yksittäinen käyttötapaus tarkemmin!
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Edit_an_article.svg/261px-Edit_an_article.svg.png)
 
