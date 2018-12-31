@@ -11,13 +11,12 @@ Tervetuloa tutustumaan vaatimusmäärittelydokumenttiin!
 Tämä on harjoitustehtävä JAMKin IT-instituutin kurssille TTOS0100 
 
 * Kevät 2019
-* Tekijä Muumi Ankka
-* Aihe (Vain toimeksiannon koodi tähän)
-* Ota yhteyttä jos kiinnostaa!
-* 
+* Tekijä: Minä Itse
+* Aihe (Kirjaa vain toimeksiannon koodi tähän)
 
-**Vaatimusmäärittelyn aiheena on käytetty HILMA.fi palvelussa olleita toimeksiantoja**
+**Vaatimusmäärittelyn aiheina on käytetty [hilma.fi](http://hilma.fi) palvelussa vuonna 2018-2019 olleita toimeksiantoja**
 
+Harjoitustehtävän sisältämällä dokumentaatiolla ei ole mitään tekeimistä alkuperäisen toimeksiannon kanssa!
 
 
 
