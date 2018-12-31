@@ -11,9 +11,9 @@ Muista, että piirretty kuvaus on vain osa käyttötapausten kuvaamista! Tekstim
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Edit_an_article.svg/261px-Edit_an_article.svg.png)
 
+Yllä karkea esimerkki, joka pitää poistaa..
 
-
-__Tsekkaa ja poista, jos homma selvä__
+__Tsekkaa video ja poista linkki, jos homma selvä__
 
 [![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
 
