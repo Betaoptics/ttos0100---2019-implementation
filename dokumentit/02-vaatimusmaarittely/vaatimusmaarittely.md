@@ -1,7 +1,5 @@
 # oOOOOo-palvelun vaatimusmäärittely
 
-![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
-
 [![](http://img.youtube.com/vi/jH43MPe1Ceg/0.jpg)](http://www.youtube.com/watch?v=jH43MPe1Ceg "")
 
 
