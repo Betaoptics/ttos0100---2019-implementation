@@ -151,16 +151,10 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 **Polkuja kannattaa määritellä useampia useita eri tilanteiden pohjalta. Yhteen kuvaukseen ei kannata upottaa liikaa tapahtumia**
 
-![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
-
 
 * Mieti onko mahdollista hyödynnetään jotain ulkopuolista palvelua kuvauksen apuna?
 
 Esim. Canvanizer https://canvanizer.com
-
-<div id="can_widget_container"></div><script type="text/javascript" src="http://api.canvanizer.com/api/widget.js?v=1&canvas_id=rOTvl2nds7E1Y&mode=compact-nobg&revision=sync"></script>
-
-
 
 # Vaatimukset, käyttötapaukset ja ominaisuudet
 
@@ -176,7 +170,6 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
 [![](http://img.youtube.com/vi/s6v0g1Ut-SY/0.jpg)](http://www.youtube.com/watch?v=s6v0g1Ut-SY "")
-
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
