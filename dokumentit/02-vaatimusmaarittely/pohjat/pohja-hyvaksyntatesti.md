@@ -1,5 +1,6 @@
 # Hyväksyntätestin -pohja
 
+[![](http://img.youtube.com/vi/YQ9rZBOMs6g/0.jpg)](http://www.youtube.com/watch?v=YQ9rZBOMs6g "")
 
 
 | | |
