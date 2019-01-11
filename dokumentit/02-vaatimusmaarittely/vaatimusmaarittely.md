@@ -450,8 +450,6 @@ gantt
 | REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
 | REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
 
-
-
 ### Ylläpito (Maintenance)
 
 _Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julkaisun jälkeen. Miten tuotteen ylläpidettävyyttä parannetaan? Mitä pitää ottaa huomioon, että ylläpidettävyys on helpompaa__
@@ -466,10 +464,7 @@ _Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julka
 
 ### Tietokantakuvaus (Database ER-diagram)
 
-__ER-kaavio__
-
-![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
-
+ Tähän esim alustava __ER-kaavio__
 
 # Testauksen vaatimukset (Testing requirements)
 
