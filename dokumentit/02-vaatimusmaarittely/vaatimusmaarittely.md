@@ -427,18 +427,9 @@ gantt
 
 [![](http://img.youtube.com/vi/tLuiQ9p8RkU/0.jpg)](http://www.youtube.com/watch?v=tLuiQ9p8RkU "")
 
-
-![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
-
-
 # Arkkitehtuuriin/teknologiaan liityvät vaatimukset
 
 ### Tekniset vaatimukset 
-
-
-
-
-
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
