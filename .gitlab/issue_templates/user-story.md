@@ -55,7 +55,7 @@ Few years ago I suffered a stroke and have been wheelchair-bound. I am starting 
 - [ ] Check if... test case is successful and the product can be set for full production. [Link to test case definition]()
 - [ ] Check what kind of further development goals the product has.
  
-### User Story Case4: Used for walking-therapy for clients.
+### User Story Case 4: Used for walking-therapy for clients.
 
 We need a robot that is able to help patients to walk again.
 
@@ -74,7 +74,7 @@ We need a robot that is able to help patients to walk again.
 - [ ] Check if... test case is successful and the product can be set for full production. [Link to test case definition]()
 - [ ] Check what kind of further development goals the product has.
 
-### User Story Case4: Hospital administration.
+### User Story Case 5: Hospital administration.
 
 Walking therapy department has requested a robot that is able to assist their work.
 
