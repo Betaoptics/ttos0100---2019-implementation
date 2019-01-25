@@ -12,7 +12,7 @@
 * Needs to be robotically assisted, and have mechanically adjustable orthosis.
 * Among other things the walking robotg requires orthosis, runningmat and weight-lightening system.
 
-#Technical and quality requirements:
+# Technical and quality requirements:
 
 * Product needs to meet the legal criteria of healthcare-propducts and the modifications done to it, as well as the requirements of the officials set for health-care products.
 * Product needs to be meet the work - and safety requirements detailed in Finnish policies.
