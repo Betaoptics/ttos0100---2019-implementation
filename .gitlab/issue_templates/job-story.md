@@ -1,12 +1,13 @@
 # What should be done?
 
-1. Update issue topic according description
-2. ..
-3. ..
+1. Start the development-design process.
+2. Map out the client story and needs.
+3. Analyze possible tools required to perform the job.
+4. ...
 
 # Responsible
 
-* name/stakeholder
+* Master
 
 # Links & Sources
 
