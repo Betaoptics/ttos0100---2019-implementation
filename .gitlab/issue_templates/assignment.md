@@ -1,4 +1,4 @@
-## Assignment: Description
+## Assignment: Walking-robot TA-2019-3
 
 * TA-2019-3
 * A walking-robot to assist rehabilitation as part of walking-therapy procedure in the hospital.
