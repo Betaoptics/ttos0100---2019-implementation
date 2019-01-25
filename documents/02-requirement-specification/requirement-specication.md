@@ -3,10 +3,10 @@
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
 
-# TTOS0100 Kurssin harjoitustyö HT1 - 
+# TTOS0100 Kurssin harjoitustyö HT1 - TA-2019-3
 
-* Nimimerkki/gitlab tunnus
-* Versionumero X.Y.Z
+* M3268
+* Versio 1.0.0.0.1
 
 
 
@@ -34,13 +34,8 @@ Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa Mar
 
 __Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?__
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Projekti koskee sairaalan kävelynkuntoutusterapia-osaston tilaamaa kävelykuntoutusrobottia.
+Tavoitteena on saada kävelyterapiaan kävelykuntoutus-robotti, jonka avulla kävely-harjoituksia voidaan tehdä ja voidaan kerätä kuntouttajasta vastaaville hyödyllistä tietoa potilaasta.
 
 * [Youtube-tarinaa](https://www.youtube.com/watch?v=0zVNZNbphfE&t=255s)
 * [Palvelun rajaaminen](https://www.youtube.com/watch?v=fOlmrsp2iRc&t=5s)
