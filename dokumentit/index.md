@@ -12,8 +12,8 @@ Tervetuloa tutustumaan tekemääni vaatimusmäärittelydokumenttiin!
 Tämä on harjoitustehtävä JAMKin IT-instituutin kurssille TTOS0100 
 
 * Kevät 2019
-* Tekijä: Minä Itse
-* Aihe (Kirjaa vain toimeksiannon koodi tähän)
+* Tekijä: M3268
+* Aihe TA-2019-3
 
 **Vaatimusmäärittelyn aiheina on käytetty [hilma.fi](http://hilma.fi) palvelussa vuonna 2018-2019 olleita hankintailmoituksia**
 
