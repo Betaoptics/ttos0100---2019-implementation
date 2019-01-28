@@ -4,12 +4,12 @@ Ohjelmiston/palvelun vaatimusmäärittely
 
 
 
-# TTOS0100 Kurssin harjoitustyö HT1 - [TOIMEKSIANTO KOODI TÄHÄN] 
+# TTOS0100 Kurssin harjoitustyö HT1 - TA-2019-3 
 
 
-* Nimimerkki/gitlab tunnus
-* Vuosi 
-* Versionumero X.Y
+* M3268
+* 2019
+* V.1.0.0.1
 
 
 ## Sisällysluettelo 
