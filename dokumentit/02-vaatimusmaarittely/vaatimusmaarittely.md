@@ -73,7 +73,7 @@ __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 __Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) taiesim. kuvitteellisen yrityksen työntekijänä__
 
-Olen prohektiryhmän suunnittelija ja konsultti Robot and Artificial Intelligence Development Organization yrityksessä.
+Olen projektiryhmän suunnittelija ja konsultti Robot and Artificial Intelligence Development Organization yrityksessä.
 
 
 # Palvelukuvaus
