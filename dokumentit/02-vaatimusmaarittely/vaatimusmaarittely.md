@@ -51,6 +51,7 @@ __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 
 ###Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite
+
 * Yrityksen johtaja-kunta.
 * Kävelykuntoutusterapian osastovastaava.
 * Kavelykuntoutusterapeutti.
@@ -61,6 +62,7 @@ __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 
 ###Kuntoutusterapian potilas
+
 * Raajarikosta kärsivä potilas tarvitsee robotin lievää tukea.
 * Halvauksesta kärsivä potilas tarvitsee laajamittaista tukea robotilta ja sen ohjelmistolta.
 * Motorisesta sairaudesta sairastava potilas, joka tarvitsee robotilta tukea kognitiivisten ja motoristen toimintojen kehittämiseen ja hallintaan.
