@@ -50,7 +50,7 @@ Käytännössä se tarkoittaa sitä, että kävelykuntoutusrobotin tulee olla s�
 __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 
-# Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite:
+#### Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite:
 
 * Yrityksen johtaja-kunta.
 * Kävelykuntoutusterapian osastovastaava.
@@ -61,7 +61,7 @@ __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 * Sijoittajat.
 
 
-# Kuntoutusterapian potilas:
+#### Kuntoutusterapian potilas:
 
 * Raajarikosta kärsivä potilas tarvitsee robotin lievää tukea.
 * Halvauksesta kärsivä potilas tarvitsee laajamittaista tukea robotilta ja sen ohjelmistolta.
