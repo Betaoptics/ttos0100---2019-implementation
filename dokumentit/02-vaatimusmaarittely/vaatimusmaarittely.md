@@ -117,7 +117,7 @@ G: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä on ko. ryhmän/edustajan motivaatio liittyen palveluun__
 
 
-![](ttos---2019-toteutus/dokumentit/02-vaatimuusmaarittely/kuvat/Kuvat.md/CustomerMapV1)
+![](/kuvat/Kuvat.md/CustomerMapV1)
 
 
 ## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
