@@ -102,11 +102,13 @@ B: Olen hipiästä alaspäin halvaantunut 46-vuotias nainen, ja käyn kävelykun
 
 C: Pienestä asti olen sairastanut harvinaista motoorista sairausta ja käyn kävelykuntoutusterapaissa viikoittain.
 
+E: Jouduin onnettomuuteen ja käyn kuntoutusterapaissa osana parantumistani.
+
 D: Olen kävelykuntoutusterapeutti ja tehtäväni on vastata potilaiden kävelykuntoutuksesta.
 
-E: Olen kävelykuntoutusrobotin tilaaja, ja tavoitteena olisi saada toimiva kävelykuntoutus-robotti palvelu kävelykuntoutusterpian asiakaskunnalle.
+F: Olen kävelykuntoutusrobotin tilaaja, ja tavoitteena olisi saada toimiva kävelykuntoutus-robotti palvelu kävelykuntoutusterpian asiakaskunnalle.
 
-D: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
+G: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 
 ## Yleinen sidosryhmäkuva (Stakeholder map)
