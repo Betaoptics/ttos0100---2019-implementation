@@ -50,26 +50,21 @@ Käytännössä se tarkoittaa sitä, että kävelykuntoutusrobotin tulee olla s�
 __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite
 
 ## Vaatimusmäärittelyn toimittaja
 
 __Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) taiesim. kuvitteellisen yrityksen työntekijänä__
 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Olen prohektiryhmän suunnittelija ja konsultti Robot and Artificial Intelligence Development Organization yrityksessä.
 
 
 # Palvelukuvaus
 
 **Mitä palvelun avulla voidaan tehdä? Mikä sen tehtävä on sidosryhmän kannalta?**
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
+Palvelun avulla voidaan avustaa tilaajan asiakaskuntaa kävelykuntoutuksen terapiassa ja auttaa työntekijöitä ymmärtämään asiakkaiden yksilöllisistä asiakastarpeista.
+Asiakaskunnan kannalta kävelykuntoutusrobootin tehtävä olisi auttaa heitä kuntoutumaan kävelykuntoutusterapiassa ja vastata heidän odotuksia ja tarpeita kussakin tilanteessa. 
 
 
 [![](http://img.youtube.com/vi/fOlmrsp2iRc/0.jpg)](http://www.youtube.com/watch?v=fOlmrsp2iRc "")
