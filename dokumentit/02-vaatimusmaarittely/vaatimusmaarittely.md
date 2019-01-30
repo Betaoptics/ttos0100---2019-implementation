@@ -50,7 +50,7 @@ Käytännössä se tarkoittaa sitä, että kävelykuntoutusrobotin tulee olla s�
 __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 
-##### Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite:
+##### Fauxston hospital:
 
 * Yrityksen johtaja-kunta.
 * Kävelykuntoutusterapian osastovastaava.
