@@ -176,11 +176,31 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| SYSTEM-REQ-0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| SYSTEM-REQ-0002 | System Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| SYSTEM-REQ-0003 | System Requirement |||
-| SYSTEM-REQ-0004 | System Requirement |||
-| SYSTEM-REQ-0005 | System Requirement |||
+| SYSTEM-REQ-0001 | System Requirement | Laitteen tulee soveltua neurologisesti vaikeavammaiselle, erityisesti kävelykuntoutuksen akuuttivaiheeseen. | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| SYSTEM-REQ-0002 | System Requirement | Laitteen tulee olla robottiavusteinen, varustettuna mekaanisesti säädettävillä ortooseilla. ||
+| SYSTEM-REQ-0003 | System Requirement | Laitteen tulee olla robottiavusteinen, varustettuna mekaanisesti säädettävillä ortooseilla. ||
+| SYSTEM-REQ-0004 | System Requirement | Kävelyrobotin tulee sisältää muun muassa ortoosit, juoksumaton ja painonkevennysjärjestelmän. ||
+| SYSTEM-REQ-0005 | System Requirement | Tarjottavien laitteiden on täytettävä lain terveydenhuollon laitteista ja tarvikkeista ja siihen tehtyjen muutosten sekä viranomaisten asettamat vaatimukset sairaanhoitotarvikkeille ja laitteille.||
+| SYSTEM-REQ-0006 | System Requirement | Tarjottujen tuotteiden tulee täyttää Suomessa voimassaolevat työ- ja käyttöturvallisuusvaatimukset. ||
+| SYSTEM-REQ-0007 | System Requirement | Tarjottujen tuotteiden tulee olla CE-merkittyjä. ||
+| SYSTEM-REQ-0008 | System Requirement | Laitteessa on oltava dynaaminen painonkevennysjärjestelmä, jota on voitava käyttää kaukosäätimellä. ||
+| SYSTEM-REQ-0009 | System Requirement | Laitteen mukana tulee toimittaa 4 kappaletta valjaita erikokoisille kuntoutujille, kokojen tulee olla S, M, L ja XL tai vastaavat.||
+| SYSTEM-REQ-0010 | System Requirement | Laitteen juoksumatolle on päästävä helposti pyörätuolilla ramppia pitkin. ||
+| SYSTEM-REQ-0011 | System Requirement | Laitteen tulee soveltua 130 kg painoiselle henkilölle ja mahdollistaa 200 cm pituisen potilaan painokevennetyn kävelyn. ||
+| SYSTEM-REQ-0012 | System Requirement | Laitteen täytyy soveltua painokevennettyyn kävelymattokuntoutukseen robottiavusteisesti, mutta myös ilman robottia painekevennetyn kävelyn harjoitteluun. ||
+| SYSTEM-REQ-0013 | System Requirement | Laitteessa täytyy olla virtuaalinen biofeedback-ohjelmisto sekä näyttötaulu tai muu vastaava tekninen ratkaisu. ||
+| SYSTEM-REQ-000x | System Requirement | Ohjelmistojen tulee soveltua toimintakyvyltään eritasoisille kuntoutujille. ||
+| SYSTEM-REQ-000x | System Requirement | Laitteella tulee pystyä mittaamaan vähintään seuraavat: kävelymatka, lihasten aktiivisuus, lihasten jäykkyys/vastus, alaraajanivelten liikelaajuudet ja isometriset liikevoimat. ||
+| SYSTEM-REQ-000x | System Requirement | Laitteessa tulee olla mahdollisuus tallentaa vähintään 10 kuntoutujan mittaustulokset ja harjoitushistoria myöhempää dokumentointia varten (tallenteet tulee saada myös tulostettua). ||
+| SYSTEM-REQ-000x | System Requirement | Laitteella tai lisälaitteella on pystyttävä ohjaamaan mekaanisesti lantion sivusuuntaista liikettä painonsiirron simuloimiseksi sekä lantion kiertoa.||
+| SYSTEM-REQ-000x | System Requirement | Laitteessa on oltava tietokoneyhteydellä ja voimasensoreilla varustetut alaraajaortoosit. ||
+| SYSTEM-REQ-000x | System Requirement |||
+| SYSTEM-REQ-000x | System Requirement |||
+| SYSTEM-REQ-000x | System Requirement |||
+| SYSTEM-REQ-000x | System Requirement |||
+| SYSTEM-REQ-000x | System Requirement |||
+
+| SYSTEM-REQ-000x | System Requirement |||
 
 # Oleelliset huomioitavat rajoitteet
 
