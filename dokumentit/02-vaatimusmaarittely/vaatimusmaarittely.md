@@ -206,13 +206,13 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava AC5-2009-käytäntöä  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| CONSTRAINT-REQ-S00001 | Constrain |||
-| CONSTRAINT-REQ-S00002 | Constrain |||
-| CONSTRAINT-REQ-S00003 | Constrain |||
-| CONSTRAINT-REQ-S00004 | Constrain |||
-| CONSTRAINT-REQ-S00005 | Constrain |||
-| CONSTRAINT-REQ-S00006 | Constrain |||
+| CONSTRAINT-REQ-S00000 | Constrain | Tuote on ergonominen  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| CONSTRAINT-REQ-S00001 | Constrain | Tuote on skaalautuva ||
+| CONSTRAINT-REQ-S00002 | Constrain | Tuotteen on tuettava potilaita tarpeellisesti. ||
+| CONSTRAINT-REQ-S00003 | Constrain | Tuote ei ole liian kallis toteutettavaksi ||
+| CONSTRAINT-REQ-S00004 | Constrain | Tuote takaa tarvittavat toimenpiteet ||
+| CONSTRAINT-REQ-S00005 | Constrain | Tuote on siirrettävissä ||
+| CONSTRAINT-REQ-S00006 | Constrain | ||
 
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
