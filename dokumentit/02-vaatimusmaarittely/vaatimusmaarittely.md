@@ -102,11 +102,17 @@ Tilaajan kannalta on huomioitava projektin vaatimuusmäärittelyt, arkkitehtuuri
 
 
 A: Olen 34-vuotias proteesin saanut mies, ja käyn kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä. 
+
 B: Olen hipiästä alaspäin halvaantunut 46-vuotias nainen, ja käyn kävelykuntoutusterapiassa opettelemassa uudelleen kävelemään.
+
 C: Pienestä asti olen sairastanut harvinaista motoorista sairausta ja käyn kävelykuntoutusterapaissa viikoittain.
+
 E: Jouduin onnettomuuteen ja käyn kuntoutusterapaissa osana parantumistani.
+
 D: Olen kävelykuntoutusterapeutti ja tehtäväni on vastata potilaiden kävelykuntoutuksesta.
+
 F: Olen kävelykuntoutusrobotin tilaaja, ja tavoitteena olisi saada toimiva kävelykuntoutus-robotti palvelu kävelykuntoutusterpian asiakaskunnalle.
+
 G: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 
