@@ -15,7 +15,7 @@
 * [Asiakastarina](#Johdatus)
 * [Sidosryhmät ja profiilikuvaukset]()
 * [Sidosryhmäkuva 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/kuvat/CustomerMapV1/)
-* * [Sidosryhmäkuva 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/kuvat/StakeHolderMapV1/)
+* [Sidosryhmäkuva 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/kuvat/StakeHolderMapV1/)
 * [Palvelu/asiakaspolku]()
 * [Yleinen käyttötapaus]()
 * [Yleiset toiminnalliset vaatimukset]()
