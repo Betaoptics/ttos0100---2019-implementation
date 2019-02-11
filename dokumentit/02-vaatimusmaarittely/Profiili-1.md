@@ -11,7 +11,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://openclipart.org/image/300px/svg_to_png/293286/Unknown-With-Background.png)
+![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer2.JPG)
 
 
 **nimi ja taustaa**
