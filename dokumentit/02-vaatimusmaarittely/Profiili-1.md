@@ -5,6 +5,7 @@
 ### viiteryhmä/segmentti:
 
 * Asiakas
+* Potilas
 * Pystyykö kävelykuntoutusrobotti huomioimaan proteesi-potilaiden tarpeita kävelykuntoutusterapiassa.
 
 ### Persoona/sidosryhmän kuvaus
