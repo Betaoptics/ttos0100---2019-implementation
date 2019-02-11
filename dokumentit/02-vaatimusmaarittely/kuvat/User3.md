@@ -1,1 +1,1 @@
-![User3](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer2.JPG)
+![User3](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer3.JPG)
