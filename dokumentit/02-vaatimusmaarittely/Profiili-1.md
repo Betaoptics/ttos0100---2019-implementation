@@ -1,6 +1,5 @@
 # Profiili - 1
 
-[![](http://img.youtube.com/vi/-TbGB_1wjpM/0.jpg)](http://www.youtube.com/watch?v=-TbGB_1wjpM "")
 
 
 ### viiteryhmä/segmentti:
@@ -13,7 +12,7 @@
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer2.JPG)
 
 
-**nimi ja taustaa**
+**Nimi ja taustaa**
 
 Nimeni on Matti, olen 34-vuotias jalka-proteesin saanut mies.
 Sain jalka-proteesin vasta hiljattain onnettomuudessa ja käyn Faux-hospitalin kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä.
@@ -23,10 +22,6 @@ Sain jalka-proteesin vasta hiljattain onnettomuudessa ja käyn Faux-hospitalin k
 * Käyn kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä.
 * Tavoitteena on tottua proteesin käyttöön ja uuden elämäntilanteeseen oppiminen
 * Tavoitteena on oppia kävelemään jalkaproteesilla.
-
-
-![](https://openclipart.org/image/300px/svg_to_png/291313/why.png)
-
 
 ### Arvot  
 
