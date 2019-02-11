@@ -16,10 +16,13 @@
 **nimi ja taustaa**
 
 Nimeni on Matti, olen 34-vuotias jalka-proteesin saanut mies.
+Sain jalka-proteesin vasta hiljattain onnettomuudessa ja käyn Faux-hospitalin kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä.
 
 ### Motiivi käyttää/soveltaa palvelua? 
 
 * Käyn kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä.
+* Tavoitteena on tottua proteesin käyttöön ja uuden elämäntilanteeseen oppiminen
+* Tavoitteena on oppia kävelemään jalkaproteesilla.
 
 
 ![](https://openclipart.org/image/300px/svg_to_png/291313/why.png)
@@ -28,6 +31,7 @@ Nimeni on Matti, olen 34-vuotias jalka-proteesin saanut mies.
 ### Arvot  
 
 * Haluan laitteen, joka huomioi uuden elämän tilanteeni ja pystyy antamaan sopivaa tukea harjoittelussa.
+* Toivon sen auttavan minua kohtaamaan eri liikkumisen tilanteita, joita arkielämässä kohtaa.
 
 ### Välineet ja kyvyt etc.
 
