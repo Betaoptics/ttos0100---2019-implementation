@@ -19,3 +19,8 @@
 * Olen kuuro ja käyn kävelyterapiassa muutamankerran sopeutuakseni ympäristööni,
 * I am a foreigner and I do not speak good English or Finnish but I can speak fluent German. It makes communicating in walking therapy hard.
 * Olen värisokea ja minua harmittaa kuinka usein kohtaan ongelmaani kävelyterapiassakin.
+
+## Vaatimusmäärittelyn toimittaja
+
+Olen projektiryhmän suunnittelija ja konsultti Robot and Artificial Intelligence Development Organization yrityksessä.
+
