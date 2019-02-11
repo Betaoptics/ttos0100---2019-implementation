@@ -1,0 +1,1 @@
+# Profiilikuvaukset ja sidosryhmät kansio.
