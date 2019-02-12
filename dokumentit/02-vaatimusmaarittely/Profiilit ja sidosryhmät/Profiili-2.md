@@ -6,7 +6,7 @@
 
 * Asiakas
 * Potilas
-* Pystyykö kävelykuntoutusrobotti huomioimaan proteesi-potilaiden tarpeita kävelykuntoutusterapiassa.
+* Pystyykö halvaantunut potilas käyttämään kävelyrobottia.
 
 ### Persoona/sidosryhmän kuvaus
 
@@ -19,8 +19,8 @@ Olen hipiästä alaspäin halvaantunut 46-vuotias nainen, ja käyn kävelykuntou
 
 ### Motiivi käyttää/soveltaa palvelua? 
 
-* Käyn kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä.
-* Tavoitteena on tottua proteesin käyttöön ja uuden elämäntilanteeseen oppiminen
+* Käyn kävelykuntoutusterapiassa harjoittelemassa kävelemistä.
+* Tavoitteena on oppia hallitsemaan motorisia taitojani.
 * Tavoitteena on oppia kävelemään jalkaproteesilla.
 
 ### Arvot  
