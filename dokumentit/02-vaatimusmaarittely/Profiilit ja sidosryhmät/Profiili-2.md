@@ -15,8 +15,7 @@
 
 **Nimi ja taustaa**
 
-Nimeni on Matti, olen 34-vuotias jalka-proteesin saanut mies.
-Sain jalka-proteesin vasta hiljattain onnettomuudessa ja käyn Faux-hospitalin kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä.
+Olen hipiästä alaspäin halvaantunut 46-vuotias nainen, ja käyn kävelykuntoutusterapiassa opettelemassa uudelleen kävelemään.
 
 ### Motiivi käyttää/soveltaa palvelua? 
 
