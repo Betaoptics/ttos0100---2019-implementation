@@ -10,7 +10,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer2.JPG)
+![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer1.JPG)
 
 
 **Nimi ja taustaa**
