@@ -4,30 +4,34 @@
 
 ### viiteryhmä/segmentti:
 
-* Asiakas
-* Potilas
-* Pystyykö halvaantunut potilas käyttämään kävelyrobottia.
+* Asiakas.
+* Tilauksen vastaaja/tilaaja.
+* Hallinto.
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer1.JPG)
+![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/ProductOwner.JPG)
 
 
 **Nimi ja taustaa**
 
-Olen hipiästä alaspäin halvaantunut 46-vuotias nainen, ja käyn kävelykuntoutusterapiassa opettelemassa uudelleen kävelemään.
+Olen projektin vastaava. Minun vastuullani on huolehtia sairaalan uusista palveluista.
 
 ### Motiivi käyttää/soveltaa palvelua? 
 
-* Käyn kävelykuntoutusterapiassa harjoittelemassa kävelemistä.
-* Tavoitteena on oppia hallitsemaan motorisia taitojani.
-* Tavoitteena on oppia kävelemään jalkaproteesilla.
+* Tavoitteena on tuottaa asiakaskunnalle pyydettyjä palveluita.
+* Julkisen sektorin yrityksenä kunta tukee toimintaamme palveluita vastaan.
+* Löytää ratkaisuja, työkaluja ja palveluita, joita asiakskunta kuten potilaat, kunta ja yksityiset investoijat haluavat. 
+* Työ.
+
 
 ### Arvot  
 
-* Haluan laitteen, joka huomioi uuden elämän tilanteeni ja pystyy antamaan sopivaa tukea harjoittelussa.
-* Toivon sen auttavan minua kohtaamaan eri liikkumisen tilanteita, joita arkielämässä kohtaa.
+* Haluan tuottaa palveluita asiakaskunnalle.
+* Haluan löytää kävelyterapiassa käyville lisää apulaitteita.
+* Toivon projektin onnistuvan.
+
 
 ### Välineet ja kyvyt etc.
 
-* Proteesi, kuten jalkaproteesi.
+* Talous, hallinto, johtaja.
