@@ -1,1 +1,1 @@
-![CustomerMapV1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/CustomerMapV1.JPG)
+![CustomerMapV1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/CustomerMapV1.PNG)
