@@ -45,6 +45,13 @@ Käytännössä se tarkoittaa sitä, että kävelykuntoutusrobotin tulee olla s�
 [![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
 
 
+## Palvelunkuvaus
+
+Projektissa kehitellään kävelykuntoutusrobottia Fauxton sairaalan tilaamana. Tavoitteena on tuottaa sellainen tuote, joka vastaa asiakkaan odotuksia ja vaatimuksia, sekä osaa huomioida myös sanattomia asiakastarpeita.
+Tälläisiä asiakastarpeita ovat mm. logistiset ominaisuudet kuten kävelykuntoutusrobotin ergonomisuus ja siirrettävyys, kävelykuntoutusrobotin huolto ja kävelykuntoutusrobotin turvallisuuteen, luotettavuuteen ja toiminnallisuuteen viittaavat tekijät.
+Lisäksi on huomioitava tuotetta käyttävän asiakaskunnan yksilötarpeet, kuten värisokeus, sokeus, kuurous, erikielisyys, liikuntarajoitteisuus ja muut vastaavat piirteet.
+
+
 ## Vaatimusmäärittelytyön tilaaja
 
 __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
@@ -109,12 +116,17 @@ C: Pienestä asti olen sairastanut harvinaista motoorista sairausta ja käyn kä
 
 E: Jouduin onnettomuuteen ja käyn kuntoutusterapaissa osana parantumistani.
 
-D: Olen kävelykuntoutusterapeutti ja tehtäväni on vastata potilaiden kävelykuntoutuksesta.
+D: I moved into Finland few years ago and I got into accident. I go to walking therapy and use a robot  to help and guide me back into fit shape.
 
-F: Olen kävelykuntoutusrobotin tilaaja, ja tavoitteena olisi saada toimiva kävelykuntoutus-robotti palvelu kävelykuntoutusterpian asiakaskunnalle.
+F: Olen hiljattain sokeutunut kävelykuntoutusterapian asiakas. Käyn siellä harjoittelemassa uuta elämäntilannettani.
 
-G: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
+G: Olen kuuro ja liikuntarajoitteinen. Käyn kävelykuntoutusterapiassa harjoittelemassa liikkumista parantuakseni.
 
+H: Olen kävelykuntoutusterapeutti ja tehtäväni on vastata potilaiden kävelykuntoutuksesta.
+
+I: Olen kävelykuntoutusrobotin tilaaja, ja tavoitteena olisi saada toimiva kävelykuntoutus-robotti palvelu kävelykuntoutusterpian asiakaskunnalle.
+
+J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 ## Yleinen sidosryhmäkuva (Stakeholder map)
 
