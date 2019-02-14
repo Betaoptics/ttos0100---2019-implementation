@@ -5,8 +5,6 @@
 ### viiteryhmä/segmentti:
 
 * Asiakas.
-* Tilauksen vastaaja/tilaaja.
-* Hallinto.
 
 ### Persoona/sidosryhmän kuvaus
 
