@@ -5,7 +5,9 @@
 ### viiteryhmä/segmentti:
 
 * Asiakas.
-* Hoitaja
+* Hoitaja.
+* Terapeutti.
+
 
 ### Persoona/sidosryhmän kuvaus
 
