@@ -5,31 +5,31 @@
 ### viiteryhmä/segmentti:
 
 * Asiakas.
+* Hoitaja
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/ProductOwner.JPG)
+![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer5.JPG)
 
 
 **Nimi ja taustaa**
 
-Olen projektin vastaava. Minun vastuullani on huolehtia sairaalan uusista palveluista.
+Olen ammatiltani kuntoutusterapeutti ja toimin kävelykuntoutusoastolla terapeuttina.
+Olen myös välillä ylityöllistetty ja väsynyt, huolimattomuus voi joskus osua tahattomasti tällä alalla.
 
 ### Motiivi käyttää/soveltaa palvelua? 
 
-* Tavoitteena on tuottaa asiakaskunnalle pyydettyjä palveluita.
-* Julkisen sektorin yrityksenä kunta tukee toimintaamme palveluita vastaan.
-* Löytää ratkaisuja, työkaluja ja palveluita, joita asiakskunta kuten potilaat, kunta ja yksityiset investoijat haluavat. 
+* Tavoitteena on auttaa potilaita kuntoutumaan ja paranemaan.
+* Kehittyä työntekijänä ja operoida kävelykuntoutusrobottia potilaille.
 * Työ.
 
 
 ### Arvot  
 
-* Haluan tuottaa palveluita asiakaskunnalle.
-* Haluan löytää kävelyterapiassa käyville lisää apulaitteita.
-* Toivon projektin onnistuvan.
+* Haluan olla hyvä työntekijä ja osata käyttää robottia kuntoutusterapian työvälineenä.
+* Toivon, että robotti pystyy vastaamaan odotuksia. Me todella tarvitsemme kaiken avun työssämme.
 
 
 ### Välineet ja kyvyt etc.
 
-* Talous, hallinto, johtaja.
+* Terapeutti, kävelykuntoutusrobotti, hoito-alan koulutus.
