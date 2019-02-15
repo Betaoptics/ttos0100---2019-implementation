@@ -3,7 +3,8 @@
 ```mermaid
 graph TD
     Aloitus-->|Resurssit|Sunnittelu
-    Sunnittelu-->|Analyysi|Työskentely
+    Sunnittelu-->|Analyysi|Dokumentaatio
+    Sunnittelu-->|Arkistointi|Työskentely
     Työskentely-->|Pyydetään palautetta|Palautekeskustelu
     Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Työskentely
     Työskentely-->|Homma valmis?|Tarkistus
