@@ -408,10 +408,10 @@ Perinteinen listaus
 
 | Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
 |:-:|:-:|:-:|:-:|
-| 1.9.2019 [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Projektivastaava | 1 |
-| 1.10.2019 [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Proejtkivastaava | 2 |
+| 15.2.2019 [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Tuen saanti käytössä | Projektivastaava/turvallisuudenvalvoja | 1 |
+| 15.2.2019 [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Datan keruu käytössä | Terapeutti/projektivastaava| 2 |
 | 15.11.2019 [Ominaisuus - 3](pohjat/pohja-ominaisuus.md) | | |
-| 5.12.2019 [Ominaisuus - 4](pohjat/pohja-ominaisuus.md) | | |
+| 5.12.2020 [Ominaisuus - 4](pohjat/pohja-ominaisuus.md) | | |
 
 
 # Tilakone
