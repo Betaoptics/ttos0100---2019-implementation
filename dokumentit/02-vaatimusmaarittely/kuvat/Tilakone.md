@@ -12,6 +12,7 @@ graph TD
     Luovutus-->|Tuote valmist!|Julkaisu
     Julkaisu-->|Olet vapaa!!|Kotia-kohti
     Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Kotia-kohti
+    Kotia-kohti-->|Jatkokehitys|Suunnittelu
     Tarkistus-->|Vaatii työstämistä|Työskentely
 
 ```
