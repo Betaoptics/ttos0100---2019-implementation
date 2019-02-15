@@ -1,0 +1,1 @@
+Tässä kansiossa on asiakaspolut.
