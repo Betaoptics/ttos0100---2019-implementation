@@ -1,7 +1,7 @@
 # Use Case - 1 
 
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase1.PNG)
+![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase1V1.PNG)
 
 
 **Info**
@@ -20,6 +20,7 @@
 
 1. Tieto tuotteesta tulee olla saatavilla
 2. Tuote ja palvelu tulee olla saatavissa.
+3. Palvelun tulee vastata potilaan tarpeita.
 
 **Käyttötapauksen kuvaus**
 
