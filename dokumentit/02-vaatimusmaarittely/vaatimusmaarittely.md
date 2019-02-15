@@ -202,10 +202,11 @@ Esim. Canvanizer https://canvanizer.com
 
 __Kirjaa tähän tärkeimmät vaatimukset suunnitteltuun palveluun liittyen__
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
+Kävelykuntoutusrobotin tulee soveltua käyttöön. Sen pitää pystyä tukemaan asiakkaita, keräämään dataa ja esittämään sitä visuaalisesti.
+Sen tulee olla kestävä, helppohuoltoinen ja luotettava. Tuotteen tulee pystyä olemaan helppokäyttöinen ja ketterä soveltuakseen erillaisiin kävelykuntoutusterapian haasteisiin ja asiakaskunnan tarpeisiin.
+Sen pitää pystyä myös olemaan helposti ymmärrettävissä ja säädettävissä, jos esimerkiksi asiakas onkin eri kokoinen, värisokea tai vaikka ulkomaalainen.
+Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, ja potilaalle näytettävän visuaalisen representaation tulee olla selkeää niin, että kuurokin ymmärtää mistä on kyse.
+
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
@@ -226,30 +227,24 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 | SYSTEM-REQ-0011 | System Requirement | Laitteen tulee soveltua 130 kg painoiselle henkilölle ja mahdollistaa 200 cm pituisen potilaan painokevennetyn kävelyn. ||
 | SYSTEM-REQ-0012 | System Requirement | Laitteen täytyy soveltua painokevennettyyn kävelymattokuntoutukseen robottiavusteisesti, mutta myös ilman robottia painekevennetyn kävelyn harjoitteluun. ||
 | SYSTEM-REQ-0013 | System Requirement | Laitteessa täytyy olla virtuaalinen biofeedback-ohjelmisto sekä näyttötaulu tai muu vastaava tekninen ratkaisu. ||
-| SYSTEM-REQ-000x | System Requirement | Ohjelmistojen tulee soveltua toimintakyvyltään eritasoisille kuntoutujille. ||
-| SYSTEM-REQ-000x | System Requirement | Laitteella tulee pystyä mittaamaan vähintään seuraavat: kävelymatka, lihasten aktiivisuus, lihasten jäykkyys/vastus, alaraajanivelten liikelaajuudet ja isometriset liikevoimat. ||
-| SYSTEM-REQ-000x | System Requirement | Laitteessa tulee olla mahdollisuus tallentaa vähintään 10 kuntoutujan mittaustulokset ja harjoitushistoria myöhempää dokumentointia varten (tallenteet tulee saada myös tulostettua). ||
-| SYSTEM-REQ-000x | System Requirement | Laitteella tai lisälaitteella on pystyttävä ohjaamaan mekaanisesti lantion sivusuuntaista liikettä painonsiirron simuloimiseksi sekä lantion kiertoa.||
-| SYSTEM-REQ-000x | System Requirement | Laitteessa on oltava tietokoneyhteydellä ja voimasensoreilla varustetut alaraajaortoosit. ||
-| SYSTEM-REQ-000x | System Requirement |||
-| SYSTEM-REQ-000x | System Requirement |||
-| SYSTEM-REQ-000x | System Requirement |||
-| SYSTEM-REQ-000x | System Requirement |||
-| SYSTEM-REQ-000x | System Requirement |||
+| SYSTEM-REQ-0014 | System Requirement | Ohjelmistojen tulee soveltua toimintakyvyltään eritasoisille kuntoutujille. ||
+| SYSTEM-REQ-0015 | System Requirement | Laitteella tulee pystyä mittaamaan vähintään seuraavat: kävelymatka, lihasten aktiivisuus, lihasten jäykkyys/vastus, alaraajanivelten liikelaajuudet ja isometriset liikevoimat. ||
+| SYSTEM-REQ-0016 | System Requirement | Laitteessa tulee olla mahdollisuus tallentaa vähintään 10 kuntoutujan mittaustulokset ja harjoitushistoria myöhempää dokumentointia varten (tallenteet tulee saada myös tulostettua). ||
+| SYSTEM-REQ-0017 | System Requirement | Laitteella tai lisälaitteella on pystyttävä ohjaamaan mekaanisesti lantion sivusuuntaista liikettä painonsiirron simuloimiseksi sekä lantion kiertoa.||
+| SYSTEM-REQ-0018 | System Requirement | Laitteessa on oltava tietokoneyhteydellä ja voimasensoreilla varustetut alaraajaortoosit. ||
 
-| SYSTEM-REQ-000x | System Requirement |||
 
 # Oleelliset huomioitavat rajoitteet
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Tuote on ergonominen  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| CONSTRAINT-REQ-S00001 | Constrain | Tuote on skaalautuva ||
+| CONSTRAINT-REQ-S00000 | Constrain | Tuote on ergonominen.  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| CONSTRAINT-REQ-S00001 | Constrain | Tuote on skaalautuva. ||
 | CONSTRAINT-REQ-S00002 | Constrain | Tuotteen on tuettava potilaita tarpeellisesti. ||
-| CONSTRAINT-REQ-S00003 | Constrain | Tuote ei ole liian kallis toteutettavaksi ||
-| CONSTRAINT-REQ-S00004 | Constrain | Tuote takaa tarvittavat toimenpiteet ||
-| CONSTRAINT-REQ-S00005 | Constrain | Tuote on siirrettävissä ||
-| CONSTRAINT-REQ-S00006 | Constrain | ||
+| CONSTRAINT-REQ-S00003 | Constrain | Tuote ei ole liian kallis toteutettavaksi. ||
+| CONSTRAINT-REQ-S00004 | Constrain | Tuote takaa tarvittavat toimenpiteet. ||
+| CONSTRAINT-REQ-S00005 | Constrain | Tuote on siirrettävissä. ||
+| CONSTRAINT-REQ-S00006 | Constrain | Tuote on ketterä. ||
 
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
