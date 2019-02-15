@@ -52,6 +52,10 @@ Projektissa kehitellään kävelykuntoutusrobottia Fauxton sairaalan tilaamana. 
 Tälläisiä asiakastarpeita ovat mm. logistiset ominaisuudet kuten kävelykuntoutusrobotin ergonomisuus ja siirrettävyys, kävelykuntoutusrobotin huolto ja kävelykuntoutusrobotin turvallisuuteen, luotettavuuteen ja toiminnallisuuteen viittaavat tekijät.
 Lisäksi on huomioitava tuotetta käyttävän asiakaskunnan yksilötarpeet, kuten värisokeus, sokeus, kuurous, erikielisyys, liikuntarajoitteisuus ja muut vastaavat piirteet.
 
+Palvelun avulla voidaan avustaa tilaajan asiakaskuntaa kävelykuntoutuksen terapiassa ja auttaa työntekijöitä ymmärtämään asiakkaiden yksilöllisistä asiakastarpeista.
+Asiakaskunnan kannalta kävelykuntoutusrobootin tehtävä olisi auttaa heitä kuntoutumaan kävelykuntoutusterapiassa ja vastata heidän odotuksia ja tarpeita kussakin tilanteessa.
+Tilaajan kannalta on huomioitava projektin vaatimuusmäärittelyt, arkkitehtuuri, toteutettavuus käytännöllisesti ja taloudellisesti.
+
 
 ## Vaatimusmäärittelytyön tilaaja
 
@@ -86,15 +90,6 @@ __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 __Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) taiesim. kuvitteellisen yrityksen työntekijänä__
 
 Olen projektiryhmän suunnittelija ja konsultti Robot and Artificial Intelligence Development Organization yrityksessä.
-
-
-# Palvelukuvaus
-
-**Mitä palvelun avulla voidaan tehdä? Mikä sen tehtävä on sidosryhmän kannalta?**
-
-Palvelun avulla voidaan avustaa tilaajan asiakaskuntaa kävelykuntoutuksen terapiassa ja auttaa työntekijöitä ymmärtämään asiakkaiden yksilöllisistä asiakastarpeista.
-Asiakaskunnan kannalta kävelykuntoutusrobootin tehtävä olisi auttaa heitä kuntoutumaan kävelykuntoutusterapiassa ja vastata heidän odotuksia ja tarpeita kussakin tilanteessa.
-Tilaajan kannalta on huomioitava projektin vaatimuusmäärittelyt, arkkitehtuuri, toteutettavuus käytännöllisesti ja taloudellisesti.
 
 
 [![](http://img.youtube.com/vi/fOlmrsp2iRc/0.jpg)](http://www.youtube.com/watch?v=fOlmrsp2iRc "")
