@@ -1,1 +1,1 @@
-![UseCase2V1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase2.PNG)
+![UseCase2V1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase2V1.PNG)
