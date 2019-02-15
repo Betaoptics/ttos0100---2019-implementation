@@ -9,7 +9,9 @@ graph TD
     Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Työskentely
     Työskentely-->|Homma valmis?|Tarkistus
     Tarkistus-->|Hyväksytään|Luovutus
-    Luovutus-->|Olet vapaa!!|Kotia-kohti
+    Luovutus-->|Tuote valmist!|Julkaisu
+    Julkaisu-->|Olet vapaa!!|Kotia-kohti
+    Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Kotia-kohti
     Tarkistus-->|Vaatii työstämistä|Työskentely
 
 ```
