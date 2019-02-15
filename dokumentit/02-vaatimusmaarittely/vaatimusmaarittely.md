@@ -484,12 +484,12 @@ _Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julka
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| TST.REQ001 | Toimiiko laite | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ000 | Toimiiko laite | Testattavuus | Kehittäjä/Projektivastaava | 
 | TST.REQ001 | Kestääkö laite | Testattavuus | Kehittäjä/Projektivastaava | 
-| TST.REQ001 | Onko laite luotettava | Testattavuus | Kehittäjä/Projektivastaava | 
-| TST.REQ001 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
-| TST.REQ001 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava |
-| TST.REQ001 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ002 | Onko laite luotettava | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ003 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ004 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava |
+| TST.REQ005 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
 
 
 
