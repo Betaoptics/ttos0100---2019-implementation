@@ -331,8 +331,6 @@ Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhte
 Vaikka kävelykuntoutusrobotti ei ole primäärisesti esillä nykyisessä IoT-maailmassa, voi sen tietokantaan silti tulla tietoturvauhkia kuten erinäiset höykkäykset ja tiedonkaappauksen yritykset.
 Tästä syystä on huomioitava ei-funktionaalisia turvallisuuteen liittyviä tekijöitä ja miten palvelun tietoturva voidaan turavata palvelun kokonaisuuden komponenttina.
 
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
@@ -347,11 +345,8 @@ Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhte
 
 ### Käytettävyys
 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
+Käytettävyyteen liittyy käyttöliittymän ominaisuuksia. Käytettävyyttä parantaa selvä representaatio, käyttöliittymän looginen järjestys, hyväksi todetut mallit.
+Toiminnot tulee löyttää helposti ja valinta-valikko olisi hyvä olla aina näkyvillä käyttöliittymän kätevyyden ja nopean käytettävyyden mahdollistamiseksi.
 
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
@@ -387,9 +382,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 [![](http://img.youtube.com/vi/eTeUxYSdCxA/0.jpg)](http://www.youtube.com/watch?v=eTeUxYSdCxA "")
 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Tärkeimpiin ominaisuuksiin kuuluu...
 
 ** Mieti ovatko kaikki ominaisuudet tarpeellisia?**
 [![](http://img.youtube.com/vi/pIDSK21PE9M/0.jpg)](http://www.youtube.com/watch?v=pIDSK21PE9M "")
