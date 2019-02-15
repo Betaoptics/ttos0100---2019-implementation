@@ -240,9 +240,9 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 |:-:|:-:|:-:|:-:|
 | CONSTRAINT-REQ-S00000 | Constrain | Tuote on ergonominen.  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
 | CONSTRAINT-REQ-S00001 | Constrain | Tuote on skaalautuva. ||
-| CONSTRAINT-REQ-S00002 | Constrain | Tuotteen on tuettava potilaita tarpeellisesti. ||
-| CONSTRAINT-REQ-S00003 | Constrain | Tuote ei ole liian kallis toteutettavaksi. ||
-| CONSTRAINT-REQ-S00004 | Constrain | Tuote takaa tarvittavat toimenpiteet. ||
+| CONSTRAINT-REQ-S00002 | Constrain | Tuotteen on helppokäyttöinen. ||
+| CONSTRAINT-REQ-S00003 | Constrain | Tuote on asiakasturvallinen. ||
+| CONSTRAINT-REQ-S00004 | Constrain | Tuote on tietoturvallinen. ||
 | CONSTRAINT-REQ-S00005 | Constrain | Tuote on siirrettävissä. ||
 | CONSTRAINT-REQ-S00006 | Constrain | Tuote on ketterä. ||
 
@@ -261,18 +261,15 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 [![](http://img.youtube.com/vi/Yj7LBkL5oEE/0.jpg)](http://www.youtube.com/watch?v=Yj7LBkL5oEE "")
 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) ja kävelykuntouitusterapeutti [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/).
+Kävelykuntoutusterapeutti saa työpaikalleen kävelykuntoutusrobotin ja työryhmän kanssa he alkavat analysoimaan miten uusi työkalu voidaan parhaiten integroida osana kuntoutusohjelmaa.
+Kun kuntoutusrobotti läpäisee tarvittavat testit, voi kävelykuntoutuksesta vastaava työryhmä alkaa käyttämään sitä osana kuntoutusohjelmaa.
+Kävelykuntoutusterapiaan päästessä potilas aloittaa kävelyrobotin käyttämisen osana kuntoutusterapian ohjelmaa kävelykuntousterapeutin ohjeistuksen tukemana.
+Käytön aikana potilas ja terapeutti ovat keskenään vuorovaikutuksessa ja toimivat yhdessä tavoitteena potilaan parantuminen. Samalla prosessista kerätään tarpeellista tietoa eri osa-aluista.
+Kun kuntoutusohjelma loppuu, koostetaan kaikki tiedot omiin luokkiinsa ja jälleenvälitetään sitä eteenpäin palvelun laadun parantamiseksi ja tuotekehittelyä varten.
 
-**Esimerkit**
-
-* [Käyttötapaus 1 - Uusi asiakas luo tunnuksen]()
-* [Käyttötapaus 2 - Uusi asiaks poistaa tunnukset]()
+* [Käyttötapaus 1 - Potilas hakee kuntoutuspalvelua](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%201.md)
+* [Käyttötapaus 2 - Kävelykuntoutusterapeuttii hyödyntää kuntoutusrobottia osana terapiaa](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%202.md)
 
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
 
