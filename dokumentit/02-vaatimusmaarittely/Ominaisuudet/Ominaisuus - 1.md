@@ -6,17 +6,19 @@
 | | |
 |:-:|:-:|
 | Ominaisuus ID | FT01.1 |
-| Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
-| Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
-| Status | esim. hyväksytty |
+| Kuntoutusrobootin ominaisuus | Käyttäjän tuenta |
+| Laadunvalvoja/kehittäjä | Projektivastaava |
+| Status | Hyväksytty |
 
 ### Kuvaus
 
 *Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
 
-Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
-Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
-vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
+Ominaisuuden tavoite on tarjota palvelua käyttävielle asiakkaille heidän tarvitsemansa ja vaatimansa tuki.
+Laadullisesti tämä tarkoittaa sitä, että kävelykuntoutusrobotin tulee pysytä olemaan tarpeeksi vankka antaakseen tarpeellista tukea jaloille.
+Tuotteen pitää myös olla säädettävissä kunkin yksilöllisen asiakkaan mukaan, eli robotti ja tukijärjestelmä ei saa olla liian kiinteä rakenteeltaan.
+Kävelykuntoutusrobotti ei saa myöskään olla liian tiukka, jotta se ei aiheuta muita haitallisia komplikaatiota.
+Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaalisesti vahingoittaa potilasta käytön aikana.
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
@@ -25,8 +27,8 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 | | |
 |:-:|:-:|
-| [Use Case 1](FT1-kayttotapaus.md) | |
-| [Use Case 2](FT2-kayttotapaus.md) | |
+| [Use Case - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1.md) | |
+| [Profiili - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%201.md) | |
 | [Vaatimus ReqID]() |  | 
 | [Vaatimus ReqID]() |  | 
 | [Vaatimus ReqID]() |  | 
@@ -35,8 +37,15 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 *Kirjataan User Storyt alustavasti tähän*
 
-* Käyttäjän haluan, että voin.....
-* Ylläpitäjänä haluan, että voin.....
+* Käyttäjän haluan, että voin käyttää kuntoutusrobottia ilman ongelmia.
+* Käyttäjänä haluan, että laitteeseen on helppo päästä ja sitä on helppo käyttää.
+* Kuntoutusterapeuttina haluan, että kavelykuntoutusrobotti on hyvä ja helppokäyttöinen työkalu.
+* Kuntoutusterapeuttina haluan, että laite on luotettava.
+* Kuntoutusterapeuttina haluan, että laite antaa minulle lisää tietoa potilaitteni tilanteesta.
+* Tilaajana haluan, että tuote on ergonominen ja ekonominen.
+* Tilaajana haluan, että tuote ei aiheuta ongelmia.
+* Tilaajana haluan, että tuote vastaa tarpeita.
+* Tilaajana haluan, että tuote on helppo ylläpitää ja se ei ole liian kallista ylläpidettäväski palveluna.
 
 **Nämä kannattaa siirtää pian issue kuvauksiksi*
 
