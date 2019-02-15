@@ -147,7 +147,7 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 
 **Muista kirjata kuvauksiin erityisesti sidosryhmän motivaatio! Eli miksi sidosryhmä syy käyttää/soveltaa palvelua**
 
-* [Profile 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1.md)
+* [Profile 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/)
 * [Profile 2](stakeholder-profile2.md)
 * [Profile 3](stakeholder-profile3.md)
 
