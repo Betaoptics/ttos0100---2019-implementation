@@ -414,19 +414,23 @@ Perinteinen listaus
 | 5.12.2019 [Ominaisuus - 4](pohjat/pohja-ominaisuus.md) | | |
 
 
-
-Tutustu Mermaid skriptiin?
+# Tilakone
 
 ```mermaid
-gantt
-        dateFormat  YYYY-MM-DD
-        title GANTT -kaavio julkaisusuunnitelman pohjaksi?
-        section A section
-        Lorem Ipsumit alkuun            :done,    des1, 2019-01-06,2019-01-08
-        Parem poxum               :active,  des2, 2019-01-09, 3d
-        Tirem taxum               :         des3, after des2, 5d
-        Quatro Station               :         des4, after des3, 5d
-        
+graph TD
+    Aloitus-->|Resurssit|Sunnittelu
+    Sunnittelu-->|Analyysi|Dokumentaatio
+    Dokumentaatio-->|Arkistointi|Työskentely
+    Työskentely-->|Pyydetään palautetta|Palautekeskustelu
+    Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Työskentely
+    Työskentely-->|Homma valmis?|Tarkistus
+    Tarkistus-->|Hyväksytään|Luovutus
+    Luovutus-->|Tuote valmist!|Julkaisu
+    Julkaisu-->|Olet vapaa!!|Kotia-kohti
+    Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Kotia-kohti
+    Kotia-kohti-->|Jatkokehitys|Suunnittelu-loop
+    Tarkistus-->|Vaatii työstämistä|Työskentely
+
 ```
 
 
