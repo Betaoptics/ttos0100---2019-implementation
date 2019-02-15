@@ -273,17 +273,10 @@ Kun kuntoutusohjelma loppuu, koostetaan kaikki tiedot omiin luokkiinsa ja jälle
 
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-**Mitä ovat toiminnalliset vaatimukset?**
-
-
+Toiminnallisia vaatimuksia liittyvät tuotteen toimintoihin käytännössä. Laitteen pitää pystyä olemaan turvallinen asiakkaalle ja käyttäjälle, eli se ei saa olla liian hutera tai liian kireä.
+Se ei saa olla liina raskas ja/tai kömeplö. Laitteen tulee olla mukava ja luonnollinen käyttää ja sen pitää osata mukailla ihmisen jalan rakennetta tavalla, joka tukee sitä. Myös silloinkin kun kyseessä on jalka-proteesi.
+Laitteen tulee myös olla sokealle helposti hahmoteltavissa ja tunnistettavissa, eli käyttäjälle relevantit kohdat kuten juoksumatto ja käsitukitangot tulee olla helposti käsillä, samalla kun tekniset osat tulee olla laitteiston sisällä.
+Laitteen pitää pystyä olemaan tarpeaksi ketterä, se ei siis saa vaikeuttaa kuntoutumisprosessissa käyvän kävelyn kokemusta ja harjoittelua. 
 
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
@@ -399,8 +392,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
-| [Ominaisuus 1 - Feature 1](pohjat/pohja-ominaisuus.md) | Tärkeä | |
-| [Ominaisuus 2](pohjat/pohja-ominaisuus.md) | Tärkeä | |
+| [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Pakollinen | |
+| [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Pakollinen | |
 | [Ominaisuus 3](pohjat/pohja-ominaisuus.md) | Pakollinen | |
 | [Ominaisuus 4](pohjat/pohja-ominaisuus.md) | Nice to Have | |
 | [Ominaisuus 5](pohjat/pohja-ominaisuus.md) | | |
@@ -430,10 +423,10 @@ Perinteinen listaus
 
 | Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
 |:-:|:-:|:-:|:-:|
-| 1.9.2019 [Ominaisuus 1](pohjat/pohja-ominaisuus.md) | | |
-| 1.10.2019 [Ominaisuus 2](pohjat/pohja-ominaisuus.md) | | |
-| 15.11.2019 [Ominaisuus 3](pohjat/pohja-ominaisuus.md) | | |
-| 5.12.2019 [Ominaisuus 4](pohjat/pohja-ominaisuus.md) | | |
+| 1.9.2019 [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Projektivastaava | 1 |
+| 1.10.2019 [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Proejtkivastaava | 2 |
+| 15.11.2019 [Ominaisuus - 3](pohjat/pohja-ominaisuus.md) | | |
+| 5.12.2019 [Ominaisuus - 4](pohjat/pohja-ominaisuus.md) | | |
 
 
 
@@ -470,11 +463,11 @@ gantt
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Yllläpito | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tekninen | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| TEK.REQ000 | Vaatimus? | Yllläpito | Kuka vastaa | 
+| TEK.REQ001 | Vaatimus? | Tekninen | Kuka vastaa | 
+| TEK.REQ002 | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| TEK.REQ003 | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| TEK.REQ004 | Vaatimus? | Käytettävyys | Kuka vastaa | 
 
 ### Ylläpito (Maintenance)
 
@@ -482,11 +475,11 @@ _Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julka
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Yllläpito | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tekninen | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| MNt.REQ000 | Huolto | Yllläpito | Huoltovastaavat | 
+| MNT.REQ001 | Päivitys | Tekninen | Ohjelmistovastaavat | 
+| MNT.REQ002 | Kehitys | Käytettävyys | Projektivastaavat | 
+| MNT.REQ003 | Testattavuus | Käytettävyys | Testauksen vastaavat | 
+| MNT.REQ004 | Taloudellinen tuki | Kestävyys | Talousvastaavat | 
 
 ### Tietokantakuvaus (Database ER-diagram)
 
@@ -498,11 +491,13 @@ _Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julka
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
+| TST.REQ001 | Toimiiko laite | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ001 | Kestääkö laite | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ001 | Onko laite luotettava | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ001 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
+| TST.REQ001 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava |
+| TST.REQ001 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
+
 
 
 # Tunnistetut riskit ja testikohteet
