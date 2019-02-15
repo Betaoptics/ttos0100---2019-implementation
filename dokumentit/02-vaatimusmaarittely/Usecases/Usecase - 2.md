@@ -13,36 +13,38 @@
 **Käyttäjäroolit**	
 
 1. Asiakas.
-2. Potilas.
-3. Tuotteen/palvelun käyttäjä.
+2. Kävelykuntoutusterapeutti.
+3. Tuotteen/palvelun tarjoaja.
 
 **Esitiedot/ehdot**	
 
-1. Tieto tuotteesta tulee olla saatavilla
-2. Tuote ja palvelu tulee olla saatavissa.
+1. Tuotteen tulee vastata asiakastarpeisiin.
+2. Tuotten tulee pystyä auttamaa työnteossa, kuten antamaan käyttäjäkuntaan liittyvää tietoa.
 
 **Käyttötapauksen kuvaus**
 
-1. Diagnisoidaan sairaus tai joutuu onnettomuuteen (lähtökohta ja ongelma asetelma).
-2. Hakee tietoa palveluista ja tuotteista ongelmaan pohjautuen.
-3. Rajaa haun löydöistä muutamiin vaihtoehtoihin.
-4. Tekee valinnan käytettävästä tuotteesta ja/tai palvelusta.
-5. Hakee tuotteen ja/tai hakeutuu palveluun.
-6. Osallistuu tuotteen ja/tai palvelun käyttämiseen.
+1. Laite saadaan valmistettua ja testattua.
+2. Laitetta käytetään osana kävelykuntoutusterapia asiakastarpeiden mukaan.
+3. Laitteesta otetaan hoitajalle tarpeellista tietoa potilaista.
+4. Laitetta huolletaan tarpeen mukaan.
+5. Laitteen toimivuutta analysoidaan lisää.
+6. Laitteesta annetaan palautetta jatkotoimenpiteitä varten.
 
 **Poikkeukset**
  
-* P1 - Lopettaa tuotteen käytön jos se ei vastaa vaatimuksia.	
+* P1 - Laitetta on vaikea operoida.	
 
-* P2 - Lopettaa palvelun käytön jos palvelu tai palvelija ei vastaa vaatimuksia.
+* P2 - Laite menee rikki ja/tai on vaikeahuoltoinen.
+
+* P3 - Laite ei vastaa tarpeita.
 	
 **Lopputulos**	
 
-* Potilas saa asiakastarpeita vastaavan palvelun, eli saa tarpeitaan vastaavan kävelykuntoutusterapian.
+* Terapeutti saa työtään auttavan lisätyökalun.
 
 **Käyttötiheys** 
 
-* Käyttötapaus vastaa ympäripyöreästi potilaan, eli käyttäjäkunnan käyttötapausta. Kävelykuntoutusrobotti-palvelussa sairaalassa tämä on yleisin käyttötapaus.
+* Käyttötapaus vastaa terapeutin tiettyjen potilaiden asettamiin haasteisiin päivittäisessä työssä.
 
 **Muuta**	
 
