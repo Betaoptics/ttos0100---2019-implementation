@@ -4,7 +4,7 @@ Tähän on hyvä liittää näkymä valitusta asiaan liittyvistä käyttötapaus
 
 Muista, että piirretty kuvaus on vain osa käyttötapausten kuvaamista! Tekstimuodossa palastellaan yksittäinen käyttötapaus tarkemmin!
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Edit_an_article.svg/261px-Edit_an_article.svg.png)
+![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase1.PNG)
 
 Yllä karkea esimerkki, joka pitää poistaa..
 
