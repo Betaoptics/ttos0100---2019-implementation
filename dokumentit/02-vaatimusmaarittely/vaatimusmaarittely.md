@@ -152,6 +152,9 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 
 ## Palvelu/asiakaspolku (Customer Journey/Path)
 
+![Asiakaspolku 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%201/)
+![Asiakaspolku 2](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/StakeHolderMapV1.JPG)
+
 [![](http://img.youtube.com/vi/O04EYNKmEXc/0.jpg)](http://www.youtube.com/watch?v=O04EYNKmEXc "")
 
 
