@@ -5,7 +5,7 @@
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID |esim. FT0101 |
+| Ominaisuus ID | FT01.1 |
 | Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
 | Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
 | Status | esim. hyväksytty |
