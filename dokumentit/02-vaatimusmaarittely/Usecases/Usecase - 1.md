@@ -1,18 +1,10 @@
 # Use Case - 1 
 
-Tähän on hyvä liittää näkymä valitusta asiaan liittyvistä käyttötapauskuvauksesta. 
-
-Muista, että piirretty kuvaus on vain osa käyttötapausten kuvaamista! Tekstimuodossa palastellaan yksittäinen käyttötapaus tarkemmin!
 
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase1.PNG)
 
-Yllä karkea esimerkki, joka pitää poistaa..
 
-__Tsekkaa video ja poista linkki, jos homma selvä__
-
-[![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
-
-
+**Info**
 
 * Laatija: M3268
 * Versio 1.0.0.1
