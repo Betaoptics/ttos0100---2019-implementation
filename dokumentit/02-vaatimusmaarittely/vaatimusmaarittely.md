@@ -452,11 +452,11 @@ graph TD
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| TEK.REQ000 | Vaatimus? | Yllläpito | Kuka vastaa | 
-| TEK.REQ001 | Vaatimus? | Tekninen | Kuka vastaa | 
-| TEK.REQ002 | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| TEK.REQ003 | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| TEK.REQ004 | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| TEK.REQ000 | Laite toimii kuten pitää | Yllläpito | Tekniikko | 
+| TEK.REQ001 | Laitteesta ei puutu mitään | Logistinen | Tekniikko, terapeutti, projektivastaaava, kehittäjä | 
+| TEK.REQ002 | Laite on fyysiesti turvallinen | Käytettävyys | Kehittäjä, laadunvalvoja, lakiasiantuntija | 
+| TEK.REQ003 | Se ei vahingoita muilla tavoin | Käytettävyys | Kehittäjä, laadunvalvoja, lakiasiantuntija | 
+| TEK.REQ004 | Laite on helppokäyttöinen | Käytettävyys | Kehittäjä, projektivastaava | 
 
 ### Ylläpito (Maintenance)
 
