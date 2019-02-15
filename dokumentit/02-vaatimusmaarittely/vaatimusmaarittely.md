@@ -20,7 +20,7 @@ Ohjelmiston/palvelun vaatimusmäärittely
 * [Palvelukuvaus](#Palvelukuvaus)
 * [Asiakastarina](#Johdatus)
 * [Sidosryhmät ja profiilikuvaukset]()
-* [Sidosryhmäkuva](#sidosryhmäkuva)
+* [Sidosryhmäkuva](#Yleinen)
 * [Palvelu/asiakaspolku]()
 * [Yleinen käyttötapaus]()
 * [Yleiset toiminnalliset vaatimukset]()
