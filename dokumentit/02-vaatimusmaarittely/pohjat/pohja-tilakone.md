@@ -4,8 +4,7 @@ Esimerkki tilakoneen piirtämisestä soveltaen Mermaid -skpritiä.
 
 ```mermaid
 graph TD
-    Aloitus-->|Resurssit|Työskentely
-    Suunnittelu-->|Analyysi|Tarvekartoitus
+    Aloitus-->|this-is-text|Työskentely
     Työskentely-->|Pyydetään palautetta|Palautekeskustelu
     Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Työskentely
     Työskentely-->|Homma valmis?|Tarkistus
