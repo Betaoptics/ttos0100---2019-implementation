@@ -369,13 +369,9 @@ Toiminnot tulee löyttää helposti ja valinta-valikko olisi hyvä olla aina nä
 
 __Kokonaispalvelun MockUp-kuva?__
 
+Palvelun prototyyppikuvassa on menu aina näkyvillä. Myös asiakaskansioon päästään käsiksi haluttaessa. Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunnosta.
 
-
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-![](https://openclipart.org/image/800px/svg_to_png/236916/1452485143.png&disposition=attachment)
+![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
