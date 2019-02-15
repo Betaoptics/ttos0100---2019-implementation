@@ -1,1 +1,0 @@
-![Sidosryhmä - 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/CustomerMapV1.PNG)
