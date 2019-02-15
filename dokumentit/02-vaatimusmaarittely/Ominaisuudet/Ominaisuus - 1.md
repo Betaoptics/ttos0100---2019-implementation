@@ -16,6 +16,7 @@
 
 Ominaisuuden tavoite on tarjota palvelua käyttävielle asiakkaille heidän tarvitsemansa ja vaatimansa tuki.
 Laadullisesti tämä tarkoittaa sitä, että kävelykuntoutusrobotin tulee pysytä olemaan tarpeeksi vankka antaakseen tarpeellista tukea jaloille.
+
 Tuotteen pitää myös olla säädettävissä kunkin yksilöllisen asiakkaan mukaan, eli robotti ja tukijärjestelmä ei saa olla liian kiinteä rakenteeltaan.
 Kävelykuntoutusrobotti ei saa myöskään olla liian tiukka, jotta se ei aiheuta muita haitallisia komplikaatiota.
 Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaalisesti vahingoittaa potilasta käytön aikana.
