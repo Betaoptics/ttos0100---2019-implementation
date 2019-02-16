@@ -5,7 +5,7 @@
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID | FT01.1 |
+| Ominaisuus ID | F301.1 |
 | Käyttöliittymän presentaatio | Ohjelmisto |
 | Kehiittäjä/Terapeutti | Projektivastaava/kehittäjä |
 | Status | Process |
