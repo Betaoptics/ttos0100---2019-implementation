@@ -436,13 +436,10 @@ graph TD
 
 # Palvelun/ohjelmiston arkkitehtuuri 
 
-
-
-
-
-
+![ClassDiagram](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/ClassDiagram.PNG)
 
 ### Yleinen sijoittelunäkymä (Deployment diagram )
+![]()
 
 [![](http://img.youtube.com/vi/tLuiQ9p8RkU/0.jpg)](http://www.youtube.com/watch?v=tLuiQ9p8RkU "")
 
