@@ -1,1 +1,1 @@
-1[](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/ClassDiagram.PNG)
+![ClassDiagram](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/ClassDiagram.PNG)
