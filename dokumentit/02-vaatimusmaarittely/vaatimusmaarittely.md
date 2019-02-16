@@ -439,7 +439,8 @@ graph TD
 ![ClassDiagram](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/ClassDiagram.PNG)
 
 ### Yleinen sijoittelunäkymä (Deployment diagram )
-![]()
+
+![DeploymentDiagram](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/DeploymentProgram.PNG)
 
 [![](http://img.youtube.com/vi/tLuiQ9p8RkU/0.jpg)](http://www.youtube.com/watch?v=tLuiQ9p8RkU "")
 
