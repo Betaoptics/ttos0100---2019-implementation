@@ -469,7 +469,7 @@ _Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julka
 
 ### Tietokantakuvaus (Database ER-diagram)
 
- Tähän esim alustava __ER-kaavio__
+ ![DataBaseER](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/DataBase.PNG)
 
 # Testauksen vaatimukset (Testing requirements)
 
