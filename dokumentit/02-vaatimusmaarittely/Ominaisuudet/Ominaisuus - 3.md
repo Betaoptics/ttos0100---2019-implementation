@@ -25,9 +25,9 @@ käyttöliittymän info ja käyttöohje, sisäänkirjautumis pakko, tietokanta p
 
 | | |
 |:-:|:-:|
-| [Use Case - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1.md) | |
-| [Profiili - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%201.md) | |
-| [Asiakaspolku - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%201.md) |  | 
+| [Use Case - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%202.md) | |
+| [Profiili - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-3.md) | |
+| [Asiakaspolku - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%202.md) |  | 
 | [Vaatimus ReqID]() |  | 
 | [Vaatimus ReqID]() |  | 
 | [Vaatimus ReqID]() |  | 
