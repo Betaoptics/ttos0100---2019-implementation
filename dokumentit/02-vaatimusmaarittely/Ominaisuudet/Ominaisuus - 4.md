@@ -5,7 +5,7 @@
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID | FT03.1 |
+| Ominaisuus ID | FT04.1 |
 | Huolto | Laitteisto |
 | Kehiittäjä/tekniikko | Kehittäjä/tekniikko |
 | Status | Process |
