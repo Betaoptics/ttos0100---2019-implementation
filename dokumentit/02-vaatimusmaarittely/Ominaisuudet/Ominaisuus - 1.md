@@ -52,7 +52,7 @@ esim. #8 #2
 
 *Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
 
-![](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/kuvat/MockUpOS/)
+![](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/MockUpOS.md)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
