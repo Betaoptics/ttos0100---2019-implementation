@@ -404,8 +404,8 @@ graph TD
 | TST.REQ000 | Toimiiko laite | Testattavuus | Kehittäjä/Projektivastaava | 
 | TST.REQ001 | Kestääkö laite | Testattavuus | Kehittäjä/Projektivastaava | 
 | TST.REQ002 | Onko laite luotettava | Testattavuus | Kehittäjä/Projektivastaava | 
-| TST.REQ003 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
-| TST.REQ004 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava |
+| TST.REQ003 | Onko laite turvallinen | Testattavuus | Kehittäjä/Projektivastaava/Potilas/Terapeutti | 
+| TST.REQ004 | Vastaako tuote potilaan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava |
 | TST.REQ005 | Vastaako tuote tilaajan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava | 
 
 
