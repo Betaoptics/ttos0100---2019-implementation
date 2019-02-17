@@ -1,6 +1,5 @@
 Ohjelmiston/palvelun vaatimusmäärittely
 
-[![](http://img.youtube.com/vi/jH43MPe1Ceg/0.jpg)](http://www.youtube.com/watch?v=jH43MPe1Ceg "")
 
 
 
@@ -35,16 +34,10 @@ Ohjelmiston/palvelun vaatimusmäärittely
 
 # Johdatus
 
-**Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?**
-
-**Älä käytä tilaajien todellisia nimiä vaan muuta henkilötiedot ja toimeksiantajan viralliset tiedot**
-
 Tilauksen on tehnyt Orcs of the Middle-Earth. Projektissa lähdettiin kehittämään kävelykuntoutusrobottia. Tavoitteena on luoda toimiva, eri tilanteita huomioiva, ergonominen ja ekonominen ratkaisu asiakastarpeisiin.
 
 Kävelykuntoutusterapiassa on useanlaisia potilaita, eri tilanteissa, vaatimustarpeissa ja käyttötarkoituksen tarpeessa. Siksi on tärkeää pyrkiä tuottamaan tuote, joka soveltuu moneen eri käyttötarpeeseen.
 Käytännössä se tarkoittaa sitä, että kävelykuntoutusrobotin tulee olla säädettävissä ja pystyä huomiomaan käytön vaatimukset. Lisäksi sen täytyy pystyä keräämään dataa ja kääntää se kuntouttajille hyödylliseksi dokumentiksi.
-
-[![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
 
 
 ## Palvelunkuvaus
@@ -61,7 +54,7 @@ Tilaajan kannalta on huomioitava projektin vaatimuusmäärittelyt, arkkitehtuuri
 
 ## Vaatimusmäärittelytyön tilaaja
 
-__Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
+Fauxston hospital.
 
 
 ##### Fauxston hospital:
@@ -89,22 +82,11 @@ __Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
 
 ## Vaatimusmäärittelyn toimittaja
 
-__Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) taiesim. kuvitteellisen yrityksen työntekijänä__
 
 Olen projektiryhmän suunnittelija ja konsultti Robot and Artificial Intelligence Development Organization yrityksessä.
 
 
-[![](http://img.youtube.com/vi/fOlmrsp2iRc/0.jpg)](http://www.youtube.com/watch?v=fOlmrsp2iRc "")
-
-
 ## Valitut asiakastarinat
-
-**Kerro palvelun käytöstä eri asiakasprofiilien/sidoryhmäedustajinen näkökulmasta**
-
-[![](http://img.youtube.com/vi/m8WEoyyFUww/0.jpg)](http://www.youtube.com/watch?v=m8WEoyyFUww "")
-
-[![](http://img.youtube.com/vi/MCs4dRPtOJU/0.jpg)](http://www.youtube.com/watch?v=MCs4dRPtOJU "")
-
 
 A: Olen 34-vuotias proteesin saanut mies, ja käyn kävelykuntoutusterapiassa harjoittelemassa proteesin käyttöä. 
 
@@ -128,22 +110,11 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 ## Yleinen sidosryhmäkuva (Stakeholder map)
 
-
-__Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä on ko. ryhmän/edustajan motivaatio liittyen palveluun__
-
-
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/CustomerMapV1.PNG)
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/StakeHolderMapV1.JPG)
 
 
 ## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
-
-[![](http://img.youtube.com/vi/VmotZXBdrDs/0.jpg)](http://www.youtube.com/watch?v=VmotZXBdrDs "")
-
-
-**Kuvaa valitut sidosryhmät ja niihin liittyvät profiilikuvaukset** 
-
-**Muista kirjata kuvauksiin erityisesti sidosryhmän motivaatio! Eli miksi sidosryhmä syy käyttää/soveltaa palvelua**
 
 * [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/)
 * [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/)
@@ -160,16 +131,6 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 ![Asiakaspolku 2](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku2.PNG)
 ![Sekvenssikaavio 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/SequenceDiagramV1.PNG)
 
-[![](http://img.youtube.com/vi/O04EYNKmEXc/0.jpg)](http://www.youtube.com/watch?v=O04EYNKmEXc "")
-
-
-**Käy läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta**
-
-[![](http://img.youtube.com/vi/TLFBPQQ95ZE/0.jpg)](http://www.youtube.com/watch?v=TLFBPQQ95ZE "")
-
-
-**Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja..** 
-
 Potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) on ongelma. Hänellä diagnisoidaan sairaus tai hän joutuu onnettomuuteen.
 Ensiapuun hakeuduttuaan ensihoitaja kertoo, että hän tulee tarvitsemaan kävelykuntoutusterapiaa ja ensihoitaja antaa potilaalle tarvittavat tiedot missä sellaista kävelykuntoutusterapiaa järjestetään.
 
@@ -180,18 +141,10 @@ Kuntoutuksen aikana [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk
 kuuntelee [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) asikaskokemuksia.
 Kun kävelykuntoutusterapia loppuu potilaan kohdalta (profiili 1), lähettää kävelykuntoutusterapeutti (profiili 2) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
 
-**Polkuja kannattaa määritellä useampia useita eri tilanteiden pohjalta. Yhteen kuvaukseen ei kannata upottaa liikaa tapahtumia**
-
-
-* Mieti onko mahdollista hyödynnetään jotain ulkopuolista palvelua kuvauksen apuna?
-
-Esim. Canvanizer https://canvanizer.com
 
 # Vaatimukset, käyttötapaukset ja ominaisuudet
 
 ## Tuotteen järjestelmävaatimukset ja mahdolliset rajoitukset (Key Requirements and restrictions)
-
-__Kirjaa tähän tärkeimmät vaatimukset suunnitteltuun palveluun liittyen__
 
 Kävelykuntoutusrobotin tulee soveltua käyttöön. Sen pitää pystyä tukemaan asiakkaita, keräämään dataa ja esittämään sitä visuaalisesti.
 Sen tulee olla kestävä, helppohuoltoinen ja luotettava. Tuotteen tulee pystyä olemaan helppokäyttöinen ja ketterä soveltuakseen erillaisiin kävelykuntoutusterapian haasteisiin ja asiakaskunnan tarpeisiin.
@@ -200,8 +153,6 @@ Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, j
 
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
-
-[![](http://img.youtube.com/vi/s6v0g1Ut-SY/0.jpg)](http://www.youtube.com/watch?v=s6v0g1Ut-SY "")
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
@@ -239,18 +190,6 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
-
-
-
-**Millaisia ovat tärkeimmät käyttötapaukset (Use Caset) tuotteeseen/palveluun liittyen? Muista, ettei käyttötapauksella ei tarkoiteta käyttökohdetta/soveltamiskohdetta**
-
-
-[![](http://img.youtube.com/vi/rADU4vWTfyY/0.jpg)](http://www.youtube.com/watch?v=rADU4vWTfyY "")
-
-[![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
-
-[![](http://img.youtube.com/vi/Yj7LBkL5oEE/0.jpg)](http://www.youtube.com/watch?v=Yj7LBkL5oEE "")
-
 
 Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) ja kävelykuntouitusterapeutti [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/).
 Kävelykuntoutusterapeutti saa työpaikalleen kävelykuntoutusrobotin ja työryhmän kanssa he alkavat analysoimaan miten uusi työkalu voidaan parhaiten integroida osana kuntoutusohjelmaa.
@@ -359,8 +298,6 @@ Toiminnot tulee löyttää helposti ja valinta-valikko olisi hyvä olla aina nä
 
 ## Palvelu MockUp-prototyyppi
 
-__Kokonaispalvelun MockUp-kuva?__
-
 Palvelun prototyyppikuvassa on menu aina näkyvillä. Myös asiakaskansioon päästään käsiksi haluttaessa. Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunnosta.
 
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
@@ -368,30 +305,18 @@ Palvelun prototyyppikuvassa on menu aina näkyvillä. Myös asiakaskansioon pä�
 
 ## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
 
-[![](http://img.youtube.com/vi/eTeUxYSdCxA/0.jpg)](http://www.youtube.com/watch?v=eTeUxYSdCxA "")
-
-Tärkeimpiin ominaisuuksiin kuuluu...
-
-** Mieti ovatko kaikki ominaisuudet tarpeellisia?**
-[![](http://img.youtube.com/vi/pIDSK21PE9M/0.jpg)](http://www.youtube.com/watch?v=pIDSK21PE9M "")
+Tärkeimpiin ominaisuuksiin kuuluu potilaan tukeminen käytön aikana, datan keruu, datan kääntö ja selkeä presentaatio operaivalle taholle, sekä huolto.
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
 | [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Pakollinen | |
 | [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Pakollinen | |
-| [Ominaisuus 3](pohjat/pohja-ominaisuus.md) | Pakollinen | |
-| [Ominaisuus 4](pohjat/pohja-ominaisuus.md) | Nice to Have | |
-| [Ominaisuus 5](pohjat/pohja-ominaisuus.md) | | |
+| [Ominaisuus - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%203.md) | Pakollinen | |
+| [Ominaisuus - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%204.md) | Pakollinen | |
+| [Ominaisuus - 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md) | Pakollinen | |
 
 
 ## Hyväksyntätestit
-
-**Kiinnitetään alustavat hyväksyntätestit vaatimuksiin taulukon muodossa**
-
-[![](http://img.youtube.com/vi/EYEc8C57lbo/0.jpg)](http://www.youtube.com/watch?v=EYEc8C57lbo "")
-
-[![](http://img.youtube.com/vi/F2M93uWWXk8/0.jpg)](http://www.youtube.com/watch?v=F2M93uWWXk8 "")
-
 
 | VaatimusID | Testitapaus | Kuvaus |  |								
 |:-:|:-:|:-:|:-:|
@@ -458,8 +383,6 @@ graph TD
 
 ### Ylläpito (Maintenance)
 
-_Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julkaisun jälkeen. Miten tuotteen ylläpidettävyyttä parannetaan? Mitä pitää ottaa huomioon, että ylläpidettävyys on helpompaa__
-
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
 | MNt.REQ000 | Huolto | Yllläpito | Huoltovastaavat | 
@@ -494,8 +417,6 @@ _Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julka
 
 
 ### Kaikki vaatimukset listattuna
-
-**Tähän osaan voidaan linkittää vaatimuslista, josta kaikki tunnistetut vaatimukset löytyvät**
 
 * [Linkki vaatimuslistaan](pohjat/vaatimuslista.md)
 
