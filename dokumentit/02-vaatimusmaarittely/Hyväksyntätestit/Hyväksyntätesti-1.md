@@ -20,7 +20,7 @@
 
 **Linkit vaatimuksiin tai muihin lähteisin**
 
-* Vaatimus: [Vaatimus](SYSTEM-REQ-0001) ?   
+* Vaatimus: SYSTEM-REQ-0001 
 * Käyttötapaus: [Use Case 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%201.md) ? 
 * Ominaisuus: [Ominaisuus 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) ?
 
