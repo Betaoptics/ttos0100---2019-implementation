@@ -420,8 +420,6 @@ graph TD
 
 * [Linkki vaatimuslistaan](http://ttos0100.pages.labranet.jamk.fi/eamk-2019/harjoitustehtavat/harjoitus-ht1/)
 
-* [Linkki vaatimuslistaan](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Vaatimuslista.md)
-
 
 ### Dokumentit, standardit ja lähteet
 
