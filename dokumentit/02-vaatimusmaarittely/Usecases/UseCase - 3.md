@@ -1,4 +1,4 @@
-# Use Case - 13
+# Use Case - 3
 
 
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase3.PNG)
