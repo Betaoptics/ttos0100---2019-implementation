@@ -1,13 +1,13 @@
-# Hyväksyntätestin -pohja
+# Hyväksyntätesti - 1
 
 
 | | |
 |:-:|:-:|
-| Testitapauksen kuvaus | Kelpuutetaan asiakkaalla skenaario...   |
-| Testitapaus ID | XXXX |
-| Testitapauksen suunnittelija | XXXXX XXX | 
-| Testitapauksen hyväksyjä: | XXXXX XXX |
-| Luontipvm | X.Y.ABCD |
+| Tukijärjestelmien testaus | Käyttäjä-asiakas   |
+| Testitapaus ID | TST.REQ003 |
+| Testitapauksen suunnittelija | Kehittäjä/Projektivastaava | 
+| Testitapauksen hyväksyjä: | Tilaaja/Lakimies/Kävelykuntoutusterapeutti/Potilas |
+| Luontipvm | 15.4.2019 |
 | Luokitus | Hyväksyntätesti / Acceptance Test |
 
 **Päivityshistoria**
@@ -16,7 +16,7 @@
 
 **Testin kuvaus / tavoite**
 
-* Kuvaus
+* Tavoitteena on saada laitetta kehitettyä niin, että potilas tuntee olonsa tuetuksi ja turvalliseksi käytön aikana.
 
 **Linkit vaatimuksiin tai muihin lähteisin**
 
