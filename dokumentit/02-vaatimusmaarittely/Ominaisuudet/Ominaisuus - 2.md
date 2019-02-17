@@ -1,7 +1,5 @@
 # Ominaisuus - 2
 
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
 
 | | |
 |:-:|:-:|
@@ -12,8 +10,6 @@
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
 Ominaisuus tarjoaa käyttäjälee tietoa asiakkaista käytön aikana. Tämä tapahtuu robotissa olevien sensureiden avulla, jotka lähettävät dataa.
 Tätä dataa tulkitaan tuotteelle kehitetyllä ohjelmalla ja sen perusteella käännetään se ymmärrettäväksi tiedoksi.
 
@@ -22,8 +18,6 @@ Ohjelmiston tarkoitus on siis palvella sitä operoivia tahoja ja tulostaa näyt�
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
-
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
 
 | | |
 |:-:|:-:|
@@ -37,8 +31,6 @@ Ohjelmiston tarkoitus on siis palvella sitä operoivia tahoja ja tulostaa näyt�
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
 * Kuntoutusterapeuttina haluan, että kavelykuntoutusrobotti on hyvä ja helppokäyttöinen työkalu.
 * Kuntoutusterapeuttina haluan, että laite on luotettava.
 * Kuntoutusterapeuttina haluan, että laite antaa minulle lisää tietoa potilaitteni tilanteesta.
@@ -50,14 +42,10 @@ esim. #8 #2
 
 ### Käyttöliittymänäkymä/mock 
 
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
-
-*Kirjataan muutamia huomiota testauksen kannalta*
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
