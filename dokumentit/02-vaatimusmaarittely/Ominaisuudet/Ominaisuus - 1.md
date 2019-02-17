@@ -28,8 +28,8 @@ Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaali
 
 | | |
 |:-:|:-:|
-| [Use Case - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1.md) | |
-| [Profiili - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%201.md) | |
+| [Use Case - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%201.md) | |
+| [Profiili - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1.md) | |
 | [Asiakaspolku - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%201.md) |  | 
 | [Vaatimus ReqID]() |  | 
 | [Vaatimus ReqID]() |  | 
