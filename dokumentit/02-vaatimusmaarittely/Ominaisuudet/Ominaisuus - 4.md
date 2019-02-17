@@ -1,7 +1,5 @@
 # Ominaisuus - 3
 
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
 
 | | |
 |:-:|:-:|
@@ -12,8 +10,6 @@
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
 Tuotteen eli kävelykuntoutusrobootin tulee olla sillä tavalla suunniteltu, että sen osat eivät ole liian riippuvaisia toisistaan.
 Käytännössä tämä tarkoittaa sitä, että osat pitää pystyä tarvittaessa korvaamaan uusilla, tai korjaamaan helposti jos vika on korjattavissa.
 Materiaalin tulee olla turvallista, kevyttä, ei liian kallista ja laitteen olisi hyvä olla helposti purettavissa,
@@ -21,8 +17,6 @@ ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
-
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
 
 | | |
 |:-:|:-:|
@@ -35,8 +29,6 @@ ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
 * Terapeutit tarvitsevat luotettavia laitteita, kestävyys on siis tärkeää.
 * Olen tekniikko ja usein näitä laitteita huoltaessa saa tuskastella miten työläitä ne on. Toivottavasti se otetaan huomioon suunnittelussa.
 * Materiaalit pitäisi ottaa huomioon, niin moni tuote ei toimi koska on säästelty väärissä paikoissa.
@@ -47,15 +39,10 @@ esim. #8 #2
 
 
 ### Käyttöliittymänäkymä/mock 
-
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
-
-*Kirjataan muutamia huomiota testauksen kannalta*
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
