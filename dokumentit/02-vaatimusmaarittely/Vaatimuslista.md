@@ -1,1 +1,0 @@
-[Vaatimuslista](http://ttos0100.pages.labranet.jamk.fi/eamk-2019/harjoitustehtavat/harjoitus-ht1/)
