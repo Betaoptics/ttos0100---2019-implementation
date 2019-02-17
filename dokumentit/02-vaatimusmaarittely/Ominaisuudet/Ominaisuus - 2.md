@@ -6,7 +6,7 @@
 | | |
 |:-:|:-:|
 | Ominaisuus ID | FT02.1 |
-| Kuntoutusrobootin ominaisuus | Datan presentaatio |
+| Ohjelmiston ominaisuus | Datan presentaatio |
 | Kehittäjä | Projektivastaava |
 | Status | Prosessissa |
 
