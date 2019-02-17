@@ -1,8 +1,5 @@
 # Ominaisuus - 3
 
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
-
 | | |
 |:-:|:-:|
 | Ominaisuus ID | FT03.1 |
@@ -12,16 +9,12 @@
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
 Käyttöliittymässä on tarpeellista, että sensoreista käännetty tieto on helposti ymmärrettävissä ja ominaisuuksiin kuuluu
 sekä värien vaihtomahdollisuus, äänentoistomahdollisuus, keilen vaihto, väriteemojen vaihto mahdollisuus, datan tallennusmahdollisuus,
 käyttöliittymän info ja käyttöohje, sisäänkirjautumis pakko, tietokanta potilaista, sekä muut yleiset asetukset.
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
-
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
 
 | | |
 |:-:|:-:|
@@ -34,8 +27,6 @@ käyttöliittymän info ja käyttöohje, sisäänkirjautumis pakko, tietokanta p
 | [Vaatimus ReqID]() |  | 
 
 ### Alustavat käyttäjätarinat (User Storys)
-
-*Kirjataan User Storyt alustavasti tähän*
 
 * Käyttäjänä haluan, että ymmärrän mitä luen.
 * Haluan, että ohjelma on käyttäjäystävällinen, kätevä ja tarvittavat tiedot löytyy helposti.
@@ -50,14 +41,10 @@ esim. #8 #2
 
 ### Käyttöliittymänäkymä/mock 
 
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
-
-*Kirjataan muutamia huomiota testauksen kannalta*
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
