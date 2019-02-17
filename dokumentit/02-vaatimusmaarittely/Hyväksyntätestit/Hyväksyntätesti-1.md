@@ -12,7 +12,7 @@
 
 **Päivityshistoria**
 
-* versio 0.1 
+* Versio 0.1 
 
 **Testin kuvaus / tavoite**
 
@@ -26,11 +26,15 @@
 
 **Testin alkutilanne (Pre-state)** 
 
-* Alkutilanne
+* Alkutilanteessa lähdetään selvittämään miten hyvin kävelykuntoutusrobotti pystyy tukemaan potilaita käytön aikana.
 
 **Testiaskeleet (Test Steps)**
 
-Suoritetaan Use Case 1.
+1. Suunnitellaan testi.
+2. Suoritetaan Use Case 1.
+3. Testataan tuotetta.
+4. Otetaan palautetta vastaan.
+5. Jatkotoimenpiteet.
 
 **Testin lopputilanne (End-State)**
 
