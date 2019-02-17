@@ -135,11 +135,11 @@ Potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100
 Ensiapuun hakeuduttuaan ensihoitaja kertoo, että hän tulee tarvitsemaan kävelykuntoutusterapiaa ja ensihoitaja antaa potilaalle tarvittavat tiedot missä sellaista kävelykuntoutusterapiaa järjestetään.
 
 Potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) varaa ajan kävelykuntoutusterapiaan ja
-kävelykuntoutusterapiasta vastaa [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/), eli kävelykuntoutusterapeutti.
+kävelykuntoutusterapiasta vastaa [Profiili - 3](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-3/), eli kävelykuntoutusterapeutti.
 Kävelykuntoutusterapeutin ohjeistuksen ja avustuksen avulle he työskentelevät yhdessä [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) paranemisprosessin eteen.
 Kuntoutuksen aikana [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/)
 kuuntelee [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) asikaskokemuksia.
-Kun kävelykuntoutusterapia loppuu potilaan kohdalta (profiili 1), lähettää kävelykuntoutusterapeutti (profiili 2) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
+Kun kävelykuntoutusterapia loppuu potilaan kohdalta (profiili 1), lähettää kävelykuntoutusterapeutti (profiili 3) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
 
 
 # Vaatimukset, käyttötapaukset ja ominaisuudet
