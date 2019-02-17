@@ -1,6 +1,5 @@
 # Ominaisuus - 1
 
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
 
 
 | | |
@@ -39,8 +38,6 @@ Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaali
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
 * Käyttäjän haluan, että voin käyttää kuntoutusrobottia ilman ongelmia.
 * Käyttäjänä haluan, että laitteeseen on helppo päästä ja sitä on helppo käyttää.
 * Käyttäjänä toivon, että laitten käyttö on käyttäjäystävällistä ja vaivatonta.
@@ -52,14 +49,10 @@ esim. #8 #2
 
 ### Käyttöliittymänäkymä/mock 
 
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
 ![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
-
-*Kirjataan muutamia huomiota testauksen kannalta*
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
