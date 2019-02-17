@@ -8,7 +8,7 @@
 | Ominaisuus ID | FT01.1 |
 | Kuntoutusrobootin ominaisuus | Käyttäjän tuenta |
 | Laadunvalvoja/kehittäjä | Projektivastaava |
-| Status | Hyväksytty |
+| Status | Process |
 
 ### Kuvaus
 
