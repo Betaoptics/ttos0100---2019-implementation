@@ -10,7 +10,7 @@
 
 ### Kuvaus
 
-Ominaisuus tarjoaa käyttäjälee tietoa asiakkaista käytön aikana. Tämä tapahtuu robotissa olevien sensureiden avulla, jotka lähettävät dataa.
+Ominaisuus tarjoaa käyttäjälee tietoa asiakkaista käytön aikana. Tämä tapahtuu robotissa olevien sensoreiden avulla, jotka lähettävät dataa.
 Tätä dataa tulkitaan tuotteelle kehitetyllä ohjelmalla ja sen perusteella käännetään se ymmärrettäväksi tiedoksi.
 
 Tämä tieto esitetään graaffisessa käyttöliittymässä selkeästi ja helposti ymmärrettäväsi.
