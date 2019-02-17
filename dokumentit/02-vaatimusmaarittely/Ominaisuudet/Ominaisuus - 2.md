@@ -6,7 +6,7 @@
 | | |
 |:-:|:-:|
 | Ominaisuus ID | FT02.1 |
-| Ohjelmiston ominaisuus | Datan presentaatio |
+| Datan keruuu/ohjelmisto | Datan presentaatio |
 | Kehittäjä | Projektivastaava |
 | Status | Prosessissa |
 
