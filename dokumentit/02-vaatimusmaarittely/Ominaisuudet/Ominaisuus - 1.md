@@ -52,7 +52,7 @@ esim. #8 #2
 
 *Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
 
-![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
+![](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/kuvat/MockUpOS/)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
