@@ -15,9 +15,9 @@ Ohjelmiston/palvelun vaatimusmäärittely
 
 **Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa MarkDown-ankkurilinkitys**
 
-* [Tuotteen kuvaus](#Johdatus)
-* [Palvelukuvaus](#Palvelukuvaus)
-* [Asiakastarina](#Asiakastarinat)
+* [Tuotteen kuvaus](#johdatus)
+* [Palvelukuvaus](#palvelukuvaus)
+* [Asiakastarina](#asiakastarinat)
 * [Sidosryhmät ja profiilikuvaukset](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/tree/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t)
 * [Sidosryhmäkuva - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.md)
 * [Sidosryhmäkuva - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/StakeHolderMapV1.md)
@@ -27,10 +27,10 @@ Ohjelmiston/palvelun vaatimusmäärittely
 * [Yleiset ei-toiminnalliset vaatimukset](#ei-toiminnallinen)
 * [Palvelu MockUp](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
 * [Tärkeimmät ominaisuudet](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/tree/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet)
-* [Julkaisun suunnitelma](#Julkaisu)
-* [Palvelun/ohjelmiston arkkitehtuuri](#Arkkitehtuuri)
+* [Julkaisun suunnitelma](#julkaisu)
+* [Palvelun/ohjelmiston arkkitehtuuri](#arkkitehtuuri)
 * [Testaus ja laadunvarmistus](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/tree/master/dokumentit/02-vaatimusmaarittely/Hyv%C3%A4ksynt%C3%A4testit)
-* [Lähteet](#Lähteet)
+* [Lähteet](#lähteet)
 
 # Johdatus
 
