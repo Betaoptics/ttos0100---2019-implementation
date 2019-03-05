@@ -127,11 +127,7 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 ## Palvelu/asiakaspolku (Customer Journey/Path)
 
-1. Asiakaspolku: Asiakaspolussa potilas saa diagnoosin sairaudesta. Hänestä lähetetään lähete paikalliseen sairaalaan. Tämän jälkeen potilas soittaa sairaalan ja kuulee jatkotoimenpiteistä.
-2. Yhteydenoton aikana hän sopii lääkärin kanssa ajan. Tämän jälkeen potilas tulee kävelykuntoutusterapiaan ja kuulee, että kävelykuntoutusterapiaan on tullut uusi kävelykuntoutusrobotin tukema kuntoutusmuoto.
-3. Lääkärin kanssa he sopivat, että potilas ossallistuu kävelykuntoutusterapiaan kävelykuntoutusrobottia hyödyntäen.
-4. Potilaasta kysytään perustietoja jos lähetteessä ei jo ole ja tiedot syötetään käyttöjärjestelmään. Käyttöjärjestelmä tallentaa tiedot tietokantaan.
-5. Kun potilas alkaa käyttämään kävelykuntoutusrobottia, se tallentaa potilaasta dataa, tallentaa tiedot tietokantaan ja kysyttäessä suorittaa kyselun ja esittää tiedot käyttöjärjestelmässä.
+1. Asiakaspolku: Asiakaspolussa potilas saa diagnoosin sairaudesta. Hänestä lähetetään lähete paikalliseen sairaalaan. Tämän jälkeen potilas soittaa sairaalan ja kuulee jatkotoimenpiteistä. Yhteydenoton aikana hän sopii lääkärin kanssa ajan. Tämän jälkeen potilas tulee kävelykuntoutusterapiaan ja kuulee, että kävelykuntoutusterapiaan on tullut uusi kävelykuntoutusrobotin tukema kuntoutusmuoto  Lääkärin kanssa he sopivat, että potilas ossallistuu kävelykuntoutusterapiaan kävelykuntoutusrobottia hyödyntäen. Potilaasta kysytään perustietoja jos lähetteessä ei jo ole ja tiedot syötetään käyttöjärjestelmään. Käyttöjärjestelmä tallentaa tiedot tietokantaan. Kun potilas alkaa käyttämään kävelykuntoutusrobottia, se tallentaa potilaasta dataa, tallentaa tiedot tietokantaan ja kysyttäessä suorittaa kyselun ja esittää tiedot käyttöjärjestelmässä.
 
 ![Asiakaspolku 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku1.PNG)
 ![Asiakaspolku 2](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku2.PNG)
