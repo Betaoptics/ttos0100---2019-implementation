@@ -132,7 +132,6 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 ![Asiakaspolku 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku1.PNG)
 ![Asiakaspolku 2](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku2.PNG)
 ![Sekvenssikaavio 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/SequenceDiagramV1.PNG)
-![Sekvenssikaavio 2](dokumentit/02-vaatimusmaarittely/kuvat/SequenceV2.PNG)
 
 Potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) on ongelma. Hänellä diagnisoidaan sairaus tai hän joutuu onnettomuuteen.
 Ensiapuun hakeuduttuaan ensihoitaja kertoo, että hän tulee tarvitsemaan kävelykuntoutusterapiaa ja ensihoitaja antaa potilaalle tarvittavat tiedot missä sellaista kävelykuntoutusterapiaa järjestetään.
@@ -143,6 +142,19 @@ Kävelykuntoutusterapeutin ohjeistuksen ja avustuksen avulle he työskentelevät
 Kuntoutuksen aikana [Profiili - 3](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-3/)
 kuuntelee [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) asikaskokemuksia.
 Kun kävelykuntoutusterapia loppuu potilaan kohdalta (profiili 1), lähettää kävelykuntoutusterapeutti (profiili 3) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
+
+![Sekvenssikaavio 2](dokumentit/02-vaatimusmaarittely/kuvat/SequenceV2.PNG)
+
+1. Potilaasta laitetaan lähete.
+2. Potilas saapuu sairaalaan.
+3. Kävelykuntoutusrobotti kirjaa potilastiedot ohjelmaan.
+4. Tiedot tallennetaan tietokantaan.
+5. Kävelykuntoutusrobottia käytetään.
+6. Kävelykuntoutusrobotti kerää potilaasta tietoa.
+7. Ohjelma näyttää tiedot kävelykuntoutusterapeutille.
+8. Ohjaaja neuvoo potilasta käytönm aikana.
+9. Kuntoutusterapia ohi.
+10. Kuntoutusterapeutti tallentaa istunnon tiedot tietokantaan.
 
 ```plantuml
 @startuml
