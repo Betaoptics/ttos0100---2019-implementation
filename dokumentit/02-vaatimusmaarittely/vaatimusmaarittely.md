@@ -144,6 +144,7 @@ kuuntelee [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos01
 Kun kävelykuntoutusterapia loppuu potilaan kohdalta (profiili 1), lähettää kävelykuntoutusterapeutti (profiili 3) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
 
 ```plantuml
+@startuml
 
 left to right direction 
 Bob -> Alice : hello
@@ -153,6 +154,8 @@ create control String
 Alice -> String
 note right : You can also put notes!
 Alice --> Bob : ok
+
+@enduml
 
 ```
 
