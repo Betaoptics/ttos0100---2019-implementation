@@ -143,7 +143,7 @@ Kuntoutuksen aikana [Profiili - 3](http://m3268---vuosi-2019.pages.labranet.jamk
 kuuntelee [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) asikaskokemuksia.
 Kun kävelykuntoutusterapia loppuu potilaan kohdalta (profiili 1), lähettää kävelykuntoutusterapeutti (profiili 3) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
 
-````plantuml
+```plantuml
 
 left to right direction 
 Bob -> Alice : hello
