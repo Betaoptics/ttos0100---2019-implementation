@@ -148,12 +148,6 @@ Kun kävelykuntoutusterapia loppuu potilaan kohdalta (profiili 1), lähettää k
 
 left to right direction 
 Bob -> Alice : hello
-create Other
-Alice -> Other : new
-create control String
-Alice -> String
-note right : You can also put notes!
-Alice --> Bob : ok
 
 @enduml
 
