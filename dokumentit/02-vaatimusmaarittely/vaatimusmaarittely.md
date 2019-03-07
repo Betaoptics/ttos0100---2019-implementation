@@ -132,7 +132,7 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 ![Asiakaspolku 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku1.PNG)
 
-2. Tekstiä
+2. Asiakaspolku: Asiakaspolku kuvaa kävelykuntoutusterapeutin asiakaspolkua. Työpaikalle kehitellään uusi kävelykuntoutusrobotti ja sitä aletaan käyttämään osana kävelykuntoutusterapiaa. Tämän uuden työkalun avulla kävelykuntousterapeutti voi auttaa klinikalla käyviä potilaita paremmin paranemisprosessissa. Kehitysvaiheessa kuntoutusterapeutti antaa palautetta mitä olisi hyvä olla laitteessa ja millaisia tarpeita potilailla voi olla. Käytössä hän arvioi miten hyvin laite vastaa asiakastarpeita. Lopulta hän lähettää palautetta jatkokehittelylle.
 
 ![Asiakaspolku 2](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku2.PNG)
 
