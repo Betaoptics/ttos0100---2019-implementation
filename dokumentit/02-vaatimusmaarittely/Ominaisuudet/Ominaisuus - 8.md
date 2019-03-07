@@ -1,0 +1,56 @@
+# Ominaisuus - 8
+
+
+| | |
+|:-:|:-:|
+| Ominaisuus ID | FT08.1 |
+| Tietoturva | Ohjelmisto |
+| Kehiittäjä | Kehittäjä |
+| Status | Process |
+
+### Kuvaus
+
+Ohjelmiston tulee olla tietoturvallinen. Tiedon tulee tallentua tietokantaan, se ei saa suoraan viitata potilaaseen, työntekijään tai henkilokuntaan ja sen täytyy tehdä varmuuskopiot tallennetuista tiedoista.
+
+### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
+
+| | |
+|:-:|:-:|
+| [Profiili - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1.md) | Kehittäjä |
+| [Profiili - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2.md) | Kehittäjä |
+| [Profiili - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-6.md) | Kehittäjä |
+| [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | Kehittäjä |
+| [Vaatimus ReqID](CONSTRAINT-REQ-S00003) | Tuote on asiakasturvallinen | 
+| [Vaatimus ReqID](CONSTRAINT-REQ-S00004) | Tuote on tietoturvallinen | 
+| [Vaatimus ReqID](SECURITY-REQ-0001 ) | Henkilokohtainen tieto tulee turvata instituutin tietoturvastandardien mukaisesti. |
+| [Vaatimus ReqID](SECURITY-REQ-0002 ) | Tiedon tulee epäsuorasti viitata henkilöihin potilastunnuksilla, ei henkilötiedoilla. | 
+| [Vaatimus ReqID](SECURITY-REQ-0003 ) | Tieto tulee olla kirjoitettavissa, ylikirjoitettavissa ja poistettavissa milloin vain | 
+| [Vaatimus ReqID](SECURITY-REQ-0004 ) | Tiedosta tehdään automaattisesti varmuuskopio muualle kaiken varalta. | 
+| [Vaatimus ReqID](SECURITY-REQ-0005 ) | Laitteessa tulee olla sisäänkirjautumisvaatimus käyttöä varten. | 
+| [Vaatimus ReqID](SECURITY-REQ-0006 ) | Tieto tallentuu tietokantaan, mistä ohjelma hakee sitä kutsusta. | 
+| [Vaatimus ReqID](SECURITY-REQ-0007 ) | Tuotteessa tulee olla teollisuustason virustentorjuntaohjelma ja tietoturvaa ylläpitävä ohjelma. | 
+
+### Alustavat käyttäjätarinat (User Storys)
+* Ortoosien pitää pystyä tukemaan potilaita tarpeiden mukaan.
+* Niiden skaalautuvuus täytyy olla mahdollista.
+* Ortooseja pitää pystyä säätämään, muutoin se voi vaarantaa potilaan terveyttä ja turvallisuutta.
+
+**Nämä kannattaa siirtää pian issue kuvauksiksi*
+
+esim. #8 #2
+
+
+### Käyttöliittymänäkymä/mock 
+
+![](ddokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
+
+
+### Testaus / mahdolliset hyväksyntä kriteerit 
+
+| Testitapaus  | Testin lähde  | Kuka vastaa  |
+|:-: | :-:|:-:|
+| [Testitapaus 1]()  | vaatimus id?   |   |
+| [Testitapaus 2]()  | vaatimus id?   |   |
+| [Testitapaus 3]()  | vaatimus id?   |   |
+| [Testitapaus 4]()  | vaatimus id?   |   |
+| | |
