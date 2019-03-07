@@ -21,11 +21,11 @@
 **Linkit vaatimuksiin tai muihin lähteisin**
 
 * Vaatimus: USABILITY-REQ-0001/SYSTEM-REQ-0013
-* Käyttötapaus: [Use Case 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%202.md)
-* Käyttötapaus: [Use Case 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%203.md)
-* Ominaisuus: [Ominaisuus 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md)
-* Ominaisuus: [Ominaisuus 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%203.md)
-* Ominaisuus: [Ominaisuus 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md)
+* Käyttötapaus: [Use Case 2](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 2.md)
+* Käyttötapaus: [Use Case 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md)
+* Ominaisuus: [Ominaisuus 2](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md)
+* Ominaisuus: [Ominaisuus 3](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 3.md)
+* Ominaisuus: [Ominaisuus 5](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 5.md)
 
 **Testin alkutilanne (Pre-state)** 
 
