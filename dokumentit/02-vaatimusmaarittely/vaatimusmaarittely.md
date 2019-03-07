@@ -17,7 +17,7 @@ Ohjelmiston/palvelun vaatimusmäärittely
 
 * [Tuotteen kuvaus](#johdatus)
 * [Palvelukuvaus](#palvelunkuvaus)
-* [Asiakastarina](#asiakastarina)
+* [Asiakastarina](#vaatimusmäärittelyn-toimittaja)
 * [Sidosryhmät ja profiilikuvaukset](#sidosryhmät ja profiilikuvaukset)
 * [Sidosryhmäkuva - 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.PNG)
 * [Sidosryhmäkuva - 2](dokumentit/02-vaatimusmaarittely/kuvat/StakeHolderMapV1.JPG)
