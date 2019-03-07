@@ -10,8 +10,10 @@
 
 ### Kuvaus
 
+Usein laitteita ei suunnitella ensisijaisesti fyysista huollettavuutta ajatellen.
+Koska kyseessä on kuitenkin ns. kriittinen järjestelmä, eli laite on tekemisissä ihmisten kanssa, tulee myös fyysisen eli teknisen huollon olla helppoa ja vaivatonta.
 Tuotteen eli kävelykuntoutusrobootin tulee olla sillä tavalla suunniteltu, että sen osat eivät ole liian riippuvaisia toisistaan.
-Käytännössä tämä tarkoittaa sitä, että osat pitää pystyä tarvittaessa korvaamaan uusilla, tai korjaamaan helposti jos vika on korjattavissa.
+Tämä saavutetaan siten, että kävelykuntoutusrobotti suunnitellaan niin, että vian määritys on helppoa, sekä osien korjaaminen, huolto ja vaihtaminen on vaivatonta.
 Materiaalin tulee olla turvallista, kevyttä, ei liian kallista ja laitteen olisi hyvä olla helposti purettavissa,
 ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia. Lisäksi laitteen tulisi olla kestävä niin, että sitä ei tarvitse olla jatkuvasti huoltamassa.
 
@@ -32,6 +34,10 @@ ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia
 * Terapeutit tarvitsevat luotettavia laitteita, kestävyys on siis tärkeää.
 * Olen tekniikko ja usein näitä laitteita huoltaessa saa tuskastella miten työläitä ne on. Toivottavasti se otetaan huomioon suunnittelussa.
 * Materiaalit pitäisi ottaa huomioon, niin moni tuote ei toimi koska on säästelty väärissä paikoissa.
+* Kävelykuntoutusrobotin huolto on vaikeaa puuhaa. Siksi onkin suotavaa, jos tämä osataan ottaa huomioon suunnittelivaiheessa.
+* Sensorien kohdalla on hyvä, jos niitä ei tarvitse koko ajan olla vaihtamassa uusia tilalle.
+* Osat on hyvä huoltaa säännöllisesti.
+* Laitteet kuluu ja menee rikki, siksi osia joskus pitää korjata ja vaihtaa kokonaan uusiin.
 
 **Nämä kannattaa siirtää pian issue kuvauksiksi*
 
