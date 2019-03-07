@@ -8,7 +8,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Technician.jpg)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Technician.jpg)
 
 
 **Nimi ja taustaa**
