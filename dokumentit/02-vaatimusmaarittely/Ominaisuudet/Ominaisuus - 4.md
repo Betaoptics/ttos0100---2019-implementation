@@ -45,8 +45,8 @@ esim. #8 #2
 
 
 ### Käyttöliittymänäkymä/mock 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
 
+![](dokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
