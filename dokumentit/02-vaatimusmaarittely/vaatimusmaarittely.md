@@ -17,7 +17,7 @@ Ohjelmiston/palvelun vaatimusmäärittely
 
 * [Tuotteen kuvaus](#johdatus)
 * [Palvelukuvaus](#palvelunkuvaus)
-* [Asiakastarina](#Valitut asiakastarinat)
+* [Asiakastarina](#asiakastarinat)
 * [Sidosryhmät ja profiilikuvaukset](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/tree/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t)
 * [Sidosryhmäkuva - 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.PNG)
 * [Sidosryhmäkuva - 2](dokumentit/02-vaatimusmaarittely/kuvat/StakeHolderMapV1.JPG)
