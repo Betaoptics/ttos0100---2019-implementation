@@ -211,10 +211,10 @@ Kävelykuntoutusterapiaan päästessä potilas aloittaa kävelyrobotin käyttäm
 Käytön aikana potilas ja terapeutti ovat keskenään vuorovaikutuksessa ja toimivat yhdessä tavoitteena potilaan parantuminen. Samalla prosessista kerätään tarpeellista tietoa eri osa-aluista.
 Kun kuntoutusohjelma loppuu, koostetaan kaikki tiedot omiin luokkiinsa ja jälleenvälitetään sitä eteenpäin palvelun laadun parantamiseksi ja tuotekehittelyä varten.
 
-* [Käyttötapaus 1 - Potilas hakee kuntoutuspalvelua](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%201.md)
-* [Käyttötapaus 2 - Kävelykuntoutusterapeuttii hyödyntää kuntoutusrobottia osana terapiaa](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%202.md)
-* [Käyttötapaus 3 - Kehittämisprosessi ennen ja julkaisun jälkeen](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%203.md)
-* [Käyttötapaus 4 - Laitteen fyysinen huolto ja korjaus](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%204.md)
+* [Käyttötapaus 1 - Potilas hakee kuntoutuspalvelua](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 1.md)
+* [Käyttötapaus 2 - Kävelykuntoutusterapeuttii hyödyntää kuntoutusrobottia osana terapiaa](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 2.md)
+* [Käyttötapaus 3 - Kehittämisprosessi ennen ja julkaisun jälkeen](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md)
+* [Käyttötapaus 4 - Laitteen fyysinen huolto ja korjaus](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 4.md)
 
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
 
