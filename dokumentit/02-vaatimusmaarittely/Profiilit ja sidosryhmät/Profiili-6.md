@@ -11,7 +11,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Hacker.png)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Hacker.png)
 
 
 **Nimi ja taustaa**
