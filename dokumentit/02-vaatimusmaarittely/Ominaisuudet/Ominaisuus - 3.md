@@ -34,11 +34,6 @@ käyttöliittymän info ja käyttöohje, sisäänkirjautumis pakko, tietokanta p
 * Voiko väriteemaa vaihtaa tarvittaessa?
 * Potilaan tiedot tulee olla helppo tallentaa, hakea ja saada näytölle tarvittaessa.
 
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
-
 ### Käyttöliittymänäkymä/mock 
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
