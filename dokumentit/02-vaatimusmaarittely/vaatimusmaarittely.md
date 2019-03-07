@@ -121,14 +121,14 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 ## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
 
-* [Profiili - 1: Potilas](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/)
-* [Profiili - 2: Tilaaja](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/)
-* [Profiili - 3: Kävelykuntoutusterapeutti](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-3/)
-* [Profiili - 4: Investoija](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-4/)
-* [Profiili - 5: Lakiasiantuntija](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-5/)
-* [Profiili - 6: Hakkeri](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-6/)
-* [Profiili - 7: Kehittäjä](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md)
-* [Profiili - 8: Tekniikko](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-8.md)
+* [Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md)
+* [Profiili - 2: Tilaaja](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-2.md)
+* [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md)
+* [Profiili - 4: Investoija](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-4.md)
+* [Profiili - 5: Lakiasiantuntija](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-5.md)
+* [Profiili - 6: Hakkeri](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-6.md)
+* [Profiili - 7: Kehittäjä](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md)
+* [Profiili - 8: Tekniikko](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-8.md)
 
 
 ## Palvelu/asiakaspolku (Customer Journey/Path)
