@@ -278,7 +278,7 @@ Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhte
 | PERFORMANCE-REQ-0000 | Non-Functional Performance | Logit käyttäjän sessiosta. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |								
 | PERFORMANCE-REQ-0001 | Non-Functional Performance | Käyttäjätunnukset vähintään 10 potilaasta. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
 | PERFORMANCE-REQ-0002 | Non-Functional Performance | Käyttäjätietoa vähintään 10 potilaasta. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
-| PERFORMANCE-REQ-0003 | Non-Functional Performance | Näyttöruudun presentaatio on selkeää. | [Kirjautuminen]( [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 6.md) |
+| PERFORMANCE-REQ-0003 | Non-Functional Performance | Näyttöruudun presentaatio on selkeää. | [Kirjautuminen](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 6.md) |
 
 
 ### Tietoturva?
@@ -289,13 +289,13 @@ Tästä syystä on huomioitava ei-funktionaalisia turvallisuuteen liittyviä tek
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Non-Functional Security | Henkilokohtainen tieto tulee turvata instituutin tietoturvastandardien mukaisesti. | [Kirjautuminen](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) |								
-| SECURITY-REQ-0002 | Non-Functional Security | Tiedon tulee epäsuorasti viitata henkilöihin potilastunnuksilla, ei henkilötiedoilla. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
-| SECURITY-REQ-0003 | Non-Functional Security | Tieto tulee olla kirjoitettavissa, ylikirjoitettavissa ja poistettavissa milloin vain. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
-| SECURITY-REQ-0004 | Non-Functional Security | Tiedosta tehdään automaattisesti varmuuskopio muualle kaiken varalta. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
-| SECURITY-REQ-0005 | Non-Functional Security | Laitteessa tulee olla sisäänkirjautumisvaatimus käyttöä varten. |[Kijrautuminen](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md)|
-| SECURITY-REQ-0006 | Non-Functional Security | Tieto tallentuu tietokantaan, mistä ohjelma hakee sitä kutsusta. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
-| SECURITY-REQ-0007 | Non-Functional Security | Tuotteessa tulee olla teollisuustason virustentorjuntaohjelma ja tietoturvaa ylläpitävä ohjelma. ||
+| SECURITY-REQ-0001 | Non-Functional Security | Henkilokohtainen tieto tulee turvata instituutin tietoturvastandardien mukaisesti. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |								
+| SECURITY-REQ-0002 | Non-Functional Security | Tiedon tulee epäsuorasti viitata henkilöihin potilastunnuksilla, ei henkilötiedoilla. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
+| SECURITY-REQ-0003 | Non-Functional Security | Tieto tulee olla kirjoitettavissa, ylikirjoitettavissa ja poistettavissa milloin vain. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
+| SECURITY-REQ-0004 | Non-Functional Security | Tiedosta tehdään automaattisesti varmuuskopio muualle kaiken varalta. | [[Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
+| SECURITY-REQ-0005 | Non-Functional Security | Laitteessa tulee olla sisäänkirjautumisvaatimus käyttöä varten. | [Kijrautuminen](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md)|
+| SECURITY-REQ-0006 | Non-Functional Security | Tieto tallentuu tietokantaan, mistä ohjelma hakee sitä kutsusta. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
+| SECURITY-REQ-0007 | Non-Functional Security | Tuotteessa tulee olla teollisuustason virustentorjuntaohjelma ja tietoturvaa ylläpitävä ohjelma. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
 
 
 ### Käytettävyys
@@ -341,14 +341,14 @@ Tärkeimpiin ominaisuuksiin kuuluu potilaan tukeminen käytön aikana, datan ker
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
-| [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Pakollinen | Asiakastarpeet ja tuki |
-| [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Pakollinen | Datan Keruu |
-| [Ominaisuus - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%203.md) | Pakollinen | Presentaatio |
-| [Ominaisuus - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%204.md) | Pakollinen | Huolto |
-| [Ominaisuus - 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md) | Pakollinen | Sensorit |
-| [Ominaisuus - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) | Pakollinen | Kirjautuminen |
-| [Ominaisuus - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%207.md) | Pakollinen | Säädettävät ortoosit |
-| [Ominaisuus - 8](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%208.md) | Pakollinen | Tietoturva |
+| [Ominaisuus - 1](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 1.md) | Pakollinen | Asiakastarpeet ja tuki |
+| [Ominaisuus - 2](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) | Pakollinen | Datan Keruu |
+| [Ominaisuus - 3](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 3.md) | Pakollinen | Presentaatio |
+| [Ominaisuus - 4](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 4.md) | Pakollinen | Huolto |
+| [Ominaisuus - 5](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 5.md) | Pakollinen | Sensorit |
+| [Ominaisuus - 6](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 6.md) | Pakollinen | Kirjautuminen |
+| [Ominaisuus - 7](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md) | Pakollinen | Säädettävät ortoosit |
+| [Ominaisuus - 8]([Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) | Pakollinen | Tietoturva |
 
 
 ## Hyväksyntätestit
@@ -366,14 +366,14 @@ Perinteinen listaus
 
 | Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
 |:-:|:-:|:-:|:-:|
-| 15.2.2019 [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Tuen saanti käytössä | Projektivastaava/turvallisuudenvalvoja | 1 |
-| 15.2.2019 [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Datan keruu käytössä | Terapeutti/projektivastaava | 2 |
-| 15.11.2019 [Ominaisuus - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%203.md) | Käyttöliittymän presentaatio | Projektivastaava/kehittäjä | 3 |
-| 5.12.2029 [Ominaisuus - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%204.md) | Huolto | Kehittäjä/tekniikko | 4 |
-| 20.1.2020 [Ominaisuus - 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md) | Sensorit | Projektivastaava/kehittäjä| 5 |
-| 7.4.2020 [Ominaisuus - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) | Sisäänkirjautuminen | Projektivastaava/kehittäjä | 6 |
-| 7.6.2020 [Ominaisuus - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%207.md) | Säädettävät ortoosit | Projektivastaava/kehittäjä | 7 |
-| 25.8.2020 [Ominaisuus - 8](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%208.md) | Säädettävät ortoosit | Projektivastaava/kehittäjä | 8 |
+| 15.2.2019 [Ominaisuus - 1](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 1.md) | Tuen saanti käytössä | Projektivastaava/turvallisuudenvalvoja | 1 |
+| 15.2.2019 [Ominaisuus - 2](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) | Datan keruu käytössä | Terapeutti/projektivastaava | 2 |
+| 15.11.2019 [Ominaisuus - 3](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 3.md) | Käyttöliittymän presentaatio | Projektivastaava/kehittäjä | 3 |
+| 5.12.2029 [Ominaisuus - 4](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 4.md) | Huolto | Kehittäjä/tekniikko | 4 |
+| 20.1.2020 [Ominaisuus - 5](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 5.md) | Sensorit | Projektivastaava/kehittäjä| 5 |
+| 7.4.2020 [Ominaisuus - 6](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 6.md) | Sisäänkirjautuminen | Projektivastaava/kehittäjä | 6 |
+| 7.6.2020 [Ominaisuus - 7](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md) | Säädettävät ortoosit | Projektivastaava/kehittäjä | 7 |
+| 25.8.2020 [Ominaisuus - 8](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |Tietoturva | Projektivastaava/kehittäjä | 8 |
 
 # Tilakone
 
