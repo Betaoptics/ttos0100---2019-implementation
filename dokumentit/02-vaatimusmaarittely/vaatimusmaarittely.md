@@ -326,7 +326,7 @@ Toiminnot tulee löyttää helposti ja valinta-valikko olisi hyvä olla aina nä
 
 Palvelun prototyyppikuvassa on menu aina näkyvillä. Myös asiakaskansioon päästään käsiksi haluttaessa. Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunnosta.
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/MockUpOS.PNG)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
