@@ -18,7 +18,7 @@ käyttöliittymän info ja käyttöohje, sisäänkirjautumis pakko, tietokanta p
 
 | | |
 |:-:|:-:|
-| [Use Case - 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 1.md) | |
+| [Use Case - 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md) | |
 | [Profiili - 3](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md) | |
 | [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | |
 | [Asiakaspolku - 2](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath2.PNG) |  | 
