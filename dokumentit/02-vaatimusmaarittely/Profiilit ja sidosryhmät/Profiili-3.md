@@ -11,7 +11,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer5.JPG)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Customer5.JPG)
 
 
 **Nimi ja taustaa**
