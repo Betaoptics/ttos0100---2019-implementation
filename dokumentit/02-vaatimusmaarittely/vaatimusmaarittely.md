@@ -204,13 +204,13 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Tuote on ergonominen.  |  |
-| CONSTRAINT-REQ-S00001 | Constrain | Tuote on skaalautuva. ||
-| CONSTRAINT-REQ-S00002 | Constrain | Tuotteen on helppokäyttöinen. ||
-| CONSTRAINT-REQ-S00003 | Constrain | Tuote on asiakasturvallinen. ||
-| CONSTRAINT-REQ-S00004 | Constrain | Tuote on tietoturvallinen. ||
-| CONSTRAINT-REQ-S00005 | Constrain | Tuote on siirrettävissä. ||
-| CONSTRAINT-REQ-S00006 | Constrain | Tuote on ketterä. ||
+| CONSTRAINT-REQ-S00000 | Constrain | Tuote on ergonominen.  | Kävelykuntoutusterapeutti/Kehittäjä |
+| CONSTRAINT-REQ-S00001 | Constrain | Tuote on skaalautuva. | Projektivastaava/Kehittäjä |
+| CONSTRAINT-REQ-S00002 | Constrain | Tuotteen on helppokäyttöinen. | Kävelykuntoutusterapeutti/Projektivastaava/Tekniikko/Kehittäjä  |
+| CONSTRAINT-REQ-S00003 | Constrain | Tuote on asiakasturvallinen. | Tekniikko/Kehittäjä |
+| CONSTRAINT-REQ-S00004 | Constrain | Tuote on tietoturvallinen. | Kehittäjä |
+| CONSTRAINT-REQ-S00005 | Constrain | Tuote on siirrettävissä. | Tekniikko |
+| CONSTRAINT-REQ-S00006 | Constrain | Tuote on ketterä. | Kävelykuntoutusterapeutti/Kehittäjä |
 
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
