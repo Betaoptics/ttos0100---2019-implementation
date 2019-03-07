@@ -326,15 +326,15 @@ Tärkeimpiin ominaisuuksiin kuuluu potilaan tukeminen käytön aikana, datan ker
 | [Ominaisuus - 5](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 5.md) | Pakollinen | Sensorit |
 | [Ominaisuus - 6](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 6.md) | Pakollinen | Kirjautuminen |
 | [Ominaisuus - 7](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md) | Pakollinen | Säädettävät ortoosit |
-| [Ominaisuus - 8]([Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) | Pakollinen | Tietoturva |
+| [Ominaisuus - 8](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) | Pakollinen | Tietoturva |
 
 
 ## Hyväksyntätestit
 
 | VaatimusID | Testitapaus | Kuvaus |  |								
 |:-:|:-:|:-:|:-:|
-| USE-CASE-001,SYSTEM-REQ-0001, SYSTEM-REQ-0012, FT01.1 | [Test Case Id TST.REQ003](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Hyv%C3%A4ksynt%C3%A4testit/Hyv%C3%A4ksynt%C3%A4testi-1.md) | Hyväksyntätesti  |
-| USE-CASE-002, USE-CASE-003, USABILITY-REQ-0001, SYSTEM-REQ-0013, FT02.1, FT03.1, FT05.1 | [Test Case Id TST.REQ004](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Hyv%C3%A4ksynt%C3%A4testit/Hyv%C3%A4ksynt%C3%A4testi-2.md) | Hyväksyntätesti  |
+| USE-CASE-001,SYSTEM-REQ-0001, SYSTEM-REQ-0012, FT01.1 | [Test Case Id TST.REQ003](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-1.md) | Hyväksyntätesti  |
+| USE-CASE-002, USE-CASE-003, USABILITY-REQ-0001, SYSTEM-REQ-0013, FT02.1, FT03.1, FT05.1 | [Test Case Id TST.REQ004](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-2.md) | Hyväksyntätesti  |
 
 ## Julkaisun suunnitelma
 
@@ -377,7 +377,7 @@ graph TD
 
 Kuvio 1. Kuvaa toimivaltuuksia ja luokkia kuvallisesti.
 
-![ClassDiagram](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/ClassDiagram.PNG)
+![ClassDiagram](dokumentit/02-vaatimusmaarittely/kuvat/ClassDiagram.PNG)
 
 Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
@@ -385,7 +385,7 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
 ### Yleinen sijoittelunäkymä (Deployment diagram )
 
-![DeploymentDiagram](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/DeploymentProgram.PNG)
+![DeploymentDiagram](dokumentit/02-vaatimusmaarittely/kuvat/DeploymentProgram.PNG)
 
 # Arkkitehtuuriin/teknologiaan liityvät vaatimukset
 
@@ -411,7 +411,7 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
 ### Tietokantakuvaus (Database ER-diagram)
 
- ![DataBaseER](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/DataBase.PNG)
+ ![DataBaseER](dokumentit/02-vaatimusmaarittely/kuvat/DataBase.PNG)
 
 # Testauksen vaatimukset (Testing requirements)
 
