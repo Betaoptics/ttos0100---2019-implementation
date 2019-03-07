@@ -10,7 +10,7 @@
 
 ### Kuvaus
 
-Sisäänkirjautumisen prosessin on oltava vaivatonta, selkeää, intuitiivista ja sen liikuvuus pitää olla osana suunnittelua.+8
+Sisäänkirjautumisen prosessin on oltava vaivatonta, selkeää, intuitiivista ja sen liikuvuus pitää olla osana suunnittelua.
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
@@ -27,11 +27,6 @@ Sisäänkirjautumisen prosessin on oltava vaivatonta, selkeää, intuitiivista j
 * Ohjelmiston tulee olla intuitiivinen käyttää ja kaikki toiminnot pitää olla sijoiteltu loogisesti.
 * Visuaalinen presentaatio selkeää ja toiminnallisuus luotettavaa.
 * Kirjautumisessa on tilin luonti, salasananpalautus, istunto ja sessio. Näiden sisällä on myös eri toiminnallisuuksia liikuvuuden takaamiseksi.0
-
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
 
 ### Käyttöliittymänäkymä/mock 
 
