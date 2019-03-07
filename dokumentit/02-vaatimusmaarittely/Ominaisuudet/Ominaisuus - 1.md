@@ -11,8 +11,6 @@
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
 Ominaisuuden tavoite on tarjota palvelua käyttävielle asiakkaille heidän tarvitsemansa ja vaatimansa tuki.
 Laadullisesti tämä tarkoittaa sitä, että kävelykuntoutusrobotin tulee pysytä olemaan tarpeeksi vankka rakenteeltaan, siinnä pitää olla ramppi ja myös muita ruumiin tukemiseen suunniteltuja järjestelmiä. Esimerkiksi kädelle pitää pystyä helposti ottamaan tukea tarvittaessa.
 
@@ -22,8 +20,6 @@ Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaali
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
-
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
 
 | | |
 |:-:|:-:|
@@ -41,11 +37,6 @@ Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaali
 * Käyttäjän haluan, että voin käyttää kuntoutusrobottia ilman ongelmia.
 * Käyttäjänä haluan, että laitteeseen on helppo päästä ja sitä on helppo käyttää.
 * Käyttäjänä toivon, että laitten käyttö on käyttäjäystävällistä ja vaivatonta.
-
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
 
 ### Käyttöliittymänäkymä/mock 
 
