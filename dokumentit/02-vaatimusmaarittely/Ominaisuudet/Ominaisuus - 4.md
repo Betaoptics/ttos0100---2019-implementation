@@ -22,7 +22,7 @@ ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia
 
 | | |
 |:-:|:-:|
-| [Use Case - 4](hhttps://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%204.md) | |
+| [Use Case - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%204.md) | |
 | [Profiili - 8](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-8.md) | |
 | [Asiakaspolku - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%202.md) |  | 
 | [Vaatimus ReqID]() |  | 
@@ -47,8 +47,5 @@ ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
+| [Testitapaus 1](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-1.md)  | USABILITY-REQ-0001/SYSTEM-REQ-0013  | Kehittäjä/Projektivastaava |
 | | |
