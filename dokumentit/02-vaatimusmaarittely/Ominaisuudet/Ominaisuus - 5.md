@@ -33,16 +33,10 @@ Datan pitää päästä tietokantaan, jossta kävelykuntoutusterapeutin kutsuman
 * Ei ole hyvä asia jos elintärkeät sensorit eivät kerää dataa käytöstä, antavat harhaanjohtavaa dataa, rikkoutuvat liian helposti tai ovat riskialtiita kävelykunotutusrobotin käyttähjille.
 * Sensorien pitää myös pystyä erottamaan millaisesta datasta on kyse.
 
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
-
 ### Käyttöliittymänäkymä/mock 
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
 ![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
-
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
