@@ -186,7 +186,7 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 | SYSTEM-REQ-0003 | System Requirement | Kävelyrobotin tulee sisältää muun muassa ortoosit, juoksumaton ja painonkevennysjärjestelmän. | [Asiakasturvallisuus](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md) |
 | SYSTEM-REQ-0004 | System Requirement | Tarjottavien laitteiden on täytettävä lain terveydenhuollon laitteista ja tarvikkeista ja siihen tehtyjen muutosten sekä viranomaisten asettamat vaatimukset sairaanhoitotarvikkeille ja laitteille.| [Asiakasturvallisuus](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md) |
 | SYSTEM-REQ-0005 | System Requirement | Tarjottujen tuotteiden tulee täyttää Suomessa voimassaolevat työ- ja käyttöturvallisuusvaatimukset. | [Asiakasturvallisuus](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md) |
-| SYSTEM-REQ-0006 | System Requirement | Tarjottujen tuotteiden tulee olla CE-merkittyjä. ||
+| SYSTEM-REQ-0006 | System Requirement | Tarjottujen tuotteiden tulee olla CE-merkittyjä. | [Tekninen huolto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 4.md) |
 | SYSTEM-REQ-0007 | System Requirement | Laitteessa on oltava dynaaminen painonkevennysjärjestelmä, jota on voitava käyttää kaukosäätimellä. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 3.md) |
 | SYSTEM-REQ-0008 | System Requirement | Laitteen mukana tulee toimittaa 4 kappaletta valjaita erikokoisille kuntoutujille, kokojen tulee olla S, M, L ja XL tai vastaavat.| [Asiakasturvallisuus](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md) |
 | SYSTEM-REQ-0019 | System Requirement | Laitteen juoksumatolle on päästävä helposti pyörätuolilla ramppia pitkin. | [Käyttötuki](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 1.md) |
@@ -197,7 +197,7 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 | SYSTEM-REQ-0014 | System Requirement | Laitteella tulee pystyä mittaamaan vähintään seuraavat: kävelymatka, lihasten aktiivisuus, lihasten jäykkyys/vastus, alaraajanivelten liikelaajuudet ja isometriset liikevoimat. | [Datan keruu](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
 | SYSTEM-REQ-0015 | System Requirement | Laitteessa tulee olla mahdollisuus tallentaa vähintään 10 kuntoutujan mittaustulokset ja harjoitushistoria myöhempää dokumentointia varten (tallenteet tulee saada myös tulostettua). | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 3.md) ||
 | SYSTEM-REQ-0016 | System Requirement | Laitteella tai lisälaitteella on pystyttävä ohjaamaan mekaanisesti lantion sivusuuntaista liikettä painonsiirron simuloimiseksi sekä lantion kiertoa.| [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
-| SYSTEM-REQ-0017 | System Requirement | Laitteessa on oltava tietokoneyhteydellä ja voimasensoreilla varustetut alaraajaortoosit. ||
+| SYSTEM-REQ-0017 | System Requirement | Laitteessa on oltava tietokoneyhteydellä ja voimasensoreilla varustetut alaraajaortoosit. | [Datan keruu](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
 
 
 # Oleelliset huomioitavat rajoitteet
