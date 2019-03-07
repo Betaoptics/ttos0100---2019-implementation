@@ -328,7 +328,7 @@ Palvelun prototyyppikuvassa on menu aina näkyvillä ja sieltä saadaan mm. aset
 Load voidaan hakea esimerkiksi edellisen istunnon asetuksia tai tietoa edellisestä istunnosta potilaan kanssa. Modify avulla voidaan muokata mitä dataa nauhoitetaan tai muita istunnon toiminnallisuuteen liittyviä muokkauksia.
 Change Theme on täysin laadunvalvontaan liittyvä toiminto, sen avuilla voidaan vaihtaa tarvittaessa eri väriteemoja käyttäjälle, jos esimerkiksi käyttäjällä on värisokeutta.
 Change User mahdollistaa käyttäjän vaihtamisen kesken session. Se silti kuitenkin vielä varmistaa haluaako käyttäjä vaihtaa tiliä ja tallennetaanko istunnon tämänhetkinen tieto varmuudenvuoksi.
-Sign-Out toiminnolla voidaan kirjautua ulos istunnosta. Poistuessa ohjelma vielä kysyy haluaako käyttäjä tallentaa tiedon ennen istunnon lopettamista.
+Sign-Out toiminnolla voidaan kirjautua ulos istunnosta. Poistuessa ohjelma vielä kysyy haluaako käyttäjä tallentaa tiedon ennen istunnon lopettamista. Oikealla yläreunassa on EN-merkki, josta saadaan kieliasetukset. ?-merkistä saa käyttöoppaan ja muita apuvälineitä ja neuvoja käyttöjärjestelmästä.
 Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunnosta.
 
 
