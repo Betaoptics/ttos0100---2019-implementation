@@ -148,7 +148,7 @@ Kun kävelykuntoutusterapia loppuu [Profiili - 1: Potilas](http://m3268---vuosi-
 
 ![Sekvenssikaavio 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/SequenceDiagramV1.PNG)
 
-Tekstiä
+Viimeinen kuvio kuvaa sekvenssiokaaviota tapahtumakohtaisesti systeemikokonaisuutena. Tässä mallissa on huomioitu myös tietokannat.
 
 ![Sekvenssikaavio 2](dokumentit/02-vaatimusmaarittely/kuvat/SequenceV2.PNG)
 
