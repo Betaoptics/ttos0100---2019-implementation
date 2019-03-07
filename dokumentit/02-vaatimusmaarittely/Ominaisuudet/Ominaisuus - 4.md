@@ -39,11 +39,6 @@ ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia
 * Osat on hyvä huoltaa säännöllisesti.
 * Laitteet kuluu ja menee rikki, siksi osia joskus pitää korjata ja vaihtaa kokonaan uusiin.
 
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
-
 ### Käyttöliittymänäkymä/mock 
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
