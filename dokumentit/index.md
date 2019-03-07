@@ -4,7 +4,7 @@
 
 Harjoitustehtävän sisältämä dokumentaatio ei ole mitään tekeimistä alkuperäisen hankintailmoituksen  kanssa!
 
-![](https://openclipart.org/image/300px/svg_to_png/249638/AbstractDesign288.png)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Health.PNG)
 
 
 Tervetuloa tutustumaan tekemääni vaatimusmäärittelydokumenttiin!
