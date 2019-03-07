@@ -324,7 +324,13 @@ Toiminnot tulee löyttää helposti ja valinta-valikko olisi hyvä olla aina nä
 
 ## Palvelu MockUp-prototyyppi
 
-Palvelun prototyyppikuvassa on menu aina näkyvillä. Myös asiakaskansioon päästään käsiksi haluttaessa. Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunnosta.
+Palvelun prototyyppikuvassa on menu aina näkyvillä ja sieltä saadaan mm. asetukset esille. Asiakaskansioon päästään käsiksi klikkaamalla Open File haluttaessa. Save-kohdasta voidaan tallentaa istunnon tiedot ja kerätty data.
+Load voidaan hakea esimerkiksi edellisen istunnon asetuksia tai tietoa edellisestä istunnosta potilaan kanssa. Modify avulla voidaan muokata mitä dataa nauhoitetaan tai muita istunnon toiminnallisuuteen liittyviä muokkauksia.
+Change Theme on täysin laadunvalvontaan liittyvä toiminto, sen avuilla voidaan vaihtaa tarvittaessa eri väriteemoja käyttäjälle, jos esimerkiksi käyttäjällä on värisokeutta.
+Change User mahdollistaa käyttäjän vaihtamisen kesken session. Se silti kuitenkin vielä varmistaa haluaako käyttäjä vaihtaa tiliä ja tallennetaanko istunnon tämänhetkinen tieto varmuudenvuoksi.
+Sign-Out toiminnolla voidaan kirjautua ulos istunnosta. Poistuessa ohjelma vielä kysyy haluaako käyttäjä tallentaa tiedon ennen istunnon lopettamista.
+Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunnosta.
+
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
 
