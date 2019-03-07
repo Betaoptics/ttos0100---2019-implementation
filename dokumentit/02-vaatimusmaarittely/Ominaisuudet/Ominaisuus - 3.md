@@ -22,9 +22,8 @@ käyttöliittymän info ja käyttöohje, sisäänkirjautumis pakko, tietokanta p
 | [Profiili - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-3.md) | |
 | [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | |
 | [Asiakaspolku - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%202.md) |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| FUNCTIONAL-REQ-C0008 |  | 
+| TESTABILITY-REQ-0005 |  |
 
 ### Alustavat käyttäjätarinat (User Storys)
 
