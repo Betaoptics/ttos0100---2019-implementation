@@ -343,6 +343,7 @@ Tärkeimpiin ominaisuuksiin kuuluu potilaan tukeminen käytön aikana, datan ker
 | [Ominaisuus - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%204.md) | Pakollinen | Huolto |
 | [Ominaisuus - 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md) | Pakollinen | Sensorit |
 | [Ominaisuus - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) | Pakollinen | Kirjautuminen |
+| [Ominaisuus - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%207.md) | Pakollinen | Säädettävät ortoosit |
 
 
 ## Hyväksyntätestit
@@ -367,8 +368,8 @@ Perinteinen listaus
 | 15.11.2019 [Ominaisuus - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%203.md) | Käyttöliittymän presentaatio | Projektivastaava/kehittäjä | 3 |
 | 5.12.2029 [Ominaisuus - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%204.md) | Huolto | Kehittäjä/tekniikko | 4 |
 | 20.1.2020 [Ominaisuus - 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md) | Sensorit | Projektivastaava/kehittäjä| 5 |
-| 7.5.2020 [Ominaisuus - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) | Sisäänkirjautuminen | Projektivastaava/kehittäjä | 6 |
-
+| 7.4.2020 [Ominaisuus - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) | Sisäänkirjautuminen | Projektivastaava/kehittäjä | 6 |
+| 7.6.2020 [Ominaisuus - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%207.md) | Säädettävät ortoosit | Projektivastaava/kehittäjä | 7 |
 
 # Tilakone
 
