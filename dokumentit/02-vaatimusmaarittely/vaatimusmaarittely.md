@@ -356,11 +356,11 @@ Perinteinen listaus
 | Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
 |:-:|:-:|:-:|:-:|
 | 15.2.2019 [Ominaisuus - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%201.md) | Tuen saanti käytössä | Projektivastaava/turvallisuudenvalvoja | 1 |
-| 15.2.2019 [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Datan keruu käytössä | Terapeutti/projektivastaava| 2 |
-| 15.11.2019 [Ominaisuus - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%203.md) | | |
-| 5.12.2029 [Ominaisuus - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%204.md) | | |
-| 20.1.2020 [Ominaisuus - 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md) | Datan keruu käytössä | Terapeutti/projektivastaava| 2 |
-| 7.5.2020 [Ominaisuus - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) | Datan keruu käytössä | Terapeutti/projektivastaava| 2 |
+| 15.2.2019 [Ominaisuus - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%202.md) | Datan keruu käytössä | Terapeutti/projektivastaava | 2 |
+| 15.11.2019 [Ominaisuus - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%203.md) | Käyttöliittymän presentaatio | Projektivastaava/kehittäjä | 3 |
+| 5.12.2029 [Ominaisuus - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%204.md) | Huolto | Kehittäjä/tekniikko | 4 |
+| 20.1.2020 [Ominaisuus - 5](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%205.md) | Sensorit | Projektivastaava/kehittäjä| 5 |
+| 7.5.2020 [Ominaisuus - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) | Sisäänkirjautuminen | Projektivastaava/kehittäjä | 6 |
 
 
 # Tilakone
