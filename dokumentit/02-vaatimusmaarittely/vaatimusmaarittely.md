@@ -135,11 +135,11 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 1. Asiakaspolku: Asiakaspolussa potilas saa diagnoosin sairaudesta. Hänestä lähetetään lähete paikalliseen sairaalaan. Tämän jälkeen potilas soittaa sairaalan ja kuulee jatkotoimenpiteistä. Yhteydenoton aikana hän sopii lääkärin kanssa ajan. Tämän jälkeen potilas tulee kävelykuntoutusterapiaan ja kuulee, että kävelykuntoutusterapiaan on tullut uusi kävelykuntoutusrobotin tukema kuntoutusmuoto  Lääkärin kanssa he sopivat, että potilas ossallistuu kävelykuntoutusterapiaan kävelykuntoutusrobottia hyödyntäen. Potilaasta kysytään perustietoja jos lähetteessä ei jo ole ja tiedot syötetään käyttöjärjestelmään. Käyttöjärjestelmä tallentaa tiedot tietokantaan. Kun potilas alkaa käyttämään kävelykuntoutusrobottia, se tallentaa potilaasta dataa, tallentaa tiedot tietokantaan ja kysyttäessä suorittaa kyselun ja esittää tiedot käyttöjärjestelmässä.
 
-![Asiakaspolku 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku1.PNG)
+![Asiakaspolku 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath1.PNG)
 
 2. Asiakaspolku: Asiakaspolku kuvaa kävelykuntoutusterapeutin asiakaspolkua. Työpaikalle kehitellään uusi kävelykuntoutusrobotti ja sitä aletaan käyttämään osana kävelykuntoutusterapiaa. Tämän uuden työkalun avulla kävelykuntousterapeutti voi auttaa klinikalla käyviä potilaita paremmin paranemisprosessissa. Kehitysvaiheessa kuntoutusterapeutti antaa palautetta mitä olisi hyvä olla laitteessa ja millaisia tarpeita potilailla voi olla. Käytössä hän arvioi miten hyvin laite vastaa asiakastarpeita. Lopulta hän lähettää palautetta jatkokehittelylle.
 
-![Asiakaspolku 2](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/Asiakaspolku2.PNG)
+![Asiakaspolku 2](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath2.PNG)
 
 [Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) on ongelma. Hänellä diagnisoidaan sairaus tai hän joutuu onnettomuuteen.
 Ensiapuun hakeuduttuaan ensihoitaja kertoo, että hän tulee tarvitsemaan kävelykuntoutusterapiaa ja ensihoitaja antaa potilaalle tarvittavat tiedot missä sellaista kävelykuntoutusterapiaa järjestetään.
@@ -151,7 +151,7 @@ Kuntoutuksen aikana [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaa
 kuuntelee [Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) asikaskokemuksia.
 Kun kävelykuntoutusterapia loppuu [Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) kohdalta, lähettää [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
 
-![Sekvenssikaavio 1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/SequenceDiagramV1.PNG)
+![Sekvenssikaavio 1](dokumentit/02-vaatimusmaarittely/kuvat/SequenceDiagramV1.PNG)
 
 Viimeinen kuvio kuvaa sekvenssiokaaviota tapahtumakohtaisesti systeemikokonaisuutena. Tässä mallissa on huomioitu myös tietokannat.
 
@@ -240,9 +240,6 @@ Laitteen pitää pystyä olemaan tarpeaksi ketterä, se ei siis saa vaikeuttaa k
 
 ## Palveluun liittyvät tärkeimmät ei-toiminnalliset vaatimukset (Non Functional Requirements)
 
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-
 Tuotteen ehdottomia ei-toiminnallisia vaatimuksia on sen käyttöön ja huoltoon liittyvät piirteet. Laitteen on oltava ergonominen käyttää sekä potilaan, että terapeutin näkökulmasta.
 Sen tulee olla intuitiivinen, eli tiedot tulee nähdä selkeästi ja vaivattomasti, ja sen esitys näytölle tulee olla loogista, selkeää, ja ulkoasun tarkoin mietittyä.
 
@@ -274,7 +271,7 @@ Tästä syystä on huomioitava ei-funktionaalisia turvallisuuteen liittyviä tek
 | SECURITY-REQ-0002 | Non-Functional Security | Tiedon tulee epäsuorasti viitata henkilöihin potilastunnuksilla, ei henkilötiedoilla. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
 | SECURITY-REQ-0003 | Non-Functional Security | Tieto tulee olla kirjoitettavissa, ylikirjoitettavissa ja poistettavissa milloin vain. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
 | SECURITY-REQ-0004 | Non-Functional Security | Tiedosta tehdään automaattisesti varmuuskopio muualle kaiken varalta. | [[Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
-| SECURITY-REQ-0005 | Non-Functional Security | Laitteessa tulee olla sisäänkirjautumisvaatimus käyttöä varten. | [Kijrautuminen](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md)|
+| SECURITY-REQ-0005 | Non-Functional Security | Laitteessa tulee olla sisäänkirjautumisvaatimus käyttöä varten. | [Kijrautuminen](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 6.md)|
 | SECURITY-REQ-0006 | Non-Functional Security | Tieto tallentuu tietokantaan, mistä ohjelma hakee sitä kutsusta. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
 | SECURITY-REQ-0007 | Non-Functional Security | Tuotteessa tulee olla teollisuustason virustentorjuntaohjelma ja tietoturvaa ylläpitävä ohjelma. | [Tietoturva](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 8.md) |
 
@@ -296,7 +293,7 @@ Toiminnot tulee löyttää helposti ja valinta-valikko olisi hyvä olla aina nä
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| TESTABILITY-REQ-0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa.  | [Kirjautuminen](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus%20-%206.md) |	
+| TESTABILITY-REQ-0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa.  | [Kirjautuminen](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 6.md) |	
 | TESTABILITY-REQ-0001 | Non-Functional Testability | Laite tulee pystyä käynnistämään ja pysäyttämään tarpeen mukaan testien tekemiseksi. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |	
 | TESTABILITY-REQ-0002 | Non-Functional Testability | Laitteen toimivuutta tulee pystyä mittaamaan eri mittareilla, kuten nopeus, vakaus ja perofrmanssi. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |	
 | TESTABILITY-REQ-0003 | Non-Functional Testability | Asetukset tulee pystyä nollaamaan ja palauttamaan tarvittaessa. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
