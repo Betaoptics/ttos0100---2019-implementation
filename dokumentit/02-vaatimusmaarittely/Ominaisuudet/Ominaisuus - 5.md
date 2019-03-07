@@ -24,9 +24,9 @@ Datan pitää päästä tietokantaan, jossta kävelykuntoutusterapeutin kutsuman
 | [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | |
 | [Profiili - 8](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-8.md) | |
 | [Asiakaspolku - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%201.md) |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| SYSTEM-REQ-0014 |  | 
+| SYSTEM-REQ-0017 |  | 
+| FUNCTIONAL-REQ-C0006 |  | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 * Kehittäjänä tavoite on luoda hyvää jälekä. Sensoreiden käyttö vaatii tarkoin suunniteltua rakennetaa laitteen sisällä ja pinnalla.
