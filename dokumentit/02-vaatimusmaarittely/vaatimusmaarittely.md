@@ -387,7 +387,13 @@ graph TD
 
 # Palvelun/ohjelmiston arkkitehtuuri 
 
+Kuvio 1. Kuvaa toimivaltuuksia ja luokkia kuvallisesti.
+
 ![ClassDiagram](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/ClassDiagram.PNG)
+
+Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
+
+![ClassDiagram2](dokumentit/02-vaatimusmaarittely/kuvat/ClassDiagramV2.PNG)
 
 ### Yleinen sijoittelunäkymä (Deployment diagram )
 
