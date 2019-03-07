@@ -5,7 +5,7 @@
 | | |
 |:-:|:-:|
 | Ominaisuus ID | FT01.1 |
-| Kuntoutusrobootin ominaisuus | Käyttäjän tuenta |
+| Asiakastarpeet ja tuki | Käyttäjän tuenta |
 | Laadunvalvoja/kehittäjä | Projektivastaava |
 | Status | Process |
 
@@ -14,7 +14,7 @@
 *Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
 
 Ominaisuuden tavoite on tarjota palvelua käyttävielle asiakkaille heidän tarvitsemansa ja vaatimansa tuki.
-Laadullisesti tämä tarkoittaa sitä, että kävelykuntoutusrobotin tulee pysytä olemaan tarpeeksi vankka antaakseen tarpeellista tukea jaloille.
+Laadullisesti tämä tarkoittaa sitä, että kävelykuntoutusrobotin tulee pysytä olemaan tarpeeksi vankka rakenteeltaan, siinnä pitää olla ramppi ja myös muita ruumiin tukemiseen suunniteltuja järjestelmiä. Esimerkiksi kädelle pitää pystyä helposti ottamaan tukea tarvittaessa.
 
 Tuotteen pitää myös olla säädettävissä kunkin yksilöllisen asiakkaan mukaan, eli robotti ja tukijärjestelmä ei saa olla liian kiinteä rakenteeltaan.
 Kävelykuntoutusrobotti ei saa myöskään olla liian tiukka, jotta se ei aiheuta muita haitallisia komplikaatiota.
@@ -49,7 +49,7 @@ esim. #8 #2
 
 ### Käyttöliittymänäkymä/mock 
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
+![](dokumentit/02-vaatimusmaarittely/kuvat/dokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
