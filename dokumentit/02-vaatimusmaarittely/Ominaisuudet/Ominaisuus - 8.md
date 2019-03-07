@@ -20,15 +20,15 @@ Ohjelmiston tulee olla tietoturvallinen. Tiedon tulee tallentua tietokantaan, se
 | [Profiili - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2.md) | Kävelykuntoutusterapeutti |
 | [Profiili - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-6.md) | Hakkeri |
 | [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | Kehittäjä |
-| [Vaatimus ReqID](CONSTRAINT-REQ-S00003) | Tuote on asiakasturvallinen | 
-| [Vaatimus ReqID](CONSTRAINT-REQ-S00004) | Tuote on tietoturvallinen | 
-| [Vaatimus ReqID](SECURITY-REQ-0001 ) | Henkilokohtainen tieto tulee turvata instituutin tietoturvastandardien mukaisesti. |
-| [Vaatimus ReqID](SECURITY-REQ-0002 ) | Tiedon tulee epäsuorasti viitata henkilöihin potilastunnuksilla, ei henkilötiedoilla. | 
-| [Vaatimus ReqID](SECURITY-REQ-0003 ) | Tieto tulee olla kirjoitettavissa, ylikirjoitettavissa ja poistettavissa milloin vain | 
-| [Vaatimus ReqID](SECURITY-REQ-0004 ) | Tiedosta tehdään automaattisesti varmuuskopio muualle kaiken varalta. | 
-| [Vaatimus ReqID](SECURITY-REQ-0005 ) | Laitteessa tulee olla sisäänkirjautumisvaatimus käyttöä varten. | 
-| [Vaatimus ReqID](SECURITY-REQ-0006 ) | Tieto tallentuu tietokantaan, mistä ohjelma hakee sitä kutsusta. | 
-| [Vaatimus ReqID](SECURITY-REQ-0007 ) | Tuotteessa tulee olla teollisuustason virustentorjuntaohjelma ja tietoturvaa ylläpitävä ohjelma. | 
+| CONSTRAINT-REQ-S00003 | Tuote on asiakasturvallinen | 
+| CONSTRAINT-REQ-S00004 | Tuote on tietoturvallinen | 
+| SECURITY-REQ-0001 | Henkilokohtainen tieto tulee turvata instituutin tietoturvastandardien mukaisesti. |
+| SECURITY-REQ-0002 | Tiedon tulee epäsuorasti viitata henkilöihin potilastunnuksilla, ei henkilötiedoilla. | 
+| SECURITY-REQ-0003 | Tieto tulee olla kirjoitettavissa, ylikirjoitettavissa ja poistettavissa milloin vain | 
+| SECURITY-REQ-0004 | Tiedosta tehdään automaattisesti varmuuskopio muualle kaiken varalta. | 
+| SECURITY-REQ-0005 | Laitteessa tulee olla sisäänkirjautumisvaatimus käyttöä varten. | 
+| SECURITY-REQ-0006 | Tieto tallentuu tietokantaan, mistä ohjelma hakee sitä kutsusta. | 
+| SECURITY-REQ-0007 | Tuotteessa tulee olla teollisuustason virustentorjuntaohjelma ja tietoturvaa ylläpitävä ohjelma. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 * Ortoosien pitää pystyä tukemaan potilaita tarpeiden mukaan.
