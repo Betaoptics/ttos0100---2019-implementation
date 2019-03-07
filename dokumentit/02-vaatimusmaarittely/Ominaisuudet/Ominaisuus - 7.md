@@ -1,9 +1,9 @@
-# Ominaisuus - 6
+# Ominaisuus - 7
 
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID | FT06.1 |
+| Ominaisuus ID | FT07.1 |
 | Säädettävät ortoosit | Laitteisto |
 | Kehiittäjä | Projektivastaava/kehittäjä |
 | Status | Process |
@@ -11,7 +11,6 @@
 ### Kuvaus
 
 Jalan tuen pitää olla sopiva, ja jalkaa tukevien ortoosien tulee olla säädettävisää.
-
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
