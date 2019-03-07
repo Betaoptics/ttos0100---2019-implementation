@@ -110,7 +110,12 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 ## Yleinen sidosryhmäkuva (Stakeholder map)
 
+1. Sidosryhmäkartta kuvaa yksittäisten potilaiden (oranssi) mahdollisia asiakastarpeita ja motiiveja kävelykuntoutusrobootin käyttötarpeeseen liittyen. Sinisellä merkatut kuvaavat projektin hallinto ja talouspuolen sidosryhmän jäseniä. Tässä tapauksessa projektin tilaajaa ja sijoittajia. Vihreät kuvaavat potilaita hoitavia kävelykuntoutusterapeutteja, joista toinen havainnollistaa mitä ongelmia myös heidänkin käyttö voi aiheuttaa. Punainen kuvaa ilkitekijää, tässä tapauksessa tietoturvauhkana toimivaa hakkeria, joka haluaa hyväksikäyttää kävelykuntoutusrobotissä käytettyä ohjelmaa henkilötiedon varastamiseen.
+
 ![](dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.PNG)
+
+2. Sidosryhmäkarttalla lilaisella kuvattavat potilaat kuvaa erillaisia esimerkki potilas ja erityistarveryhmiä ja heidän uniikkeja asiakastarpeita. Metallin sininen kuvaa sairaalaa ja millainen motiivi organisaatiolla/instituutilla on tuottaa kävelykuntoutusrobotin palveluita. Vihreä kuvaa investoijia. Turkoosi kuvaa kuntaa ja miksi kuntaa kiinnostaa tälläisten palveluiden tukeminen. Sininen kuvaa projektin tilaajaa ja hallintoa kuten edellisessäkin. Nyt oranssilla merkattu kuvaa lakiasiantuntijoita ja muita edunvalvojia ja laadunvalvojatahoja. Punainen tässä kuviossa kuvaa palvelinkehittäjiä ja projektijäseniä. Lopuksi keltainen kuvaa suomen sosiaalitoimistoja ja KELA palveluita, ja millainen suhde niillä tahoilla on palveluun. 
+
 ![](dokumentit/02-vaatimusmaarittely/kuvat/StakeHolderMapV1.JPG)
 
 
