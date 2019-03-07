@@ -35,11 +35,6 @@ Ohjelmiston tulee olla tietoturvallinen. Tiedon tulee tallentua tietokantaan, se
 * Niiden skaalautuvuus täytyy olla mahdollista.
 * Ortooseja pitää pystyä säätämään, muutoin se voi vaarantaa potilaan terveyttä ja turvallisuutta.
 
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
-
 ### Käyttöliittymänäkymä/mock 
 
 ![](ddokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
