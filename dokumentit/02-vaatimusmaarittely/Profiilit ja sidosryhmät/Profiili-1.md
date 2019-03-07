@@ -9,7 +9,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer2.JPG)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Customer2.JPG)
 
 
 **Nimi ja taustaa**
@@ -33,7 +33,6 @@ Nimeni on Asiakas x, olen kävelykuntoutusterapian asiakas.
 * I do not understand Finnish, what is it instructing me to do?
 * Olen sokea, onko laite helposti hahmtoteltavissa?
 * Toivottavasti laite pystyy näyttämään mitä tehdä, olen kuuro.
-* 
 
 
 ### Välineet ja kyvyt etc.
