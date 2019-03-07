@@ -157,16 +157,6 @@ Viimeinen kuvio kuvaa sekvenssiokaaviota tapahtumakohtaisesti systeemikokonaisuu
 
 ![Sekvenssikaavio 2](dokumentit/02-vaatimusmaarittely/kuvat/SequenceV2.PNG)
 
-```plantuml
-@startuml
-
-left to right direction 
-Bob -> Alice : hello
-
-@enduml
-
-```
-
 # Vaatimukset, käyttötapaukset ja ominaisuudet
 
 ## Tuotteen järjestelmävaatimukset ja mahdolliset rajoitukset (Key Requirements and restrictions)
@@ -175,9 +165,6 @@ Kävelykuntoutusrobotin tulee soveltua käyttöön. Sen pitää pystyä tukemaan
 Sen tulee olla kestävä, helppohuoltoinen ja luotettava. Tuotteen tulee pystyä olemaan helppokäyttöinen ja ketterä soveltuakseen erillaisiin kävelykuntoutusterapian haasteisiin ja asiakaskunnan tarpeisiin.
 Sen pitää pystyä myös olemaan helposti ymmärrettävissä ja säädettävissä, jos esimerkiksi asiakas onkin eri kokoinen, värisokea tai vaikka ulkomaalainen.
 Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, ja potilaalle näytettävän visuaalisen representaation tulee olla selkeää niin, että kuurokin ymmärtää mistä on kyse.
-
-
-Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
@@ -237,9 +224,6 @@ Se ei saa olla liina raskas ja/tai kömeplö. Laitteen tulee olla mukava ja luon
 Laitteen tulee myös olla sokealle helposti hahmoteltavissa ja tunnistettavissa, eli käyttäjälle relevantit kohdat kuten juoksumatto ja käsitukitangot tulee olla helposti käsillä, samalla kun tekniset osat tulee olla laitteiston sisällä.
 Laitteen pitää pystyä olemaan tarpeaksi ketterä, se ei siis saa vaikeuttaa kuntoutumisprosessissa käyvän kävelyn kokemusta ja harjoittelua. 
 
-
-Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
-
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | FUNCTIONAL-REQ-C0001 | Functional Requirement | Potilas kokee käytön vaivattomaksi. | [Asiakasturvallisuus](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 7.md)  |
@@ -269,9 +253,6 @@ Se ei myöskään saa olla ekonomisesti, eli taloudellisesti liian resurssikalli
 ### Suorituskyky? (Performance)
 
 Tuotteen tulee kestää käyttö ja olla käyttäjäystävällinen ja turvallinen laite.
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
