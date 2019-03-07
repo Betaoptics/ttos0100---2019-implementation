@@ -40,7 +40,7 @@ Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaali
 
 ### Käyttöliittymänäkymä/mock 
 
-[](dokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
+![](dokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
