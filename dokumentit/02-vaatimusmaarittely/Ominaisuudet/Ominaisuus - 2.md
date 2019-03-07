@@ -44,11 +44,7 @@ Ohjelmiston tarkoitus on siis palvella sit채 operoivia tahoja ja tulostaa n채yt�
 
 | Testitapaus  | Testin l채hde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
-| | |
+| [Testitapaus 2](dokumentit/02-vaatimusmaarittely/Hyv채ksynt채testit/Hyv채ksynt채testi-2.md)  | USABILITY-REQ-0001/SYSTEM-REQ-0013 | Kehitt채j채/Projektivastaava |
 
 
 
