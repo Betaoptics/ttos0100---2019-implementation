@@ -12,7 +12,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Investor.JPG)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Investor.JPG)
 
 
 **Nimi ja taustaa**
