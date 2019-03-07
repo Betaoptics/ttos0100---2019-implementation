@@ -333,8 +333,8 @@ Tärkeimpiin ominaisuuksiin kuuluu potilaan tukeminen käytön aikana, datan ker
 
 | VaatimusID | Testitapaus | Kuvaus |  |								
 |:-:|:-:|:-:|:-:|
-| USE-CASE-001,SYSTEM-REQ-0001, SYSTEM-REQ-0012, FT01.1 | [Test Case Id TST.REQ003](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-1.md) | Hyväksyntätesti  |
-| USE-CASE-002, USE-CASE-003, USABILITY-REQ-0001, SYSTEM-REQ-0013, FT02.1, FT03.1, FT05.1 | [Test Case Id TST.REQ004](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-2.md) | Hyväksyntätesti  |
+| USE-CASE-001,SYSTEM-REQ-0001, SYSTEM-REQ-0012, FT01.1 | [TST.REQ003](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-1.md) | Hyväksyntätesti  |
+| USE-CASE-002, USE-CASE-003, USABILITY-REQ-0001, SYSTEM-REQ-0013, FT02.1, FT03.1, FT05.1 | [TST.REQ004](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-2.md) | Hyväksyntätesti  |
 
 ## Julkaisun suunnitelma
 
