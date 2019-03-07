@@ -35,11 +35,6 @@ Ohjelmiston tarkoitus on siis palvella sitä operoivia tahoja ja tulostaa näyt�
 * Kuntoutusterapeuttina haluan, että laite on luotettava.
 * Kuntoutusterapeuttina haluan, että laite antaa minulle lisää tietoa potilaitteni tilanteesta.
 
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
-
 ### Käyttöliittymänäkymä/mock 
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
