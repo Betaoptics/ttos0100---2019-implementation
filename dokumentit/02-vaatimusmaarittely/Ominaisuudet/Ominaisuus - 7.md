@@ -31,15 +31,11 @@ Jalan tuen pitää olla sopiva, ja jalkaa tukevien ortoosien tulee olla säädet
 
 ### Käyttöliittymänäkymä/mock 
 
-![](ddokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
+![](dokumentit/02-vaatimusmaarittely/kuvat/ReplaceParts.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
-| | |
+| [Testitapaus 1](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-1.md) | SYSTEM-REQ-0001 | Kehittäjä/Projektivastaava |
