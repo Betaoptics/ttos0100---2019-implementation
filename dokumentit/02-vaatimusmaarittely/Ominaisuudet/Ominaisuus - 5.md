@@ -42,8 +42,6 @@ Datan pitää päästä tietokantaan, jossta kävelykuntoutusterapeutin kutsuman
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
+| [Testitapaus 1](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-1.md)  | SYSTEM-REQ-0001 | Kehittäjä/Projektivastaava |
+| [Testitapaus 2](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-2.md)  | USABILITY-REQ-0001/SYSTEM-REQ-0013 | Kehittäjä/Projektivastaava |
 | | |
