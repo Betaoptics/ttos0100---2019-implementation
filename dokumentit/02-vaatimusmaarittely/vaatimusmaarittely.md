@@ -19,7 +19,7 @@ Ohjelmiston/palvelun vaatimusmäärittely
 * [Palvelukuvaus](#palvelukuvaus)
 * [Asiakastarina](#asiakastarinat)
 * [Sidosryhmät ja profiilikuvaukset](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/tree/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t)
-* [Sidosryhmäkuva - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.md)
+* [Sidosryhmäkuva - 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.PNG)
 * [Sidosryhmäkuva - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/StakeHolderMapV1.md)
 * [Palvelu/asiakaspolku](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/tree/master/dokumentit/02-vaatimusmaarittely/Asiakaspolut)
 * [Yleinen käyttötapaus](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/tree/master/dokumentit/02-vaatimusmaarittely/Usecases)
