@@ -21,13 +21,12 @@ Ohjelmiston tarkoitus on siis palvella sit채 operoivia tahoja ja tulostaa n채yt�
 
 | | |
 |:-:|:-:|
-| [Use Case - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%202.md) | |
-| [Use Case - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%203.md) | |
-| [Profiili - 3 ](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-3.md) | |
-| [Profiili - 7 ](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | |
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| [Use Case - 2](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 2.md) | |
+| [Use Case - 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md) | |
+| [Profiili - 3 ](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhm채t/Profiili-3.mdd) | |
+| [Profiili - 7 ](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhm채t/Profiili-7.md) | |
+| SYSTEM-REQ-0014 |  | 
+| SYSTEM-REQ-0017 |  | 
 
 ### Alustavat k채ytt채j채tarinat (User Storys)
 
