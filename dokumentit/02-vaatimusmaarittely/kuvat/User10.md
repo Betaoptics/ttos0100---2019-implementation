@@ -1,1 +1,0 @@
-![User10](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Foreign.JPG)
