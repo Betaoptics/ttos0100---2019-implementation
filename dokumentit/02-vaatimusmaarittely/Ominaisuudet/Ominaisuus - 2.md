@@ -23,10 +23,10 @@ Ohjelmiston tarkoitus on siis palvella sitä operoivia tahoja ja tulostaa näyt�
 |:-:|:-:|
 | [Use Case - 2](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 2.md) | |
 | [Use Case - 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md) | |
-| [Profiili - 3 ](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.mdd) | |
-| [Profiili - 7 ](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | |
-| SYSTEM-REQ-0014 |  | 
-| SYSTEM-REQ-0017 |  | 
+| [Profiili - 3 ](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.mdd) | Kävelykuntoutusterapeutti |
+| [Profiili - 7 ](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | Kehittäjä |
+| SYSTEM-REQ-0014 | Tarjottavien laitteiden on täytettävä lain terveydenhuollon laitteista ja tarvikkeista ja siihen tehtyjen muutosten sekä viranomaisten asettamat vaatimukset sairaanhoitotarvikkeille ja laitteille. | 
+| SYSTEM-REQ-0017 | Laitteessa on oltava tietokoneyhteydellä ja voimasensoreilla varustetut alaraajaortoosit. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 
