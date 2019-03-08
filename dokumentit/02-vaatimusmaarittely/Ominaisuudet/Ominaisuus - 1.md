@@ -24,13 +24,13 @@ Sinnä ei myöskään saa olla muita irrallisia osia, jotka voisivat potentiaali
 | | |
 |:-:|:-:|
 | [Use Case - 1](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 1.md) | |
-| [Profiili - 1](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) | |
-| [Profiili - 3](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md) | |
+| [Profiili - 1](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) | Potilas |
+| [Profiili - 3](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md) | Kävelykuntoutusterapeutti|
 | [Asiakaspolku - 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath1.PNG) |  | 
 | [Asiakaspolku - 2](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath2.PNG) |  |
-| SYSTEM-REQ-0001 |  | 
-| SYSTEM-REQ-0003 |  | 
-| SYSTEM-REQ-0008 |  | 
+| SYSTEM-REQ-0001 | Laitteen tulee soveltua neurologisesti vaikeavammaiselle, erityisesti kävelykuntoutuksen akuuttivaiheeseen. | 
+| SYSTEM-REQ-0003 | Kävelyrobotin tulee sisältää muun muassa ortoosit, juoksumaton ja painonkevennysjärjestelmän. | 
+| SYSTEM-REQ-0008 | Laitteen mukana tulee toimittaa 4 kappaletta valjaita erikokoisille kuntoutujille, kokojen tulee olla S, M, L ja XL tai vastaavat. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 
