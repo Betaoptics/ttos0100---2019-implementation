@@ -16,13 +16,13 @@ Jalan tuen pitää olla sopiva, ja jalkaa tukevien ortoosien tulee olla säädet
 
 | | |
 |:-:|:-:|
-| [Profiili - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2.md) | Kehittäjä |
-| [Profiili - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2.md) | Kehittäjä |
-| [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | Kehittäjä |
-| [Profiili - 8](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-8.md) | Kehittäjä |
-| SYSTEM-REQ-0002 |  | 
-| FUNCTIONAL-REQ-C0003 |  | 
-| FUNCTIONAL-REQ-C0005 |  | 
+| [Profiili - 1](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) | Potilas |
+| [Profiili - 3](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) | Kävelykuntoutusterapeutti |
+| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) | Kehittäjä |
+| [Profiili - 8](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) | Tekniikko |
+| SYSTEM-REQ-0002 | Laitteen tulee olla robottiavusteinen, varustettuna mekaanisesti säädettävillä ortooseilla. | 
+| FUNCTIONAL-REQ-C0003 | Tuote ei vahingoita potilaita. | 
+| FUNCTIONAL-REQ-C0005 | Laitetta voidaan säätää ja se skaalautuu. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 * Ortoosien pitää pystyä tukemaan potilaita tarpeiden mukaan.
