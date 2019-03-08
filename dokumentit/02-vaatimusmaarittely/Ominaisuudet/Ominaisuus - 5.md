@@ -19,11 +19,11 @@ Datan pitää päästä tietokantaan, jossta kävelykuntoutusterapeutin kutsuman
 
 | | |
 |:-:|:-:|
-| [Use Case - 3](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%203.md) | |
-| [Use Case - 4](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Usecases/Usecase%20-%204.md) | |
-| [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | |
-| [Profiili - 8](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-8.md) | |
-| [Asiakaspolku - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/Asiakaspolku%20-%201.md) |  | 
+| [Use Case - 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md) | |
+| [Use Case - 4](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 4.md) | |
+| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | |
+| [Profiili - 8](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-8.md) | |
+| [Asiakaspolku - 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath1.PNG) |  | 
 | SYSTEM-REQ-0014 |  | 
 | SYSTEM-REQ-0017 |  | 
 | FUNCTIONAL-REQ-C0006 |  | 
