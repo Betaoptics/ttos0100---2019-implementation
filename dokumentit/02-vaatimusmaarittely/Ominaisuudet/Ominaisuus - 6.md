@@ -18,9 +18,9 @@ Sisäänkirjautumisen prosessin on oltava vaivatonta, selkeää, intuitiivista j
 | | |
 |:-:|:-:|
 | [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | Kehittäjä |
-| FUNCTIONAL-REQ-C0008 |  | 
-| PERFORMANCE-REQ-0003 |  | 
-| TESTABILITY-REQ-0005 |  | 
+| FUNCTIONAL-REQ-C0008 | Kuntouttaja pystyy helposti ymmärtämään miten laite toimii. | 
+| PERFORMANCE-REQ-0003 | Näyttöruudun presentaatio on selkeää. | 
+| TESTABILITY-REQ-0005 | Ohjelmiston tulee olla selkeä ja helposti ymmärrettävä. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 * Ohjelmistosuunnittelijan tavoite on luoda käyttäjäystävällinen käyttöjärjestelmä.
