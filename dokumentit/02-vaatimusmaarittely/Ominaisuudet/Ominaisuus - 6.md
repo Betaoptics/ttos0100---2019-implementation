@@ -17,7 +17,7 @@ Sisäänkirjautumisen prosessin on oltava vaivatonta, selkeää, intuitiivista j
 
 | | |
 |:-:|:-:|
-| [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | Kehittäjä |
+| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | Kehittäjä |
 | FUNCTIONAL-REQ-C0008 |  | 
 | PERFORMANCE-REQ-0003 |  | 
 | TESTABILITY-REQ-0005 |  | 
