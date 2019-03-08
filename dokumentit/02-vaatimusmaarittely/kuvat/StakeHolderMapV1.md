@@ -1,1 +1,0 @@
-![CustomerMapV1](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/StakeHolderMapV1.JPG)
