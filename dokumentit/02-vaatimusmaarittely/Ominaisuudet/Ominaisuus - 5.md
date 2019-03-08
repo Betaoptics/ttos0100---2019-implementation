@@ -21,12 +21,12 @@ Datan pitää päästä tietokantaan, jossta kävelykuntoutusterapeutin kutsuman
 |:-:|:-:|
 | [Use Case - 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md) | |
 | [Use Case - 4](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 4.md) | |
-| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | |
-| [Profiili - 8](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-8.md) | |
+| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | Kehittäjä |
+| [Profiili - 8](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-8.md) | Tekniikko |
 | [Asiakaspolku - 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath1.PNG) |  | 
-| SYSTEM-REQ-0014 |  | 
-| SYSTEM-REQ-0017 |  | 
-| FUNCTIONAL-REQ-C0006 |  | 
+| SYSTEM-REQ-0014 | Laitteella tulee pystyä mittaamaan vähintään seuraavat: kävelymatka, lihasten aktiivisuus, lihasten jäykkyys/vastus, alaraajanivelten liikelaajuudet ja isometriset liikevoimat. | 
+| SYSTEM-REQ-0017 | Laitteessa on oltava tietokoneyhteydellä ja voimasensoreilla varustetut alaraajaortoosit. | 
+| FUNCTIONAL-REQ-C0006 | Laite pystyy esittämään kuntoutusohjelman selkeästi monelle eri aistille. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 * Kehittäjänä tavoite on luoda hyvää jälekä. Sensoreiden käyttö vaatii tarkoin suunniteltua rakennetaa laitteen sisällä ja pinnalla.
