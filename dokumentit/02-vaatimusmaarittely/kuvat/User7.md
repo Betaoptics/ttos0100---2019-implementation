@@ -1,1 +1,0 @@
-![User7](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Customer7.JPG)
