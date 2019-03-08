@@ -1,1 +1,0 @@
-![User14](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Lawyer.jpg)
