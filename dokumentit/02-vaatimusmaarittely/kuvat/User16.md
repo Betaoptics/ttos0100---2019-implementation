@@ -1,1 +1,0 @@
-![User16](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Hopsital.JPG)
