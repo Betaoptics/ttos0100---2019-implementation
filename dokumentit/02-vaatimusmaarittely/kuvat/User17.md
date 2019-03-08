@@ -1,1 +1,0 @@
-![User17](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Kela.JPG)
