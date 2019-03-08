@@ -1,1 +1,0 @@
-![User13](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Investor.JPG)
