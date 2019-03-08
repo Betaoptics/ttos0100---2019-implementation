@@ -1,1 +1,0 @@
-![User9](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Deaf.jpg)
