@@ -16,10 +16,10 @@ Ohjelmiston tulee olla tietoturvallinen. Tiedon tulee tallentua tietokantaan, se
 
 | | |
 |:-:|:-:|
-| [Profiili - 1](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1.md) | Potilas |
-| [Profiili - 2](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2.md) | Kävelykuntoutusterapeutti |
-| [Profiili - 6](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-6.md) | Hakkeri |
-| [Profiili - 7](https://gitlab.labranet.jamk.fi/m3268---vuosi-2019/ttos0100---2019-toteutus/blob/master/dokumentit/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-7.md) | Kehittäjä |
+| [Profiili - 1](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) | Potilas |
+| [Profiili - 2](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-2.md) | Kävelykuntoutusterapeutti |
+| [Profiili - 6](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-6.md) | Hakkeri |
+| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | Kehittäjä |
 | CONSTRAINT-REQ-S00003 | Tuote on asiakasturvallinen | 
 | CONSTRAINT-REQ-S00004 | Tuote on tietoturvallinen | 
 | SECURITY-REQ-0001 | Henkilokohtainen tieto tulee turvata instituutin tietoturvastandardien mukaisesti. |
