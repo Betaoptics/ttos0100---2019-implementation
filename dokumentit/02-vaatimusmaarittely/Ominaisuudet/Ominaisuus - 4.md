@@ -25,9 +25,9 @@ ja eri osioiden pitäisi olla itsenäisiä, muista riippumattomia kokonaisuuksia
 | [Use Case - 4](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 4.md) | |
 | [Profiili - 8](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-8.md) | |
 | [Asiakaspolku - 2](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath2.PNG) |  | 
-| FUNCTIONAL-REQ-C0002 |  | 
-| FUNCTIONAL-REQ-C0003 |  | 
-| FUNCTIONAL-REQ-C0007 |  | 
+| FUNCTIONAL-REQ-C0002 | Tuote ei vahingoita potilaita. | 
+| FUNCTIONAL-REQ-C0003 | Tuote tukee potilaiden raajoja. | 
+| FUNCTIONAL-REQ-C0007 | Potilas kokee olonsa turvalliseksi laitteen käytön aikana. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 
