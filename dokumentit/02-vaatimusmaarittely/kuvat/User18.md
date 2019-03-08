@@ -1,1 +1,0 @@
-![User18](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Jkyla.jpg)
