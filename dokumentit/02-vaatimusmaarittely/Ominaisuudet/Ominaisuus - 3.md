@@ -19,11 +19,11 @@ käyttöliittymän info ja käyttöohje, sisäänkirjautumis pakko, tietokanta p
 | | |
 |:-:|:-:|
 | [Use Case - 3](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md) | |
-| [Profiili - 3](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md) | |
-| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | |
+| [Profiili - 3](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md) | Kävelykuntoutusterapeutti |
+| [Profiili - 7](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-7.md) | Kehittäjä |
 | [Asiakaspolku - 2](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath2.PNG) |  | 
-| FUNCTIONAL-REQ-C0008 |  | 
-| TESTABILITY-REQ-0005 |  |
+| FUNCTIONAL-REQ-C0008 | Laitetta voidaan säätää ja se skaalautuu. | 
+| TESTABILITY-REQ-0005 | Ohjelmiston tulee olla selkeä ja helposti ymmärrettävä. |
 
 ### Alustavat käyttäjätarinat (User Storys)
 
