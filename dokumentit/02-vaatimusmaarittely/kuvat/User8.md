@@ -1,1 +1,0 @@
-![User8](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/BlindPerson.JPG)
