@@ -309,6 +309,8 @@ Change User mahdollistaa käyttäjän vaihtamisen kesken session. Se silti kuite
 Sign-Out toiminnolla voidaan kirjautua ulos istunnosta. Poistuessa ohjelma vielä kysyy haluaako käyttäjä tallentaa tiedon ennen istunnon lopettamista. Oikealla yläreunassa on EN-merkki, josta saadaan kieliasetukset. ?-merkistä saa käyttöoppaan ja muita apuvälineitä ja neuvoja käyttöjärjestelmästä.
 Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunnosta.
 
+![Interaktiivinen malli käyttöliittymästä](https://www.figma.com/proto/uQLl2e5fCxqVpiKPBvy8FM/Kuntoutusrobotti?node-id=0%3A1&scaling=contain)
+
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
 
