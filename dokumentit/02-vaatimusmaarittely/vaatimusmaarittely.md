@@ -153,7 +153,7 @@ Kun kävelykuntoutusterapia loppuu [Profiili - 1: Potilas](dokumentit/02-vaatimu
 
 ![Sekvenssikaavio 1](dokumentit/02-vaatimusmaarittely/kuvat/SequenceDiagramV1.PNG)
 
-Viimeinen kuvio kuvaa sekvenssiokaaviota tapahtumakohtaisesti systeemikokonaisuutena. Tässä mallissa on huomioitu myös tietokannat.
+Viimeinen kuvio kuvaa sekvenssikaaviota tapahtumakohtaisesti systeemikokonaisuutena. Tässä mallissa on huomioitu myös tietokannat.
 
 ![Sekvenssikaavio 2](dokumentit/02-vaatimusmaarittely/kuvat/SequenceV2.PNG)
 
