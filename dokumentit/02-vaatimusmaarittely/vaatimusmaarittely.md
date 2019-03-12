@@ -135,7 +135,7 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 1. Asiakaspolku: Asiakaspolussa potilas saa diagnoosin sairaudesta. Hänestä lähetetään lähete paikalliseen sairaalaan. Tämän jälkeen potilas soittaa sairaalan ja kuulee jatkotoimenpiteistä. Yhteydenoton aikana hän sopii lääkärin kanssa ajan. Tämän jälkeen potilas tulee kävelykuntoutusterapiaan ja kuulee, että kävelykuntoutusterapiaan on tullut uusi kävelykuntoutusrobotin tukema kuntoutusmuoto  Lääkärin kanssa he sopivat, että potilas ossallistuu kävelykuntoutusterapiaan kävelykuntoutusrobottia hyödyntäen. Potilaasta kysytään perustietoja jos lähetteessä ei jo ole ja tiedot syötetään käyttöjärjestelmään. Käyttöjärjestelmä tallentaa tiedot tietokantaan. Kun potilas alkaa käyttämään kävelykuntoutusrobottia, se tallentaa potilaasta dataa, tallentaa tiedot tietokantaan ja kysyttäessä suorittaa kyselun ja esittää tiedot käyttöjärjestelmässä.
 
-![Asiakaspolku 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath1.PNG)
+[Asiakaspolku 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath1.PNG)
 
 2. Asiakaspolku: Asiakaspolku kuvaa kävelykuntoutusterapeutin asiakaspolkua. Työpaikalle kehitellään uusi kävelykuntoutusrobotti ja sitä aletaan käyttämään osana kävelykuntoutusterapiaa. Tämän uuden työkalun avulla kävelykuntousterapeutti voi auttaa klinikalla käyviä potilaita paremmin paranemisprosessissa. Kehitysvaiheessa kuntoutusterapeutti antaa palautetta mitä olisi hyvä olla laitteessa ja millaisia tarpeita potilailla voi olla. Käytössä hän arvioi miten hyvin laite vastaa asiakastarpeita. Lopulta hän lähettää palautetta jatkokehittelylle.
 
