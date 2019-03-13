@@ -8,7 +8,7 @@
 
 * Laatija: M3268
 * Versio 1.0.0.1
-* Potilas käyttötapaus.
+* Kävelykuntoutusterapeutti käyttötapaus.
 	
 **Käyttäjäroolit**	
 
