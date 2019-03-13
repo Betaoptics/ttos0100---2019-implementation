@@ -10,7 +10,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](kuvat/ProductOwner.JPG)
+![](../kuvat/ProductOwner.JPG)
 
 
 **Nimi ja taustaa**
