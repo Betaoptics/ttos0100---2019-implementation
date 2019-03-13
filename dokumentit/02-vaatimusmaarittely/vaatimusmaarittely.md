@@ -18,7 +18,7 @@ Ohjelmiston/palvelun vaatimusmäärittely
 * [Tuotteen kuvaus](#johdatus)
 * [Palvelukuvaus](#palvelunkuvaus)
 * [Asiakastarina](#vaatimusmäärittelyn-toimittaja)
-* [Sidosryhmät ja profiilikuvaukset](#sidosryhmät ja profiilikuvaukset)
+* [Sidosryhmät ja profiilikuvaukset](#sidosryhmäkuva)
 * [Sidosryhmäkuva - 1](kuvat/CustomerMapV1.PNG)
 * [Sidosryhmäkuva - 2](kuvat/StakeHolderMapV1.JPG)
 * [Palvelu/asiakaspolku](#palveluasiakaspolku-customer-journeypath)
@@ -108,7 +108,7 @@ I: Olen kävelykuntoutusrobotin tilaaja, ja tavoitteena olisi saada toimiva käv
 
 J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
-## Yleinen sidosryhmäkuva (Stakeholder map)
+## Yleinen sidosryhmäkuva (Stakeholder map) <a name="sidosryhmäkuva"></a>
 
 1. Sidosryhmäkartta kuvaa yksittäisten potilaiden (oranssi) mahdollisia asiakastarpeita ja motiiveja kävelykuntoutusrobootin käyttötarpeeseen liittyen. Sinisellä merkatut kuvaavat projektin hallinto ja talouspuolen sidosryhmän jäseniä. Tässä tapauksessa projektin tilaajaa ja sijoittajia. Vihreät kuvaavat potilaita hoitavia kävelykuntoutusterapeutteja, joista toinen havainnollistaa mitä ongelmia myös heidänkin käyttö voi aiheuttaa. Punainen kuvaa ilkitekijää, tässä tapauksessa tietoturvauhkana toimivaa hakkeria, joka haluaa hyväksikäyttää kävelykuntoutusrobotissä käytettyä ohjelmaa henkilötiedon varastamiseen.
 
