@@ -11,7 +11,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Hacker.png)
+![](../kuvat/Hacker.png)
 
 
 **Nimi ja taustaa**
