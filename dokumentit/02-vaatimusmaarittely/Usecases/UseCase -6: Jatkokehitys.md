@@ -1,7 +1,7 @@
 Use Case - 1: Kirjautuminen
 
 
-![](../kuvat/Ohjkirjautuminen.PNG)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Jatkokehitys.png)
 
 
 **Info**
