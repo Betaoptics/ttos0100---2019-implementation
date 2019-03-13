@@ -1,7 +1,7 @@
 # Use Case - 2 
 
 
-![](https://student.labranet.jamk.fi/~M3268/Ohjelmistosuunnittelu/Projektity%C3%B6/UseCase2V1.PNG)
+![](../kuvat/UseCase2V1.PNG)
 
 
 **Info**
