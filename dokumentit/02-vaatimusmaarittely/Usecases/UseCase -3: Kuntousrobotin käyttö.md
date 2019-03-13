@@ -1,7 +1,7 @@
  Use Case - 3: Kuntoutusrobotin käyttö
 
 
-![](../kuvat/Ohjkirjautuminen.PNG)
+![](../kuvat/Kaytto.png)
 
 
 **Info**
