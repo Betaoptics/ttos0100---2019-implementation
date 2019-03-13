@@ -1,7 +1,7 @@
  Use Case - 1: Kirjautuminen
 
 
-![](../kuvat/Ohjkirjautuminen.PNG)
+![](../kuvat/Jatkokehitys.png)
 
 
 **Info**
@@ -12,38 +12,39 @@
 	
 **Käyttäjäroolit**	
 
-1. Kävelykuntoutusterapeutti
-2. Operoija.
-3. Tuotteen/palvelun käyttäjä.
+1. Kehittäjä
+2. Insinööri.
+3. Projektivastaava.
 
 **Esitiedot/ehdot**	
 
 1. Kävelykuntoutusrobotti hyväksytään läpi ja julkaistaan tuote.
-2. Tuotetta käytetään kävelykuntoutusterapiassa.
+2. Tuotetta jatkokehitetään.
 
 **Käyttötapauksen kuvaus**
 
-1. Alkaa käyttämään ohjelmistoa.
-2. Kirjaa tiedot omasta käyttäjästä ensimmäisellä kerralla.
-3. Kirjautuu sisään.
-4. Aloittaa istunnon.
-5. Operoi ohjelmistoa terapiassa.
-6. Lopettaa istunnon.
-7. Kirjautuu ulos.
+1. Tuote julkaistaan.
+2. Asiakaskuuleminen palautteesta.
+3. Selvitetään jatkokehityksen tarpeet.
+4. Dokumentoidaan tiedot.
+5. Haetaan resurssit ja tehdään sopimus jatkokehittämiselle.
+6. Jatkokehtietään
 
 **Poikkeukset**
  
-* P1 - Lopettaa tuotteen käytön jos se ei vastaa vaatimuksia.	
+* P1 - Lopettaa tuotteen jatkokehityksen jos ei ole enää kehitettävää.	
 
-* P2 - Lopettaa palvelun käytön jos palvelu tai palvelija ei vastaa vaatimuksia.
+* P2 - Lopettaa tuotteen jatkokehityksen jos ei saa resursseja jatkokehitykseen ja sopimuksia laadittua.
+
+* P3 - Lopettaa tuotteen jatkokehityksen jos tarve on siirtyä toisen projektin pariin.
 	
 **Lopputulos**	
 
-* Kävelykuntoutusterapeutti saa asiakastarpeita vastaavan palvelun, eli saa tarpeitaan vastaavan kävelykuntoutusterapian.
+* Jatkokehitystä tehdään tarpeen mukaan.
 
 **Käyttötiheys** 
 
-* Käyttötapaus vastaa ympäripyöreästi kirjautumista. Jos kirjautuminen ei toimi tai on vaarallinen, sitä ei hyväksytä.
+* Käyttötapaus vastaa jatkokehitystä.
 
 **Muuta**	
 
