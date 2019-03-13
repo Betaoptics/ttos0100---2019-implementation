@@ -442,7 +442,7 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
 ### Kaikki vaatimukset listattuna
 
-* [Linkki vaatimuslistaan](Vaatimuslista.md)
+* [Linkki vaatimuslistaan](vaatimuslista.md)
 * [Linkki harjoitustyön vaatimuslistaan](http://ttos0100.pages.labranet.jamk.fi/eamk-2019/harjoitustehtavat/harjoitus-ht1/)
 
 
