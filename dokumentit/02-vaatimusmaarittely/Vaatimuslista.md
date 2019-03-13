@@ -78,7 +78,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 
 
-### Toiminnalliset vaatimukset**
+### Toiminnalliset vaatimukset
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
