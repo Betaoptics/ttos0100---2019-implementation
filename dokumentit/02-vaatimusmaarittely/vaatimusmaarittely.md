@@ -383,6 +383,8 @@ Kuvio 1. Kuvaa toimivaltuuksia ja luokkia kuvallisesti.
 
 ![](kuvat/ClassDiagram.PNG)
 
+## Luokkakaavio (Class diagram)
+
 Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
 ![](kuvat/ClassDiagramV2.PNG)
