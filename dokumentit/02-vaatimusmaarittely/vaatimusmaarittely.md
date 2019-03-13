@@ -433,8 +433,8 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
 # Tunnistetut riskit ja testikohteet
 
-* Riski -> Testaustarve
-* Vaatimus -> Testaustarve
+* Riski: Potilas haavoittuu käytön aikana puutteellisen asiakasturvallisuuden takia -> Testaustarve: Varmistetaan asiakasturvallisuus
+* Vaatimus: Laite tukee potilasta ja on ketterä -> Testaustarve: Asiakaspalaute prosessissa ja sen soveltaminen jatkokehitykseen
 
 
 ### Kaikki vaatimukset listattuna
