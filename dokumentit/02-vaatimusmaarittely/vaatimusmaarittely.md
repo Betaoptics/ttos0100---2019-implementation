@@ -434,7 +434,6 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 | TST.REQ006 | Vastaako tuote potilaan vaatimuksiin | Testattavuus | Kehittäjä/Projektivastaava |
 
 
-
 # Tunnistetut riskit ja testikohteet
 
 * Riski: Potilas haavoittuu käytön aikana puutteellisen asiakasturvallisuuden takia -> Testaustarve: Varmistetaan asiakasturvallisuus
