@@ -19,8 +19,8 @@ Ohjelmiston/palvelun vaatimusmäärittely
 * [Palvelukuvaus](#palvelunkuvaus)
 * [Asiakastarina](#vaatimusmäärittelyn-toimittaja)
 * [Sidosryhmät ja profiilikuvaukset](#sidosryhmät ja profiilikuvaukset)
-* [Sidosryhmäkuva - 1](dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.PNG)
-* [Sidosryhmäkuva - 2](dokumentit/02-vaatimusmaarittely/kuvat/StakeHolderMapV1.JPG)
+* [Sidosryhmäkuva - 1](kuvat/CustomerMapV1.PNG)
+* [Sidosryhmäkuva - 2](kuvat/StakeHolderMapV1.JPG)
 * [Palvelu/asiakaspolku](#palveluasiakaspolku-customer-journeypath)
 * [Yleinen käyttötapaus](#tärkeimmät-käyttötapaukset-general-use-cases)
 * [Yleiset toiminnalliset vaatimukset](#palveluun-liittyvät-tärkeimmät-toiminnalliset-vaatimukset-functional-requirements)
@@ -112,11 +112,11 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 1. Sidosryhmäkartta kuvaa yksittäisten potilaiden (oranssi) mahdollisia asiakastarpeita ja motiiveja kävelykuntoutusrobootin käyttötarpeeseen liittyen. Sinisellä merkatut kuvaavat projektin hallinto ja talouspuolen sidosryhmän jäseniä. Tässä tapauksessa projektin tilaajaa ja sijoittajia. Vihreät kuvaavat potilaita hoitavia kävelykuntoutusterapeutteja, joista toinen havainnollistaa mitä ongelmia myös heidänkin käyttö voi aiheuttaa. Punainen kuvaa ilkitekijää, tässä tapauksessa tietoturvauhkana toimivaa hakkeria, joka haluaa hyväksikäyttää kävelykuntoutusrobotissä käytettyä ohjelmaa henkilötiedon varastamiseen.
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/CustomerMapV1.PNG)
+![](kuvat/CustomerMapV1.PNG)
 
 2. Sidosryhmäkarttalla lilaisella kuvattavat potilaat kuvaa erillaisia esimerkki potilas ja erityistarveryhmiä ja heidän uniikkeja asiakastarpeita. Metallin sininen kuvaa sairaalaa ja millainen motiivi organisaatiolla/instituutilla on tuottaa kävelykuntoutusrobotin palveluita. Vihreä kuvaa investoijia. Turkoosi kuvaa kuntaa ja miksi kuntaa kiinnostaa tälläisten palveluiden tukeminen. Sininen kuvaa projektin tilaajaa ja hallintoa kuten edellisessäkin. Nyt oranssilla merkattu kuvaa lakiasiantuntijoita ja muita edunvalvojia ja laadunvalvojatahoja. Punainen tässä kuviossa kuvaa palvelinkehittäjiä ja projektijäseniä. Lopuksi keltainen kuvaa suomen sosiaalitoimistoja ja KELA palveluita, ja millainen suhde niillä tahoilla on palveluun. 
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/StakeHolderMapV1.JPG)
+![](kuvat/StakeHolderMapV1.JPG)
 
 
 ## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
@@ -139,7 +139,7 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 
 2. Asiakaspolku: Asiakaspolku kuvaa kävelykuntoutusterapeutin asiakaspolkua. Työpaikalle kehitellään uusi kävelykuntoutusrobotti ja sitä aletaan käyttämään osana kävelykuntoutusterapiaa. Tämän uuden työkalun avulla kävelykuntousterapeutti voi auttaa klinikalla käyviä potilaita paremmin paranemisprosessissa. Kehitysvaiheessa kuntoutusterapeutti antaa palautetta mitä olisi hyvä olla laitteessa ja millaisia tarpeita potilailla voi olla. Käytössä hän arvioi miten hyvin laite vastaa asiakastarpeita. Lopulta hän lähettää palautetta jatkokehittelylle.
 
-![Asiakaspolku 2](dokumentit/02-vaatimusmaarittely/kuvat/CustomerPath2.PNG)
+![](kuvat/CustomerPath2.PNG)
 
 [Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) on ongelma. Hänellä diagnisoidaan sairaus tai hän joutuu onnettomuuteen.
 Ensiapuun hakeuduttuaan ensihoitaja kertoo, että hän tulee tarvitsemaan kävelykuntoutusterapiaa ja ensihoitaja antaa potilaalle tarvittavat tiedot missä sellaista kävelykuntoutusterapiaa järjestetään.
@@ -151,11 +151,11 @@ Kuntoutuksen aikana [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaa
 kuuntelee [Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) asikaskokemuksia.
 Kun kävelykuntoutusterapia loppuu [Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) kohdalta, lähettää [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md) vielä palautetta palveluista ja tuotteista vastaaville tahoille.
 
-![Sekvenssikaavio 1](dokumentit/02-vaatimusmaarittely/kuvat/SequenceDiagramV1.PNG)
+![](kuvat/SequenceDiagramV1.PNG)
 
 Viimeinen kuvio kuvaa sekvenssikaaviota tapahtumakohtaisesti systeemikokonaisuutena. Tässä mallissa on huomioitu myös tietokannat.
 
-![Sekvenssikaavio 2](dokumentit/02-vaatimusmaarittely/kuvat/SequenceV2.PNG)
+![](kuvat/SequenceV2.PNG)
 
 # Vaatimukset, käyttötapaukset ja ominaisuudet
 
@@ -312,7 +312,7 @@ Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunn
 [Interaktiivinen malli käyttöliittymästä](https://www.figma.com/proto/uQLl2e5fCxqVpiKPBvy8FM/Kuntoutusrobotti?node-id=0%3A1&scaling=contain)
 
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Sessio.png)
+![](kuvat/Sessio.png)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
@@ -379,15 +379,15 @@ graph TD
 
 Kuvio 1. Kuvaa toimivaltuuksia ja luokkia kuvallisesti.
 
-![ClassDiagram](dokumentit/02-vaatimusmaarittely/kuvat/ClassDiagram.PNG)
+![](kuvat/ClassDiagram.PNG)
 
 Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
-![ClassDiagram2](dokumentit/02-vaatimusmaarittely/kuvat/ClassDiagramV2.PNG)
+![](kuvat/ClassDiagramV2.PNG)
 
 ### Yleinen sijoittelunäkymä (Deployment diagram )
 
-![DeploymentDiagram](dokumentit/02-vaatimusmaarittely/kuvat/DeploymentProgram.PNG)
+![](kuvat/DeploymentProgram.PNG)
 
 # Arkkitehtuuriin/teknologiaan liityvät vaatimukset
 
@@ -413,7 +413,7 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
 ### Tietokantakuvaus (Database ER-diagram)
 
- ![DataBaseER](dokumentit/02-vaatimusmaarittely/kuvat/DataBase.PNG)
+ ![DataBaseER](kuvat/DataBase.PNG)
 
 # Testauksen vaatimukset (Testing requirements)
 
