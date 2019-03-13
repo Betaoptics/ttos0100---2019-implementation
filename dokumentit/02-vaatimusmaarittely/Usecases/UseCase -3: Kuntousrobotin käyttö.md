@@ -1,7 +1,7 @@
  Use Case - 3: Kuntoutusrobotin käyttö
 
 
-![](../kuvat/Kaytto.png)
+![](dokumentit/02-vaatimusmaarittely/kuvat/Potilaskaytto.PNG)
 
 
 **Info**
@@ -12,24 +12,22 @@
 	
 **Käyttäjäroolit**	
 
-1. Kävelykuntoutusterapeutti
-2. Operoija.
+1. Potilas
+2. Asiakas
 3. Tuotteen/palvelun käyttäjä.
 
 **Esitiedot/ehdot**	
 
-1. Kävelykuntoutusrobotti hyväksytään läpi ja julkaistaan tuote.
-2. Tuotetta käytetään kävelykuntoutusterapiassa.
+1. Kuntoutusrobotti auttaa parantumisessa.
+2. Palvelu on turvallinen.
 
 **Käyttötapauksen kuvaus**
 
-1. Alkaa käyttämään ohjelmistoa.
-2. Kirjaa tiedot omasta käyttäjästä ensimmäisellä kerralla.
-3. Kirjautuu sisään.
-4. Aloittaa istunnon.
-5. Operoi ohjelmistoa terapiassa.
-6. Lopettaa istunnon.
-7. Kirjautuu ulos.
+1. Tulee kävelykuntousrobotille.
+2. Laitetaan valjaat päälle.
+3. Käyttää osana harjoittelua.
+4. Otaa valjaat pois.
+5. Lopettaa käytön.
 
 **Poikkeukset**
  
@@ -39,11 +37,11 @@
 	
 **Lopputulos**	
 
-* Kävelykuntoutusterapeutti saa asiakastarpeita vastaavan palvelun, eli saa tarpeitaan vastaavan kävelykuntoutusterapian.
+* Potilas saa tarvitsemaansa kävelykuntoutusterapiaa.
 
 **Käyttötiheys** 
 
-* Käyttötapaus vastaa ympäripyöreästi kirjautumista. Jos kirjautuminen ei toimi tai on vaarallinen, sitä ei hyväksytä.
+* Käyttötapaus vastaa potilaan käyttöä.
 
 **Muuta**	
 
