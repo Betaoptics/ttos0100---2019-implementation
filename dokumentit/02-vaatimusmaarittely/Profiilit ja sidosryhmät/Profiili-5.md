@@ -12,7 +12,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Lawyer.jpg)
+![](../kuvat/Lawyer.jpg)
 
 
 **Nimi ja taustaa**
