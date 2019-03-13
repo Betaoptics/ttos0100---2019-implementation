@@ -10,7 +10,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/ProductOwner.JPG)
+![](kuvat/ProductOwner.JPG)
 
 
 **Nimi ja taustaa**
