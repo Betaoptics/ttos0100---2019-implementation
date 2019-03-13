@@ -4,7 +4,7 @@
 
 Harjoitustehtävän sisältämä dokumentaatio ei ole mitään tekeimistä alkuperäisen hankintailmoituksen  kanssa!
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Health.PNG)
+![](02-vaatimusmaarittely/kuvat/Health.PNG)
 
 
 Tervetuloa tutustumaan tekemääni vaatimusmäärittelydokumenttiin!
