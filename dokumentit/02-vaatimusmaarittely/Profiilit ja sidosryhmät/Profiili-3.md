@@ -11,7 +11,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Customer5.JPG)
+![](kuvat/Customer5.JPG)
 
 
 **Nimi ja taustaa**
