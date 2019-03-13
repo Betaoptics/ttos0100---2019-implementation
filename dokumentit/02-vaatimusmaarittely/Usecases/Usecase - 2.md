@@ -1,4 +1,4 @@
-# Use Case - 2 
+# Use Case - 2: Kävelykuntoutusterapeuttii hyödyntää kuntoutusrobottia osana terapiaa
 
 
 ![](../kuvat/UseCase2V1.PNG)
