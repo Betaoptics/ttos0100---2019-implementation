@@ -1,7 +1,7 @@
  Use Case - 1: Kirjautuminen
 
 
-![](../kuvat/Kaytto.png)
+![](../kuvat/Kirjautuminen.png)
 
 
 **Info**
@@ -18,17 +18,18 @@
 
 **Esitiedot/ehdot**	
 
-1. Tieto tuotteesta tulee olla saatavilla.
-2. Tuote ja palvelu tulee olla saatavissa.
-3. Palvelun tulee vastata kuntoutusterapeutin vaatimuksia.
+1. Kävelykuntoutusrobotti hyväksytään läpi ja julkaistaan tuote.
+2. Tuotetta käytetään kävelykuntoutusterapiassa.
 
 **Käyttötapauksen kuvaus**
 
-1. Saa tiedon työpaikalla kehiteltävästä kävelykuntoutusrobotista.
-2. Osallistuu kehitykseen palautteella.
-3. Osallistuu testauksen kehittelyyn.
-4. Kokeilee laitetta.
-5. Operoi laitetta terapiassa.
+1. Alkaa käyttämään ohjelmistoa.
+2. Kirjaa tiedot omasta käyttäjästä ensimmäisellä kerralla.
+3. Kirjautuu sisään.
+4. Aloittaa istunnon.
+5. Operoi ohjelmistoa terapiassa.
+6. Lopettaa istunnon.
+7. Kirjautuu ulos.
 
 **Poikkeukset**
  
@@ -42,7 +43,7 @@
 
 **Käyttötiheys** 
 
-* Käyttötapaus vastaa ympäripyöreästi potilaan, eli käyttäjäkunnan käyttötapausta. Kävelykuntoutusrobotti-palvelussa sairaalassa tämä on yleisin käyttötapaus.
+* Käyttötapaus vastaa ympäripyöreästi kirjautumista. Jos kirjautuminen ei toimi tai on vaarallinen, sitä ei hyväksytä.
 
 **Muuta**	
 
