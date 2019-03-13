@@ -21,16 +21,16 @@ Ohjelmiston/palvelun vaatimusmäärittely
 * [Sidosryhmät ja profiilikuvaukset](#sidosryhmäkuva)
 * [Sidosryhmäkuva - 1](kuvat/CustomerMapV1.PNG)
 * [Sidosryhmäkuva - 2](kuvat/StakeHolderMapV1.JPG)
-* [Palvelu/asiakaspolku](#palveluasiakaspolku-customer-journeypath)
-* [Yleinen käyttötapaus](#tärkeimmät-käyttötapaukset-general-use-cases)
-* [Yleiset toiminnalliset vaatimukset](#palveluun-liittyvät-tärkeimmät-toiminnalliset-vaatimukset-functional-requirements)
-* [Yleiset ei-toiminnalliset vaatimukset](#palveluun-liittyvät-tärkeimmät-ei-toiminnalliset-vaatimukset-non-functional-requirements)
-* [Palvelu MockUp](#palvelu-mockup-prototyyppi)
-* [Tärkeimmät ominaisuudet](#tärkeimmät-tunnistetut-ominaisuudetpiirteet-features)
-* [Julkaisun suunnitelma](#julkaisun-suunnitelma)
-* [Palvelun/ohjelmiston arkkitehtuuri](#palvelunohjelmiston-arkkitehtuuri)
-* [Testaus ja laadunvarmistus](#testauksen-vaatimukset-testing-requirements)
-* [Lähteet](#dokumentit-standardit-ja-lähteet)
+* [Palvelu/asiakaspolku](#palveluasiakaspolku)
+* [Yleinen käyttötapaus](#käyttötapaukset)
+* [Yleiset toiminnalliset vaatimukset](#toiminnalliset)
+* [Yleiset ei-toiminnalliset vaatimukset](#eitoiminnalliset)
+* [Palvelu MockUp](#mockup)
+* [Tärkeimmät ominaisuudet](#ominaisuudetpiirteet)
+* [Julkaisun suunnitelma](#julkaisunsuunnitelma)
+* [Palvelun/ohjelmiston arkkitehtuuri](#arkkitehtuuri)
+* [Testaus ja laadunvarmistus](#testaus)
+* [Lähteet](#lähteet)
 
 # Johdatus
 
@@ -131,7 +131,7 @@ J: Olen sijoittaja, ja haluan selvittää onko tuote talouskelpoinen.
 * [Profiili - 8: Tekniikko](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-8.md)
 
 
-## Palvelu/asiakaspolku (Customer Journey/Path)
+## Palvelu/asiakaspolku (Customer Journey/Path) <a name="asiakaspolku"></a>
 
 1. Asiakaspolku: Asiakaspolussa potilas saa diagnoosin sairaudesta. Hänestä lähetetään lähete paikalliseen sairaalaan. Tämän jälkeen potilas soittaa sairaalan ja kuulee jatkotoimenpiteistä. Yhteydenoton aikana hän sopii lääkärin kanssa ajan. Tämän jälkeen potilas tulee kävelykuntoutusterapiaan ja kuulee, että kävelykuntoutusterapiaan on tullut uusi kävelykuntoutusrobotin tukema kuntoutusmuoto  Lääkärin kanssa he sopivat, että potilas ossallistuu kävelykuntoutusterapiaan kävelykuntoutusrobottia hyödyntäen. Potilaasta kysytään perustietoja jos lähetteessä ei jo ole ja tiedot syötetään käyttöjärjestelmään. Käyttöjärjestelmä tallentaa tiedot tietokantaan. Kun potilas alkaa käyttämään kävelykuntoutusrobottia, se tallentaa potilaasta dataa, tallentaa tiedot tietokantaan ja kysyttäessä suorittaa kyselun ja esittää tiedot käyttöjärjestelmässä.
 
@@ -200,7 +200,7 @@ Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, j
 | CONSTRAINT-REQ-S00006 | Constrain | Tuote on ketterä. | Kävelykuntoutusterapeutti/Kehittäjä |
 
 
-## Tärkeimmät käyttötapaukset (General Use Cases)
+## Tärkeimmät käyttötapaukset (General Use Cases) <a name="käyttötapaukset"></a>
 
 Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) ja kävelykuntouitusterapeutti [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/).
 Kävelykuntoutusterapeutti saa työpaikalleen kävelykuntoutusrobotin ja työryhmän kanssa he alkavat analysoimaan miten uusi työkalu voidaan parhaiten integroida osana kuntoutusohjelmaa.
@@ -216,7 +216,7 @@ Kun kuntoutusohjelma loppuu, koostetaan kaikki tiedot omiin luokkiinsa ja jälle
 * [Käyttötapaus 3 - Kehittämisprosessi ennen ja julkaisun jälkeen](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md)
 * [Käyttötapaus 4 - Laitteen fyysinen huolto ja korjaus](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 4.md)
 
-## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
+## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements) <a name="toiminnalliset"></a>
 
 Toiminnallisia vaatimuksia liittyvät tuotteen toimintoihin käytännössä. Laitteen pitää pystyä olemaan turvallinen asiakkaalle ja käyttäjälle, eli se ei saa olla liian hutera tai liian kireä.
 Se ei saa olla liina raskas ja/tai kömeplö. Laitteen tulee olla mukava ja luonnollinen käyttää ja sen pitää osata mukailla ihmisen jalan rakennetta tavalla, joka tukee sitä. Myös silloinkin kun kyseessä on jalka-proteesi.
@@ -238,7 +238,7 @@ Laitteen pitää pystyä olemaan tarpeaksi ketterä, se ei siis saa vaikeuttaa k
 | FUNCTIONAL-REQ-C0010 | Functional Requirement | Käyttöä voidaan soveltaa tarvittaessa. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 3.md) |
 
 
-## Palveluun liittyvät tärkeimmät ei-toiminnalliset vaatimukset (Non Functional Requirements)
+## Palveluun liittyvät tärkeimmät ei-toiminnalliset vaatimukset (Non Functional Requirements) <a name="eitoiminnalliset"></a>
 
 Tuotteen ehdottomia ei-toiminnallisia vaatimuksia on sen käyttöön ja huoltoon liittyvät piirteet. Laitteen on oltava ergonominen käyttää sekä potilaan, että terapeutin näkökulmasta.
 Sen tulee olla intuitiivinen, eli tiedot tulee nähdä selkeästi ja vaivattomasti, ja sen esitys näytölle tulee olla loogista, selkeää, ja ulkoasun tarkoin mietittyä.
@@ -300,7 +300,7 @@ Toiminnot tulee löyttää helposti ja valinta-valikko olisi hyvä olla aina nä
 | TESTABILITY-REQ-0004 | Non-Functional Testability | Laitteen tulee kyetä komplekseihinkin harjoituksiin. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
 | TESTABILITY-REQ-0005 | Non-Functional Testability | Ohjelmiston tulee olla selkeä ja helposti ymmärrettävä. | [Ohjelmisto](dokumentit/02-vaatimusmaarittely/Ominaisuudet/Ominaisuus - 2.md) |
 
-## Palvelu MockUp-prototyyppi
+## Palvelu MockUp-prototyyppi <a name="mockup"></a>
 
 Palvelun prototyyppikuvassa on menu aina näkyvillä ja sieltä saadaan mm. asetukset esille. Asiakaskansioon päästään käsiksi klikkaamalla Open File haluttaessa. Save-kohdasta voidaan tallentaa istunnon tiedot ja kerätty data.
 Load voidaan hakea esimerkiksi edellisen istunnon asetuksia tai tietoa edellisestä istunnosta potilaan kanssa. Modify avulla voidaan muokata mitä dataa nauhoitetaan tai muita istunnon toiminnallisuuteen liittyviä muokkauksia.
@@ -315,7 +315,7 @@ Lisäksi näytöllä on kuntoutusterapeutille tärkeää tietoa aisakkaan istunn
 ![](kuvat/Sessio.png)
 
 
-## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
+## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features) <a name="ominaisuudetpiirteet"></a>
 
 Tärkeimpiin ominaisuuksiin kuuluu potilaan tukeminen käytön aikana, datan keruu, datan kääntö ja selkeä presentaatio operaivalle taholle, sekä huolto.
 
@@ -338,7 +338,7 @@ Tärkeimpiin ominaisuuksiin kuuluu potilaan tukeminen käytön aikana, datan ker
 | USE-CASE-001,SYSTEM-REQ-0001, SYSTEM-REQ-0012, FT01.1 | [TST.REQ003](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-1.md) | Hyväksyntätesti  |
 | USE-CASE-002, USE-CASE-003, USABILITY-REQ-0001, SYSTEM-REQ-0013, FT02.1, FT03.1, FT05.1 | [TST.REQ004](dokumentit/02-vaatimusmaarittely/Hyväksyntätestit/Hyväksyntätesti-2.md) | Hyväksyntätesti  |
 
-## Julkaisun suunnitelma
+## Julkaisun suunnitelma <a name="julkaisunsuunnitelmat"></a>
 
 
 
@@ -375,7 +375,7 @@ graph TD
 ```
 
 
-# Palvelun/ohjelmiston arkkitehtuuri 
+# Palvelun/ohjelmiston arkkitehtuuri <a name="arkkitehtuuri"></a>
 
 ## Käsitekaavio (Concept Diagram)
 
@@ -419,7 +419,7 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 
  ![DataBaseER](kuvat/DataBase.PNG)
 
-# Testauksen vaatimukset (Testing requirements)
+# Testauksen vaatimukset (Testing requirements) <a name="testaus"></a>
 
 ### Testattavuus
 
@@ -446,7 +446,7 @@ Kuvio 2. Kuvaa luokkakaaviota ohjelmistossa.
 * [Linkki harjoitustyön vaatimuslistaan](http://ttos0100.pages.labranet.jamk.fi/eamk-2019/harjoitustehtavat/harjoitus-ht1/)
 
 
-### Dokumentit, standardit ja lähteet
+### Dokumentit, standardit ja lähteet <a name="lähteet"></a>
 
 Tässä osiossa on kaikki projektiin liittyvät dokumentit, standardit ja lähteet listattuna, sekä tarkempi sanallinen selvennys mikäli se on tarpeellista.
 
