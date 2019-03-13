@@ -377,6 +377,8 @@ graph TD
 
 # Palvelun/ohjelmiston arkkitehtuuri 
 
+##Käsitekaavio (Concept Diagram)
+
 Kuvio 1. Kuvaa toimivaltuuksia ja luokkia kuvallisesti.
 
 ![](kuvat/ClassDiagram.PNG)
