@@ -12,7 +12,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Investor.JPG)
+![](../kuvat/Investor.JPG)
 
 
 **Nimi ja taustaa**
