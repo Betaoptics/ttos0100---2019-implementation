@@ -1,4 +1,4 @@
-Use Case - 1: Kirjautuminen
+Use Case - 2. Ohjelmiston käyttö
 
 
 ![](../kuvat/Kaytto.png)
