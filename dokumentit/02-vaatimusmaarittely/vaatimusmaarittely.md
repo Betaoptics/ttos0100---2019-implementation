@@ -202,7 +202,7 @@ Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, j
 
 ## Tärkeimmät käyttötapaukset (General Use Cases) <a name="käyttötapaukset"></a>
 
-Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat potilas [Profiili - 1](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-1/) ja kävelykuntouitusterapeutti [Profiili - 2](http://m3268---vuosi-2019.pages.labranet.jamk.fi/ttos0100---2019-toteutus/02-vaatimusmaarittely/Profiilit%20ja%20sidosryhm%C3%A4t/Profiili-2/).
+Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat[Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) ja [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md).
 Kävelykuntoutusterapeutti saa työpaikalleen kävelykuntoutusrobotin ja työryhmän kanssa he alkavat analysoimaan miten uusi työkalu voidaan parhaiten integroida osana kuntoutusohjelmaa.
 
 Kun kuntoutusrobotti läpäisee tarvittavat testit, voi kävelykuntoutuksesta vastaava työryhmä alkaa käyttämään sitä osana kuntoutusohjelmaa.
