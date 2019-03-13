@@ -9,7 +9,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Customer2.JPG)
+![](kuvat/Customer2.JPG)
 
 
 **Nimi ja taustaa**
