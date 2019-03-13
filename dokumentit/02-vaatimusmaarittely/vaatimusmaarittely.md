@@ -202,19 +202,24 @@ Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, j
 
 ## Tärkeimmät käyttötapaukset (General Use Cases) <a name="käyttötapaukset"></a>
 
+![](kuvat/GeneralUseCaseV2.png)
+
 Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat[Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) ja [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md).
 Kävelykuntoutusterapeutti saa työpaikalleen kävelykuntoutusrobotin ja työryhmän kanssa he alkavat analysoimaan miten uusi työkalu voidaan parhaiten integroida osana kuntoutusohjelmaa.
-
 Kun kuntoutusrobotti läpäisee tarvittavat testit, voi kävelykuntoutuksesta vastaava työryhmä alkaa käyttämään sitä osana kuntoutusohjelmaa.
-Kävelykuntoutusterapiaan päästessä potilas aloittaa kävelyrobotin käyttämisen osana kuntoutusterapian ohjelmaa kävelykuntousterapeutin ohjeistuksen tukemana.
 
+Kävelykuntoutusterapiaan päästessä potilas aloittaa kävelyrobotin käyttämisen osana kuntoutusterapian ohjelmaa kävelykuntousterapeutin ohjeistuksen tukemana.
 Käytön aikana potilas ja terapeutti ovat keskenään vuorovaikutuksessa ja toimivat yhdessä tavoitteena potilaan parantuminen. Samalla prosessista kerätään tarpeellista tietoa eri osa-aluista.
 Kun kuntoutusohjelma loppuu, koostetaan kaikki tiedot omiin luokkiinsa ja jälleenvälitetään sitä eteenpäin palvelun laadun parantamiseksi ja tuotekehittelyä varten.
 
-* [Käyttötapaus 1 - Potilas hakee kuntoutuspalvelua](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 1.md)
-* [Käyttötapaus 2 - Kävelykuntoutusterapeuttii hyödyntää kuntoutusrobottia osana terapiaa](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 2.md)
-* [Käyttötapaus 3 - Kehittämisprosessi ennen ja julkaisun jälkeen](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 3.md)
-* [Käyttötapaus 4 - Laitteen fyysinen huolto ja korjaus](dokumentit/02-vaatimusmaarittely/Usecases/Usecase - 4.md)
+Tuotetta kehitetetään jatkossa vielä lisää ja kuullaan asiakkaita. Tekniikko huoltaa ja korjaa kävelykuntoutusrobottia tarpeen mukaan.
+
+* [Käyttötapaus 1 - Kirjautuminen](dokumentit/02-vaatimusmaarittely/Usecases/UseCase -1: Kirjautuminen.md)
+* [Käyttötapaus 2 - Ohjelmiston käyttö](dokumentit/02-vaatimusmaarittely/Usecases/UseCase -2: Ohjelmistonkayttöo.md)
+* [Käyttötapaus 3 - Kuntoutusrobotin käyttö](dokumentit/02-vaatimusmaarittely/Usecases/UseCase -3: Kuntousrobotin käyttö.md)
+* [Käyttötapaus 4 - Huolto ja korjaus](dokumentit/02-vaatimusmaarittely/Usecases/UseCase -4: Korjaus ja huolto.md)
+* [Kayttötapaus 5- Kehittely](dokumentit/02-vaatimusmaarittely/Usecases/UseCase -5: Kehittely.md)
+* [Kayttötapaus 5- Jatko kehittely](dokumentit/02-vaatimusmaarittely/Usecases/UseCase -6: Jatkokehitys.md)
 
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements) <a name="toiminnalliset"></a>
 
