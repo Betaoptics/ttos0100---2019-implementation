@@ -8,7 +8,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Developer.JPG)
+![](../kuvat/Developer.JPG)
 
 
 **Nimi ja taustaa**
