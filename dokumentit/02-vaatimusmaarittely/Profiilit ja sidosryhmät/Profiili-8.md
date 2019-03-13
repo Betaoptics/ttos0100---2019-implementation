@@ -8,7 +8,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Technician.jpg)
+![](../kuvat/Technician.jpg)
 
 
 **Nimi ja taustaa**
