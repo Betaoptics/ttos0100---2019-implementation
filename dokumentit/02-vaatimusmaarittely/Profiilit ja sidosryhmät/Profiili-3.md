@@ -11,7 +11,7 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](kuvat/Customer5.JPG)
+![](../kuvat/Customer5.JPG)
 
 
 **Nimi ja taustaa**
