@@ -1,5 +1,10 @@
 Use Case - 1: Kirjautuminen
 
+```plantuml
+@startuml
+Kehittäjä --> (Jatkokehittely)
+@enduml
+```
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/Jatkokehitys.png)
 
