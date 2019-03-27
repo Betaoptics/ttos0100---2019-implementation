@@ -1,5 +1,10 @@
 Use Case - 5: Kehittäminen
 
+```plantuml
+@startuml
+Kehittäjä --> (Kehittely)
+@enduml
+```
 
 ![](../kuvat/Kehitys.png)
 
