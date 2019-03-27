@@ -6,8 +6,6 @@ Tekniikko --> (Korjaus ja huolto)
 @enduml
 ```
 
-![](../kuvat/Huolto.png)
-
 
 **Info**
 
