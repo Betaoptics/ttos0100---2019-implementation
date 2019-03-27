@@ -202,6 +202,23 @@ Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, j
 
 ## Tärkeimmät käyttötapaukset (General Use Cases) <a name="käyttötapaukset"></a>
 
+```plantuml
+
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor customer
+actor clerk
+rectangle checkout {
+  customer -- (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) -- clerk
+}
+@enduml
+
+```
+
 ![](kuvat/GeneralUseCaseV2.png)
 
 Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat[Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) ja [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md).
