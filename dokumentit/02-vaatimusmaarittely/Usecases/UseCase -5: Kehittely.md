@@ -2,7 +2,7 @@ Use Case - 5: Kehittäminen
 
 ```plantuml
 @startuml
-Kehittäjä --> (Kehittely)
+Kehittäjä --> (Ohjelmiston Kehittely)
 @enduml
 ```
 
