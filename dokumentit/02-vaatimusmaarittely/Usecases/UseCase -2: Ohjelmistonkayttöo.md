@@ -1,5 +1,10 @@
 Use Case - 2. Ohjelmiston käyttö
 
+```plantuml
+@startuml
+Kävelykuntoutusrobotti --> (Ohjelmiston käyttö)
+@enduml
+```
 
 ![](../kuvat/Kaytto.png)
 
