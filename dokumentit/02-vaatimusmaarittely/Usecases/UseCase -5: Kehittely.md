@@ -6,7 +6,6 @@ Kehittäjä --> (Kehittely)
 @enduml
 ```
 
-![](../kuvat/Kehitys.png)
 
 
 **Info**
