@@ -1,5 +1,10 @@
  Use Case - 3: Kuntoutusrobotin käyttö
 
+```plantuml
+@startuml
+Potilas --> (Kuntoutusrobotin käyttö)
+@enduml
+```
 
 ![](dokumentit/02-vaatimusmaarittely/kuvat/Potilaskaytto.PNG)
 
