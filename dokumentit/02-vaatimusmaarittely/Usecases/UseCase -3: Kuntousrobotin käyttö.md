@@ -6,8 +6,6 @@ Potilas --> (Kuntoutusrobotin käyttö)
 @enduml
 ```
 
-![](dokumentit/02-vaatimusmaarittely/kuvat/Potilaskaytto.PNG)
-
 
 **Info**
 
