@@ -223,8 +223,6 @@ rectangle Kävelykuntoutusrobotti {
 
 ```
 
-![](kuvat/GeneralUseCaseV2.png)
-
 Tärkeimmissä tapauksissa on kuntoutusrobotin käyttöä aktiivisimmin käyttävät tahot. Nämä tahot ovat[Profiili - 1: Potilas](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-1.md) ja [Profiili - 3: Kävelykuntoutusterapeutti](dokumentit/02-vaatimusmaarittely/Profiilit ja sidosryhmät/Profiili-3.md).
 Kävelykuntoutusterapeutti saa työpaikalleen kävelykuntoutusrobotin ja työryhmän kanssa he alkavat analysoimaan miten uusi työkalu voidaan parhaiten integroida osana kuntoutusohjelmaa.
 Kun kuntoutusrobotti läpäisee tarvittavat testit, voi kävelykuntoutuksesta vastaava työryhmä alkaa käyttämään sitä osana kuntoutusohjelmaa.
