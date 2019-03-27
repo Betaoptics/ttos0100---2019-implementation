@@ -207,13 +207,17 @@ Laitteen kohdat tulee olla helposti tunnistettavissa sokeillekkin asiakkaille, j
 @startuml
 left to right direction
 skinparam packageStyle rectangle
-actor customer
-actor clerk
-rectangle checkout {
-  customer -- (checkout)
-  (checkout) .> (payment) : include
-  (help) .> (checkout) : extends
-  (checkout) -- clerk
+actor Kävelykuntoutusterapeutti
+actor Potilas
+actor Tekniikko
+actor Kehittäjä
+rectangle Kävelykuntoutusrobotti {
+  Kävelykuntoutusterapeutti --> (Kirjautuminen)
+  Kävelykuntoutusterapeutti --> (Ohjelmiston käyttö)
+  Potilas --> (Koulutusrobotin käyttö)
+  (Korjaus ja huolto) <-- Tekniikko
+  (Ohjelmiston kehittely) <-- Kehittäjä
+  (Jatkokehittely) <-- Kehittäjä
 }
 @enduml
 
