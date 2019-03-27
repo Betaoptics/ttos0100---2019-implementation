@@ -1,5 +1,10 @@
  Use Case - 4: Korjaus ja huolto
 
+```plantuml
+@startuml
+Tekniikko --> (Korjaus ja huolto)
+@enduml
+```
 
 ![](../kuvat/Huolto.png)
 
