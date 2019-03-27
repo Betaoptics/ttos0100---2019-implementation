@@ -6,7 +6,6 @@ Kävelykuntoutusrobotti --> (Ohjelmiston käyttö)
 @enduml
 ```
 
-![](../kuvat/Kaytto.png)
 
 
 **Info**
